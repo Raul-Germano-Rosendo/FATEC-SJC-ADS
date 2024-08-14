@@ -1,0 +1,5 @@
+a = input ('Insira um número:')
+b = input ('Insira um número:')
+c = input ('Insira um número:')
+print (a+b+c)
+x = input ()

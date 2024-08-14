@@ -1,0 +1,200 @@
+ex.1
+#Faça um programa que peça dois números inteiros e imprima a soma desses dois números
+numero1=int(input(" Digite o primeiro número "))
+numero2=int(input(" Digite o segundo número "))
+soma=(numero1+numero2)
+print (soma)
+
+ex.2
+#Escreva um programa que leia um valor em metros e o exiba convertido em milímetro
+#
+#   String ou Str é usado para palavras
+#   Int é usado para números inteiros
+#   Float é usado para números decimais
+#
+#Metro -> Milímetro = 1 -> 1000
+#
+#Lembre se da regra das chaves, dos colchetes e dos parenteses-
+#   {[(Os parenteses são lidos primeiro nas contas)]}
+#       {Terceiro as Chaves[Segundo os Colchetes(Primeiro os Parenteses)]}
+
+valormetro=(float(input(" Digite o Valor em Metros ")))
+valorconvertido=(valormetro)*1000
+print (valorconvertido)
+
+ex.3
+#Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule o total em segundos
+#
+#
+#   Dia -> 24 Horas
+#   Hora -> 60 Minutos
+#   Minuto -> 60 segundos
+#
+#   Segundos somados
+#
+#       1 Dia = 86400 segundos
+#       1 Hora = 3600 segundos
+#       1 Minuto = 60 segundos
+#
+
+dia = int(input(" Insira os Dias "))
+diasegundo = (((dia*24)*60)*60)
+print (diasegundo)
+hora = int(input(" Insira as Horas "))
+horasegundo =((hora*60)*60)
+print (horasegundo)
+minuto = int(input(" Insira os Minutos "))
+minutosegundo = (minuto*60)
+print (minutosegundo)
+segundo = int(input(" Insira os Segundos "))
+print (segundo)
+final = (diasegundo+horasegundo+minutosegundo+segundo)
+print (final)
+
+ex.4
+#Faça um programa que calcule o aumento de um salário.
+#Ele deve solicitar o valor do salário e a porcentagem do aumento.
+#Exiba o valor do aumento e do novo salário
+#
+#   valor do salário + Porcentagem
+#   exibir a Porcentagem
+#   exibir o novo salário
+#
+
+salarioatual=float(input(" Insira o salário atual "))
+aumento=float(input(" Insira a porcentagem de Aumento "))
+salarioaumento=(salarioatual*aumento)/100
+print ((" Este é seu Aumento "),"R$",salarioaumento)
+print (("Este é seu salário pós aumento "),salarioaumento+salarioatual)
+
+ex.5
+#Solicite o preço de uma mercadoria e o percentual de desconto.
+#Exiba o valor do desconto e o preço a pagar.
+#
+#       'Porcentagem'=(valor*porcentagem)/100
+#
+#
+#
+
+mercadoria=float(input(" Preço da mercadoria "))
+valordesconto=float(input(" Desconto "))
+desconto=(mercadoria*valordesconto)/100
+print ("R$",desconto)
+mercadoriadesconto = mercadoria - desconto
+print (" Preço a pagar é ",mercadoriadesconto)
+
+ex.6
+#Calcule o tempo de uma viagem de carro.
+#Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
+#
+#   -   Variável Distância
+#       -   Variável Velocidade Média
+#       -   1 hora = 60 minutos
+#
+#
+#
+#
+#
+#
+
+
+distancia=int(input(" Distância a percorrer "))
+velmedia=int(input(" Insira a Velocidade Média "))
+tempoviagem=(distancia/velmedia)
+print ("O tempo de sua Viagem será",(tempoviagem),("Horas"), "À", (velmedia), ("Km/h"))
+
+ex.7
+#Converta uma temperatura digitada em Celsius para Fahrenheit.
+#
+#   F=9*C/5+32
+#
+#
+#                   F de fahrenheit
+#                       C de Celsius
+#
+
+celsius=float(input(" Digite a Temperatura em Celsius "))
+fahrenheit=(9*celsius/5+32)
+print (fahrenheit)
+
+ex.8
+#Agora Faça o contrário, de Fahrenheit para Celsius
+#
+#           Faça a formula invertida
+#                       I
+#                       I
+#                       V
+#           Se F=9*C/5+32 Logo C=(F-32)*5/9
+#
+fahrenheit = int(input(" Insira a Temperatura em Fahrenheits "))
+celsius = (fahrenheit-32)*5/9
+print (celsius)
+
+ex.9
+#Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo 
+#usuário, assim como a quantidade de dias pelos quais o carro foi alugado.
+#Calcule o preço a pagar, sabendo que o carro custa R$ 60,00 por dia e R$ 0,15 por km rodado.
+#
+#
+#
+#
+#
+#
+
+
+kmpercorrido = float(input(" Kilometros Percorridos "))
+quantidadedias = float(input(" Dias Alugados "))
+valordistancia = (kmpercorrido*0.15)
+valordia = (quantidadedias*60)
+valorfinal = (valordistancia+valordia)
+print (" Total a Pagar Pelo Aluguel é ", " R$",(valorfinal))
+
+ex.10
+#calcule quantos dias de vida um fumante perderá. Exiba o total de dias
+#
+#       -Variáveis
+#       -1 dia = 1440 min
+#       -vidaperdida = 10min*cgrpd
+#       -cgrpd (cigarro por dia)
+#       -anosfumando
+#       -diasperdidos
+#
+cgrpd = float(input(" Quantos cigarros por dia você fuma? "))
+anosfumando = float(input(" À Quantos anos você fuma? "))
+anoperdido = (anosfumando*365)
+minperdidos = (cgrpd*10)*anoperdido
+diasperdidos = (minperdidos/60)/24
+print (f'{diasperdidos:.1f} Dias de Vida Perdidos ')
+
+print (" Fôdeu ")
+
+
+#Codigo Prof. Massanori
+
+#q_cig = int(input('Por favor, insira a quantidade de cigarros fumados por dia: '))
+#q_ano = int(input('Agora insira a quantidade em anos que vocÃª Ã© fumante: '))
+#t_dias = q_ano * 365
+#t_cig = q_cig * t_dias
+#perda_vida = t_cig / 144
+#print(f'VocÃª perdeu {perda_vida:.1f} dia/s da sua vida. ')
+
+ex.11
+#
+#       Para elevar um número em Python, utilize " ** " (Duplo Asterisco)
+#       
+#   a Função "len" te permite calcular o tamanho de uma string "str"
+#
+#
+#
+
+print (2**10000)
+
+#teste = 2*10
+
+#
+#       Formula TravaPthon
+#       print (2**100000)
+#
+
+
+
