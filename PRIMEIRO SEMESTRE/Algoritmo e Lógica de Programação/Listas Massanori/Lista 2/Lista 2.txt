@@ -1,0 +1,148 @@
+exercicio 1 
+
+#Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser
+#um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+
+
+
+
+lado1 = float(input("Digite o valor do primeiro lado: "))
+lado2 = float(input("Digite o valor do segundo lado: "))
+lado3 = float(input("Digite o valor do terceiro lado: "))
+
+if lado1 + lado2 > lado3 and lado1 + lado3 > lado2 and lado2 + lado3 > lado1:
+    print("Os valores inseridos podem formar um triângulo.")
+    
+    resp = input("Deseja continuar? s/n: ").lower()
+    
+    if resp == "s":
+        pass  # Como você quer continuar, 'pass' mantém o fluxo do programa
+    else:
+        quit()  # Use quit() ou exit() para sair do programa
+
+    if lado1 == lado2 == lado3:
+        print("Este é um triângulo equilátero.")
+    elif lado1 == lado2 or lado1 == lado3 or lado2 == lado3:
+        print("Este é um triângulo isósceles.")
+    else:
+        print("Este é um triângulo escaleno.")
+else:
+    print("Os valores inseridos não podem formar um triângulo.")
+
+    
+
+exercicio 2 
+
+
+ano = int(input("Digite um ano para verificar se é bissexto: "))
+
+# Verifica se o ano é bissexto
+if (ano % 4 == 0 and ano % 100 != 0) or (ano % 400 == 0):
+    print(f"{ano} é um ano bissexto.")
+else:
+    print(f"{ano} não é um ano bissexto.")
+
+
+exercicio 3
+
+carga_kilo = float(input("Quantos quilos João pescou hoje? "))
+multa_diaria_kilos = (carga_kilo - 50.0)
+multa_diaria_reais = (multa_diaria_kilos * 4)
+
+if (carga_kilo > 50.0):
+    print(f"João terá que pagar para o Leão da Receita Federal o total de R${multa_diaria_reais}")
+else:
+    print("João escapou das garras do Leão da Receita Federal")
+    
+
+exercicio 4
+
+print("Verifique o Maior de Três números")
+
+num1 = float(input("Insira seu Primeiro Número: "))
+num2 = float(input("Insira seu Segundo Número: "))
+num3 = float(input("Insira seu Terceiro Número: "))
+
+
+if (num1 > num2) and (num1 > num3):
+    print(f"O número {num1} é maior que {num2} e {num3}")
+elif (num2 > num1) and (num2 > num3):
+    print(f"O número {num2} é maior que {num1} e {num3}")
+elif (num3 > num1) and (num3 > num2):
+    print (f"O número {num3} é maior que {num1} e {num2}")
+
+else:
+    print("Todos os números são iguais")
+
+
+exercicio 5
+
+print("Verifique o Menor de Três números")
+
+num1 = float(input("Insira seu Primeiro Número: "))
+num2 = float(input("Insira seu Segundo Número: "))
+num3 = float(input("Insira seu Terceiro Número: "))
+
+
+if (num1 < num2) and (num1 < num3):
+    print(f"O número {num1} é menor que {num2} e {num3}")
+elif (num2 < num1) and (num2 < num3):
+    print(f"O número {num2} é menor que {num1} e {num3}")
+elif (num3 < num1) and (num3 < num2):
+    print (f"O número {num3} é menor que {num1} e {num2}")
+
+else:
+    print("Todos os números são iguais")
+
+
+
+exercicio 6
+
+ganho_hora = float(input("Quantos Reais você ganha por hora trabalhada: "))
+hora_mes = int(input("Quantas horas você trabalha por mês: "))
+
+bruto = ganho_hora * hora_mes
+print(f"Seu salário bruto é de R${bruto:.2f}")
+
+IR = 0.11 
+INSS = 0.08 
+sindicaraio = 0.05  
+
+desconto_IR = bruto * IR
+desconto_INSS = bruto * INSS
+desconto_sindicaraio = bruto * sindicaraio
+
+
+liquido = bruto - (desconto_IR + desconto_INSS + desconto_sindicaraio)
+print(f"Seu salário líquido é de R${liquido:.2f}")
+
+
+exercicio 7
+
+# Loja de Tintas
+
+# Cobertura da tinta: 1 litro para 3 metros quadrados
+# Cada lata de tinta contém 18 litros
+# Cada lata de tinta custa 80 reais
+
+
+cobertura_por_lata = 18 * 3  
+
+
+tamanho_m2 = int(input("Quantos metros quadrados deseja pintar? "))
+
+lata = 0
+custo_total = 0
+
+#Calcula o número de latas necessárias e o custo total
+while tamanho_m2 > 0:
+    lata += 1
+    tamanho_m2 -= cobertura_por_lata
+
+
+custo_total = lata * 80  
+
+
+print(f"Você precisará de {lata} latas de tinta.")
+print(f"O custo total será de R${custo_total:.2f}")
+
