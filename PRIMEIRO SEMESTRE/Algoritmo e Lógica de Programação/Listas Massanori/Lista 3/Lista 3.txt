@@ -1,0 +1,114 @@
+exercício 1
+
+# Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor 
+#seja inválido e continue pedindo até que o usuário informe um valor válido
+
+
+
+
+nota = -1  # Inicializando com um valor inválido
+
+while nota < 0 or nota > 10:
+    nota = float(input("Digite uma nota entre 0 e 10: "))
+    if nota < 0 or nota > 10:
+        print("Valor inválido. A nota deve estar entre 0 e 10.")
+
+print(f"Nota válida: {nota}")
+
+
+
+
+exercício 2
+
+#Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao 
+#nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
+
+
+#WHILE TRUE = ENQUANTO VERDADE
+
+
+while True:
+    usuario = input("Digite o nome de usuário: ")
+    senha = input("Digite a senha: ")
+
+    if senha == usuario:
+        print("Erro: A senha não pode ser igual ao nome de usuário. Tente novamente.")
+    else:
+        print("Cadastro realizado com sucesso!")
+        break
+
+
+
+
+exercício 3
+
+#Supondo que a população de um país A seja da ordem de 80000 habitantes com uma taxa 
+#anual de crescimento de 3% e que a população de B seja 200000 habitantes com uma taxa de 
+#crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos 
+#necessários para que a população do país A ultrapasse ou iguale a população do país B, 
+#mantidas as taxas de crescimento
+
+
+
+
+populacao_a = int(input("Digite a população do país A: "))
+
+populacao_b = int(input("Digite a população do país B: "))
+
+taxa_crescimento_a = 0.03
+taxa_crescimento_b = 0.015
+
+anos = 0
+
+while populacao_a <= populacao_b:
+    populacao_a += populacao_a * taxa_crescimento_a
+    populacao_b += populacao_b * taxa_crescimento_b
+    anos += 1
+
+print(f"Serão necessários {anos} anos para que a população do país A ultrapasse ou iguale a população do país B.")
+
+
+exercício 4
+
+#A seqüência de Fibonacci é a seguinte: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... Sua regra de 
+#formação é simples: os dois primeiros elementos são 1; a partir de então, cada elemento é a 
+#soma dos dois anteriores. Faça um algoritmo que leia um número inteiro calcule o seu número 
+#de Fibonacci. F1 = 1, F2 = 1, F3 = 2, etc
+
+
+
+
+
+
+def fibonacci(n):
+    a, b = 1, 1
+    for _ in range(3, n + 1):
+        a, b = b, a + b
+    return b
+
+posicao = int(input("Digite a posição do número de Fibonacci que você deseja calcular: "))
+resultado = fibonacci(posicao)
+print(f"O número de Fibonacci na posição {posicao} é {resultado}.")
+
+
+
+exercício 5
+
+
+#Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando 
+#o algoritmo de Euclides.
+
+
+
+def mdc(a, b):
+    while b != 0:
+        a, b = b, a % b
+    return a
+
+num1 = int(input("Digite o primeiro número inteiro positivo: "))
+num2 = int(input("Digite o segundo número inteiro positivo: "))
+
+print(f"O máximo divisor comum entre {num1} e {num2} é {mdc(num1, num2)}.")
+
+
+
