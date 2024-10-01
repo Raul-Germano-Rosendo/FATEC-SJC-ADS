@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    overflow: hidden; /* Evita rolagem vertical */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Ajusta a altura da tela ao tamanho total do monitor */
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.logo {
+    padding: 5px;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #f0e0e0;
+   flex-grow: 1; /* Garante que ocupe o espaço vertical restante */
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%; /* O conteúdo ocupará toda a largura disponível */
+}
+
+.main-content .side-img {
+    flex: 1; /* Ajusta para aumentar a largura da imagem */
+    max-width: 320px; /* Define um tamanho máximo maior para a imagem lateral */
+    max-height: 1px;
+}
+
+.main-content img {
+    width: 100%; /* Faz a imagem ocupar toda a largura do elemento */
+    height: auto;
+}
+
+.content-text {
+    flex: 2;
+    padding: 20px;
+}
+
+.content-text h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.content-text h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.content-text p {
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: #ccc;
+    text-align: center;
+    padding: 30px;
+    flex-shrink: 0; /* Impede que o rodapé seja redimensionado */
+}
+
+
+
+
+
+.quem-somos {
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.content-text {
+    flex: 2;
+    padding: 0 20px;
+}
+
+.content-text h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.content-text h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.content-text p {
+    margin-bottom: 15px;
+}
+
+
+
+
+.contatos {
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.form-container {
+    flex: 2;
+    padding: 20px;
+}
+
+.form-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #45a049;
+}

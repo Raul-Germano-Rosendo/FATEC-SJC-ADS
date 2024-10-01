@@ -1,0 +1,71 @@
+/* GRID */
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        "header header header"
+        "nav content sidebar"
+        "footer footer footer";
+    grid-template-columns: 20% 60% 20%; /* Menu e sidebar ocupam 20%, conteúdo 60% */
+    grid-template-rows: auto 1fr auto; /* Altura automática para cabeçalho e rodapé */
+    height: 100vh; 
+    gap: 10px;
+}
+
+.header {
+    grid-area: header;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Nav */
+.nav {
+    grid-area: nav;
+    background-color: rebeccapurple;
+    color: white;
+    padding: 20px;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.nav ul li {
+    margin-bottom: 10px;
+}
+
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+.content {
+    grid-area: content;
+    background-color: lightgreen; 
+    color: black;
+    padding: 20px;
+}
+
+/* Estilização para a barra lateral */
+.sidebar {
+    grid-area: sidebar;
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+}
+
+
+.footer {
+    grid-area: footer;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}

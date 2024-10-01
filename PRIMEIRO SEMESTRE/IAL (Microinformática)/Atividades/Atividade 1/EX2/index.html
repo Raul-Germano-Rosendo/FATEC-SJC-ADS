@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 2</title>
+    <style>
+    
+        .container2 {
+            display: grid;
+            grid-template-rows: auto 1fr; /* Cabeçalho ocupa uma linha, o conteúdo as outras */
+            grid-template-columns: 1fr 1fr; /* Duas colunas iguais */
+            gap: 10px;
+        }
+
+        .cabecalho {
+            grid-column: 1 / -1; /* Faz o cabeçalho ocupar as duas colunas */
+            background-color: lightgreen;
+            padding: 20px;
+            text-align: center;
+        }
+
+       
+        .coluna1 {
+            background-color: lightblue;
+            padding: 15px;
+        }
+
+        .coluna2 {
+            background-color: bisque;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+
+
+<body>
+
+    <div class="container2">
+        <div class="cabecalho">
+            <h1>Cabeçalho com 100%</h1>
+        </div>
+
+        <div class="coluna1">
+            <h2>Coluna 1 - 50%</h2>
+            <p>Primeira coluna, 50% da largura.</p>
+        </div>
+
+        <div class="coluna2">
+            <h2>Coluna 2 - 50%</h2>
+            <p>Segunda coluna, 50% da largura.</p>
+        </div>
+    </div>
+
+</body>
+</html>

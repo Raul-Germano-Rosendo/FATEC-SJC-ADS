@@ -1,0 +1,46 @@
+/*GRID*/
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "sidebar content"
+        "footer footer"; /* Organiza o rodapé se quiser usar */
+    grid-template-columns: 25% 75%; /* Sidebar ocupa 25% e conteúdo 75% */
+    grid-template-rows: auto 1fr auto; /* Altura automática para cabeçalho e rodapé */
+    height: 100vh; 
+    gap: 10px; 
+}
+
+/* Estilização para o cabeçalho */
+.header {
+    grid-area: header;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilização para a barra lateral (sidebar) */
+.sidebar {
+    grid-area: sidebar;
+    background-color: rebeccapurple; 
+    color: white;
+    padding: 20px;
+}
+
+/* Estilização para o conteúdo principal */
+.content {
+    grid-area: content;
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+}
+
+/* Estilização para o rodapé */
+.footer {
+    grid-area: footer;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
