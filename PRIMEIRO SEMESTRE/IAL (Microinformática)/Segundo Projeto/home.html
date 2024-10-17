@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape From Tarkov - Index</title>
+    <!-- Link para o Bootstrap e o CSS personalizado -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/styles.css"> <!-- CSS personalizado -->
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- NavBar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black">
+        <div class="container-fluid">
+            <a class="navbar-brand">Escape From Tarkov - O Guia dos "Rats"</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="home.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="guia.html">Guia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="prova.html">Prova do Rat King</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+
+    <!-- Imagem de Fundo -->
+    <div class="container-fluid fundo-esmaecido">
+        <div class="row">
+            <div class="col-lg-2 d-none d-lg-block">
+                <!-- Esta coluna ainda pode conter uma imagem lateral, caso queira -->
+            </div>
+    
+            <div class="col-lg-8">
+                <div class="text-center conteudo-central">
+                    <h1>Escape From Tarkov</h1>
+                    <h3>O Guia dos Ratos da Reserva de Priozersky</h3>
+                    <p class="text-vermelho">v0.0.1</p>
+                    <p>Lorem ipsum dolor sit amet...</p>
+                </div>
+                <div class="text-end">
+                    <a href="guia.html" class="btn btn-primary">Próxima Página →</a>
+                </div>
+            </div>
+    
+            <div class="col-lg-2 d-none d-lg-block">
+                <!-- Outra imagem lateral, se necessário -->
+            </div>
+        </div>
+    </div>
+
+<!-- Caixa de Diálogo -->
+<div class="dialog-box" id="dialog-box">
+    <div class="dialog-content">
+        <div class="dialog-row d-flex align-items-center">
+            <img src="Prep/Shturman.jpg" alt="Shturman" class="dialog-image me-3"> <!-- Imagem do Shturman -->
+            <div>
+                <p id="dialog-name" class="dialog-name fw-bold mb-1">Shturman</p> <!-- Nome do Shturman -->
+                <p id="dialog-text">Texto do diálogo aqui.</p> <!-- Texto do diálogo -->
+            </div>
+        </div>
+        <div class="text-end">
+            <button id="prev-dialog" class="btn btn-secondary" style="display: none;">Anterior</button>
+            <button id="next-dialog" class="btn btn-secondary">Próxima Fala</button>
+        </div>
+    </div>
+</div>
+
+    <!-- Bootstrap JS -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Diálogos
+        const dialogues = [
+            "(suspira) Tarkov... Um lugar que antes era vibrante, cheio de vida e oportunidades. Agora? Agora, é um campo de batalha, uma selva de desespero.",
+            "O que eu vejo aqui são sombras... sombras de homens que vieram em busca de riqueza, e que agora estão presos em um ciclo de ambição e desespero.",
+            "Eu vejo além. Vejo o pânico nos olhos deles quando a noite cai e os sons do combate se aproximam. Os 'Rats' são o reflexo da degradação humana. Eles se adaptaram à miséria, se alimentando das sobras deixadas por outros. Mas, a que custo? A cada movimento furtivo, eles perdem um pouco mais de si mesmos. Eles pensam que estão jogando o jogo, mas na verdade, são apenas peças descartáveis em um tabuleiro que nunca lhes pertenceu."
+        ];
+
+        let currentDialogue = 0;
+
+        // Função para mostrar o diálogo
+        function showDialogue() {
+            const dialogBox = document.getElementById('dialog-box');
+            const dialogText = document.getElementById('dialog-text');
+    
+            dialogBox.style.display = 'block'; // Exibe a caixa de diálogo
+            dialogText.textContent = dialogues[currentDialogue]; // Atualiza o texto do diálogo
+
+            // Atualiza a visibilidade dos botões
+            document.getElementById('prev-dialog').style.display = currentDialogue === 0 ? 'none' : 'inline-block'; // Esconde o botão "Anterior" se estiver no primeiro diálogo
+            document.getElementById('next-dialog').style.display = currentDialogue === dialogues.length - 1 ? 'none' : 'inline-block'; // Esconde o botão "Próxima Fala" se estiver no último diálogo
+        }
+
+        // Evento do botão "Próxima Fala"
+        document.getElementById('next-dialog').addEventListener('click', () => {
+            if (currentDialogue < dialogues.length - 1) {
+                currentDialogue++; // Avança para o próximo diálogo
+                showDialogue(); // Mostra o próximo diálogo
+            }
+        });
+
+        // Evento do botão "Anterior"
+        document.getElementById('prev-dialog').addEventListener('click', () => {
+            if (currentDialogue > 0) {
+                currentDialogue--; // Volta para o diálogo anterior
+                showDialogue(); // Mostra o diálogo anterior
+            }
+        });
+
+        // Iniciar diálogo ao carregar a página
+        window.onload = showDialogue;
+    </script>
+</body>
+</html>

@@ -1,0 +1,167 @@
+/* Aplicar um fundo preto para o corpo */
+body {
+    background-color: black; /* Fundo preto */
+    color: azure; /* Cor do texto do corpo */
+    font-family: 'Russo One', sans-serif; /* Fonte do corpo */
+}
+
+/* Ajustes para a imagem lateral */
+.imagem-lateral {
+    width: 100%; /* Preencher a coluna */
+    height: auto;
+}
+
+/* Centralizar o conteúdo */
+.conteudo-central {
+    margin-top: 50px; /* Ajuste conforme a necessidade */
+    padding: 20px;
+    color: azure; /* Define a cor do texto do corpo */
+}
+
+/* Adicione esta nova classe ao seu styles.css */
+.text-vermelho {
+    color: red; /* Muda a cor do texto para vermelho */
+}
+
+/* Customizar o botão "Próxima Página" */
+.btn-primary {
+    background-color: green; /* Fundo verde */
+    color: rgb(255, 255, 255); /* Texto preto */
+    border: none; /* Remove a borda */
+    font-family: 'Russo One', sans-serif; /* Fonte do botão */
+    margin-bottom: 20px; /* Espaçamento abaixo do botão */
+}
+
+.btn-secondary {
+    background-color: green; /* Fundo verde */
+    color: rgb(255, 255, 255); /* Texto preto */
+    border: none; /* Remove a borda */
+    font-family: 'Russo One', sans-serif; /* Fonte do botão */
+    margin-bottom: 1x; /* Espaçamento abaixo do botão */
+}
+
+/* Ajustes para a imagem de fundo na div principal */
+.fundo-esmaecido {
+    background-image: url('../Prep/Imagem-fundo.jpg'); /* Ajuste o caminho conforme necessário */
+    background-size: cover; /* A imagem cobrirá toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    position: relative; /* Para manter o conteúdo na frente da imagem */
+    z-index: 1;
+}
+
+/* Adicionar um efeito de esmaecimento (transparência) */
+.fundo-esmaecido::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Cor escura com opacidade */
+    z-index: -1; /* Coloca o overlay atrás do conteúdo */
+    opacity: 0.8; /* Controla o quão esmaecida ficará a imagem */
+}
+
+/* Estilo da Navbar */
+.navbar {
+    background-color: black; /* Fundo preto */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Sombra suave */
+    padding: 10px; /* Espaçamento interno */
+}
+
+/* Aumentar o espaçamento entre os links */
+.navbar-nav .nav-link {
+    padding: 10px 15px; /* Aumenta o espaçamento interno (vertical, horizontal) */
+    margin-right: 15px; /* Aumenta o espaçamento entre os links */
+    color: beige; /* Cor do texto dos links */
+    transition: color 0.3s ease; /* Efeito de transição suave */
+}
+
+/* Estilo para o link ativo da navbar */
+.navbar-nav .nav-link.active {
+    background-color: #c2c2c2; /* Cor cinza claro */
+    color: black; /* Cor do texto quando ativo */
+    height: 100%;
+}
+
+/* Mudar cor dos links da navbar ao passar o mouse (hover) */
+.navbar-nav .nav-link:hover {
+    color: #1e90ff; /* Cor azul claro ao passar o mouse */
+}
+
+
+/* Estilo do logotipo da Navbar */
+.navbar-brand {
+    color: beige; /* Cor do texto da marca */
+}
+
+.navbar-brand:hover {
+    color: #1e90ff; /* Cor ao passar o mouse */
+}
+
+
+/* Estilo da linha com imagem e texto */
+.dialog-row {
+    display: flex; /* Utiliza flexbox para alinhar imagem e texto */
+    align-items: flex-start; /* Alinha a imagem e o texto ao topo */
+}
+
+/* Estilo da caixa de diálogo */
+.dialog-box {
+    background-color: rgba(50, 50, 50, 0.9); /* Fundo escuro com um pouco de transparência */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Sombra suave */
+    position: fixed; /* Posiciona a caixa na tela */
+    left: 50%; /* Centraliza horizontalmente */
+    top: 75%; /* Um pouco acima do fundo */
+    transform: translate(-50%, -50%); /* Centraliza corretamente */
+    z-index: 2; /* Mantém a caixa acima de outros conteúdos */
+    display: none; /* Inicialmente oculta */
+}
+
+/* Texto da caixa de diálogo */
+.dialog-content p {
+    color: beige; /* Cor do texto para bege */
+    font-family: 'Russo One', sans-serif; /* Fonte da caixa de diálogo */
+    text-align: justify; /* Justifica o texto do diálogo */
+}
+
+/* Estilo do contêiner do botão na caixa de diálogo */
+.dialog-content {
+    display: flex;
+    flex-direction: column; /* Coloca os itens em coluna */
+    align-items: flex-end; /* Alinha os itens à direita */
+}
+
+/* Estilo da imagem na caixa de diálogo */
+.dialog-image {
+    width: 150px; /* Define uma largura fixa para a imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 10px; /* Cantos arredondados para a imagem */
+    margin-right: 15px; /* Espaçamento à direita da imagem */
+}
+
+
+
+/* Para navegadores WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 0; /* Oculta a barra de rolagem vertical */
+    height: 0; /* Oculta a barra de rolagem horizontal */
+}
+
+/* Para Firefox */
+html {
+    scrollbar-width: none; /* Oculta a barra de rolagem */
+}
+
+/* Para o Edge e outros navegadores que suportam a rolagem */
+html {
+    -ms-overflow-style: none;  /* Oculta a barra de rolagem no Internet Explorer 10+ */
+}
+
+/* Para garantir que a rolagem ainda seja funcional */
+body {
+    overflow: scroll;
+}

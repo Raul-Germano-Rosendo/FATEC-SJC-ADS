@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova do Rat King</title>
+    <!-- Bootstrap e CSS personalizado -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/styles.css"> <!-- CSS personalizado -->
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1e1e1e; /* Preto */
+            color: #f5deb3; /* Bege */
+            font-family: 'Russo One', sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+            max-width: 600px;
+            padding: 20px;
+            border: 2px solid #f5deb3; /* Borda bege */
+            border-radius: 10px;
+            background-color: #2c2c2c; /* Tom mais claro de preto */
+        }
+        h1, h3 {
+            text-align: center;
+        }
+        .btn-custom {
+            background-color: #f5deb3;
+            color: #1e1e1e;
+            border: none;
+        }
+        .btn-custom:hover {
+            background-color: #e5cf9b;
+            color: #000;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black">
+        <div class="container-fluid">
+            <a class="navbar-brand">Escape From Tarkov - O Guia dos "Rats"</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="home.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="guia.html">Guia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="prova.html">Prova do Rat King</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Questionário -->
+    <div class="container">
+        <h1>Prova do Rat King</h1>
+        <h3>Teste suas habilidades</h3>
+
+        <!-- Formulário de perguntas -->
+        <form id="quiz-form">
+            <div id="quiz-container"></div> <!-- Container para as perguntas -->
+
+            <div class="text-center mt-4">
+                <button type="button" class="btn btn-custom" id="submit-quiz">Enviar</button>
+            </div>
+        </form>
+
+        <div id="result" class="text-center mt-4" style="display: none;">
+            <h3 id="score"></h3>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS e custom JS -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Definir perguntas e respostas
+        const quizData = [
+            {
+                question: "Qual é o objetivo principal dos 'Rats' em Tarkov?",
+                options: ["A) Combater Scavs", "B) Evitar confronto e coletar loot", "C) Proteger a base", "D) Completar missões rapidamente"],
+                correct: 1
+            },
+            {
+                question: "Qual é a melhor munição para o calibre 5.45x39mm?",
+                options: ["A) 7N39", "B) BS", "C) BT", "D) PRS"],
+                correct: 0
+            },
+            {
+                question: "Em qual mapa o Shturman é o boss?",
+                options: ["A) Interchange", "B) Customs", "C) Shoreline", "D) Woods"],
+                correct: 3
+            }
+            // Adicione mais perguntas conforme necessário
+        ];
+
+        // Renderizar perguntas
+        function loadQuiz() {
+            const quizContainer = document.getElementById('quiz-container');
+            quizContainer.innerHTML = ''; // Limpar o conteúdo anterior
+
+            quizData.forEach((quizItem, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+
+                const questionTitle = document.createElement('h5');
+                questionTitle.textContent = quizItem.question;
+                questionDiv.appendChild(questionTitle);
+
+                quizItem.options.forEach((option, optionIndex) => {
+                    const optionLabel = document.createElement('label');
+                    optionLabel.className = 'form-check-label';
+                    optionLabel.innerHTML = `
+                        <input type="radio" name="question-${index}" value="${optionIndex}" class="form-check-input"> ${option}
+                    `;
+                    questionDiv.appendChild(optionLabel);
+                    questionDiv.appendChild(document.createElement('br'));
+                });
+
+                quizContainer.appendChild(questionDiv);
+            });
+        }
+
+        // Calcular resultado
+        function calculateScore() {
+            let score = 0;
+
+            quizData.forEach((quizItem, index) => {
+                const selectedOption = document.querySelector(`input[name="question-${index}"]:checked`);
+                if (selectedOption && parseInt(selectedOption.value) === quizItem.correct) {
+                    score++;
+                }
+            });
+
+            return score;
+        }
+
+        // Evento de envio do formulário
+        document.getElementById('submit-quiz').addEventListener('click', function() {
+            const score = calculateScore();
+            const resultDiv = document.getElementById('result');
+            const scoreText = document.getElementById('score');
+
+            scoreText.textContent = `Você acertou ${score} de ${quizData.length} perguntas!`;
+            resultDiv.style.display = 'block'; // Mostrar o resultado
+        });
+
+        // Carregar o questionário ao iniciar
+        window.onload = loadQuiz;
+    </script>
+
+</body>
+</html>
