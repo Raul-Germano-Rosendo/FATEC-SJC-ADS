@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alert Style Tarkov</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css">
+    <style>
+        
+    body {
+    background-color: black; /* Fundo preto */
+    color: azure; /* Cor do texto */
+    font-family: 'Russo One', sans-serif; /* Fonte inspirada em jogos */
+}
+
+.custom-alert {
+    background-color: rgba(30, 30, 30, 0.8); /* Fundo escuro com transparência */
+    border: 1px solid #444; /* Borda para dar destaque */
+    box-shadow: 0 0 15px rgba(255, 255, 0, 0.5); /* Sombra amarelada para destacar */
+    font-size: 1.2em; /* Tamanho da fonte */
+    text-align: center; /* Centraliza o texto */
+}
+
+    </style>
+</head>
+
+<body>
+
+    
+
+<div class="container mt-5">
+    <div id="alertBox" class="alert alert-warning custom-alert" role="alert">
+        Loading new information...
+    </div>
+</div>
+
+<script>
+    // Script para mudar o conteúdo do alerta
+    const messages = [
+        "Prepare-se para a próxima raid!",
+        "Verifique seu equipamento!",
+        "Inimigos à vista, fique atento!",
+        "Você tem o que é preciso para sobreviver?",
+        "Retorne à base com o loot!"
+    ];
+
+    let index = 0;
+    setInterval(() => {
+        index = (index + 1) % messages.length;
+        document.getElementById('alertBox').innerText = messages[index];
+    }, 3000); // Muda a mensagem a cada 3 segundos
+</script>
+
+</body>
+</html>

@@ -34,33 +34,78 @@
         </div>
     </nav>
     
+<!-- Imagem de Fundo -->
+<div class="container-fluid fundo-esmaecido">
+    <div class="row">
+        <div class="col-lg-2 d-none d-lg-block">
+            <!-- Esta coluna ainda pode conter uma imagem lateral, caso queira -->
+        </div>
 
-    <!-- Imagem de Fundo -->
-    <div class="container-fluid fundo-esmaecido">
-        <div class="row">
-            <div class="col-lg-2 d-none d-lg-block">
-                <!-- Esta coluna ainda pode conter uma imagem lateral, caso queira -->
+        <div class="col-lg-8">
+            <div class="text-center conteudo-central">
+                <h1>Escape From Tarkov</h1>
+                <h3>O Guia dos Ratos da Reserva de Priozersky</h3>
+                <p class="text-vermelho">v0.0.1</p>
+                <p>Lorem ipsum dolor sit amet...</p>
             </div>
-    
-            <div class="col-lg-8">
-                <div class="text-center conteudo-central">
-                    <h1>Escape From Tarkov</h1>
-                    <h3>O Guia dos Ratos da Reserva de Priozersky</h3>
-                    <p class="text-vermelho">v0.0.1</p>
-                    <p>Lorem ipsum dolor sit amet...</p>
-                </div>
-                <div class="text-end">
-                    <a href="guia.html" class="btn btn-primary">Próxima Página →</a>
-                </div>
-            </div>
-    
-            <div class="col-lg-2 d-none d-lg-block">
-                <!-- Outra imagem lateral, se necessário -->
+            <div class="text-end">
+                <a href="guia.html" class="btn btn-primary">Próxima Página →</a>
             </div>
         </div>
+
+        <div class="col-lg-2 d-none d-lg-block">
+            <!-- Outra imagem lateral, se necessário -->
+        </div>
+    </div>
+</div>
+
+    <!-- Carrossel de Imagens -->
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+        </div>
+        <div class="carousel-inner custom-carousel">
+            <div class="carousel-item active">
+                <a href="https://www.youtube.com/watch?v=93uBJvNXxug" target="_blank">
+                    <img src="https://img.youtube.com/vi/93uBJvNXxug/maxresdefault.jpg" class="d-block w-100" alt="Slide 1">
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=6htmUO3oWjQ&t=433s" target="_blank">
+                    <img src="Prep\car\Imagem-2.png" class="d-block w-100" alt="Slide 1">
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/" target="_blank">
+                    <img src="Prep\car\Imagem-fundo.jpg" class="d-block w-100" alt="Slide 1">
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/" target="_blank">
+                    <img src="Prep\car\Imagem-fundo.jpg" class="d-block w-100" alt="Slide 1">
+                </a>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/" target="_blank">
+                    <img src="Prep\car\Imagem-fundo.jpg" class="d-block w-100" alt="Slide 1">
+                </a>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Próxima</span>
+        </button>
     </div>
 
-<!-- Caixa de Diálogo -->
+    <!-- Caixa de Diálogo -->
 <div class="dialog-box" id="dialog-box">
     <div class="dialog-content">
         <div class="dialog-row d-flex align-items-center">
@@ -97,7 +142,7 @@
             dialogBox.style.display = 'block'; // Exibe a caixa de diálogo
             dialogText.textContent = dialogues[currentDialogue]; // Atualiza o texto do diálogo
 
-            // Atualiza a visibilidade dos botões
+            // Atualiza a visibilidade dos botões4
             document.getElementById('prev-dialog').style.display = currentDialogue === 0 ? 'none' : 'inline-block'; // Esconde o botão "Anterior" se estiver no primeiro diálogo
             document.getElementById('next-dialog').style.display = currentDialogue === dialogues.length - 1 ? 'none' : 'inline-block'; // Esconde o botão "Próxima Fala" se estiver no último diálogo
         }

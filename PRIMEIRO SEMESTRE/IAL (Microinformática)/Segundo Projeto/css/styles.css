@@ -113,12 +113,22 @@ body {
     padding: 20px; /* Espaçamento interno */
     border-radius: 10px; /* Cantos arredondados */
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Sombra suave */
-    position: fixed; /* Posiciona a caixa na tela */
+    position: relative; /* Posiciona a caixa abaixo do carrossel */
+    margin-top: 20px; /* Espaçamento entre o carrossel e a caixa de diálogo */
+    margin-bottom: 18px; /* Espaçamento abaixo da caixa de diálogo */
+    width: 100%; /* A caixa ocupará toda a largura disponível */
+    max-width: 900px; /* Limite de largura */
     left: 50%; /* Centraliza horizontalmente */
-    top: 75%; /* Um pouco acima do fundo */
-    transform: translate(-50%, -50%); /* Centraliza corretamente */
-    z-index: 2; /* Mantém a caixa acima de outros conteúdos */
-    display: none; /* Inicialmente oculta */
+    transform: translateX(-50%); /* Centraliza corretamente */
+    z-index: 1; /* Mantém a caixa acima de outros conteúdos */
+    display: block; /* Mostra a caixa */
+}
+
+/* Ajustar a posição do conteúdo dentro da dialog-box */
+.dialog-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza o conteúdo dentro da caixa */
 }
 
 /* Texto da caixa de diálogo */
@@ -141,6 +151,24 @@ body {
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 10px; /* Cantos arredondados para a imagem */
     margin-right: 15px; /* Espaçamento à direita da imagem */
+}
+
+
+.custom-carousel {
+    max-width: 800px; /* Largura máxima */
+    max-height: 450px; /* Altura máxima */
+    margin: auto; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o conteúdo no contêiner */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    overflow: hidden; /* Esconde o que ultrapassar o contêiner */
+}
+
+.custom-carousel img {
+    margin: auto; /* Centraliza a imagem horizontalmente */
+    max-width: 100%; /* Limita a largura ao contêiner */
+    max-height: 100%; /* Limita a altura ao contêiner */
+    object-fit: contain; /* Ajusta a imagem ao tamanho do contêiner sem distorcer */
 }
 
 
