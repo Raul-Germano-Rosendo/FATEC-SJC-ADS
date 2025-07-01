@@ -1,0 +1,262 @@
+        @font-face {
+            font-family: 'Inter';
+            src: url("../fonts/Inter/Inter_18pt-Regular.ttf") format("opentype");
+        }
+
+        @font-face {
+            font-family: "Jura";
+            src: url("../fonts/Jura/Jura-Regular.ttf");
+        }
+
+
+        .title {
+            -fx-font-family: "Jura", sans-serif;
+            -fx-font-size: 85px;
+            -fx-font-weight: bold;
+            -fx-text-fill: #E0E0E0;
+            -fx-padding: 0px 0 15px 0;
+        }
+
+        .meio {
+            -fx-font-family: "Inter";
+            -fx-font-size: 14px;
+            -fx-text-fill: #B0BEC5;
+            -fx-cursor: hand;
+            -fx-padding: 5px 10px;
+            -fx-alignment: center;
+            -fx-min-width: 200px;
+            -fx-background-color: #04293A;
+        }
+
+        .meio:hover {
+            -fx-text-fill: white;
+        }
+
+        /*Parte do editor de texto*/
+
+        .editor-texto{
+            -fx-font-family: "Inter";
+            -fx-padding: 2px 2px 2px 2px;
+            -fx-font-size: 14px;
+            -fx-background-color: #032230;
+            -fx-prompt-text-fill: #4f5d72;
+            -fx-control-inner-background: #032230;
+            -fx-text-fill: #eeea75;
+        }
+
+        /*Acaba Aqui*/
+
+
+        /*barra ali de cima*/
+
+        .menu-bar .menu {
+            -fx-background-color: #04293A;
+        }
+
+        .menu-bar .menu:hover {
+            -fx-background-color: rgba(107, 87, 44, 0.35) ;
+            -fx-background-radius: 5px;
+        }
+
+        .menu-item {
+            -fx-font-family: "Inter";
+            -fx-font-size: 14px;
+            -fx-text-fill: #B0BEC5;
+            -fx-cursor: hand;
+            -fx-padding: 5px 10px;
+            -fx-alignment: center;
+            -fx-background-color: #04293A;
+            -fx-border-radius: 0.5;
+        }
+
+        .menu-item:hover {
+            -fx-background-color: #003246;
+            -fx-background-radius: 5px;
+        }
+
+        .context-menu {
+            -fx-background-color: #04293A;
+            -fx-border-width: 1px;
+            -fx-border-color: #2E3A47;
+            -fx-border-radius: 5px;
+            -fx-background-radius: 5px;
+
+        }
+
+        .menu-bar {
+            -fx-background-color: #04293A;
+            -fx-border-insets: 1px 0px 0px 0px;
+        }
+
+        .menu-bar .label {
+            -fx-text-fill: #E0E0E0;
+            -fx-font-size: 14px;
+        }
+
+        .compbtn {
+            -fx-background-color: rgba(4, 41, 58, 0);
+            -fx-alignment: center;
+            -fx-text-fill: #E0E0E0;
+        }
+
+        .dimbtn {
+            -fx-background-color: rgba(4, 41, 58, 0);
+            -fx-alignment: center;
+            -fx-text-fill: #E0E0E0;
+        }
+
+        .dimbtn:hover {
+            -fx-background-color: #043044;
+        }
+
+        .tabbtn {
+            -fx-background-color: rgba(4, 41, 58, 0);
+            -fx-alignment: center;
+            -fx-text-fill: #E0E0E0;
+        }
+
+        .tabbtn:hover {
+            -fx-background-color: #043044;
+        }
+
+        .clsbtn {
+            -fx-background-color: rgba(4, 41, 58, 0);
+            -fx-alignment: center;
+            -fx-text-fill: #E0E0E0;
+        }
+
+        .clsbtn:hover {
+            -fx-background-color: #a40505;
+        }
+
+        .compbtn:hover {
+            -fx-background-color: rgba(107, 87, 44, 0.35) ;
+            -fx-background-radius: 5px;
+        }
+
+
+
+        /*Acabou de novo*/
+
+       .tab-pane *.tab-header-background {
+           -fx-background-color: #032230;
+       }
+
+        .tab-pane .tab {
+            -fx-background-insets: 0;
+            -fx-padding: 5 10 5 10;
+            -fx-background-color: #032230;
+            -fx-background-radius: 0px;
+            -fx-border-radius: 0px;
+        }
+
+        .tab-pane .tab:selected {
+            -fx-background-color: #032230;
+            -fx-border-width: 0 0 2 0;
+            -fx-border-color: #a4af9d;
+
+        }
+
+        .tab-pane .tab .tab-label {
+            -fx-text-fill: white;
+            -fx-font-family: Inter;
+            -fx-font-size: 13px;
+        }
+
+        /*Lateral*/
+
+        .Lateral{
+            -fx-text-fill: white;
+            -fx-font-family: Inter;
+            -fx-control-inner-background: #04293A;
+            -fx-border-color: #2E3A47;
+        }
+
+        /*Sintaxe*/
+
+
+
+        /*OutPut*/
+
+        .outPut{
+            -fx-control-inner-background: #04293A;
+            -fx-background-color: #04293A;
+            -fx-border-width: 1 0 0 0;
+            -fx-border-color: #2E3A47;
+        }
+        /*IA*/
+        .popup{
+            -fx-background-color: #021f2d;
+        }
+        .entrada{
+          -fx-font-family: "Jura";
+           -fx-font-size: 20px;
+           -fx-text-fill: white;
+        }
+         .saida{
+               -fx-font-family: "Jura";
+               -fx-font-size: 20px;
+               -fx-text-fill: white;
+         }
+         .botao{
+            -fx-font-family: "Jura";
+            -fx-font-size: 15px;
+         }
+         .input-area{
+            -fx-text-fill: black;
+            -fx-font-size: 14px;
+         }
+          .output-area{
+                 -fx-text-fill: black;
+                 -fx-font-size: 14px;
+         }
+
+         .titulo {
+            -fx-font-family: "Jura";
+            -fx-font-size: 20px;
+            -fx-text-fill: #ADD8E6;
+            -fx-padding: 20 0 0 0;
+         }
+
+         .conteudo {
+            -fx-font-family: "Inter";
+            -fx-font-size: 14px;
+            -fx-fill: white;
+         }
+
+         .subtitulo {
+            -fx-padding: 10 0 0 0;
+         }
+
+/*scroll*/
+        .scroll-pane {
+            -fx-background-color: #021f2d; /* fundo do scrollpane */
+            -fx-border-color: transparent;
+        }
+
+        .scroll-pane .viewport {
+            -fx-background-color: transparent;
+        }
+
+        .scroll-bar:vertical, .scroll-bar:horizontal {
+            -fx-background-color: #021f2d; /* fundo da área do scrollbar */
+        }
+
+        .scroll-bar .thumb {
+            -fx-background-color: #5c5c5c; /* "botão" que você arrasta */
+            -fx-background-insets: 2;
+            -fx-background-radius: 5;
+        }
+
+        .scroll-bar .thumb:hover {
+            -fx-background-color: #787878; /* thumb quando passa o mouse */
+        }
+
+        .scroll-bar .track {
+            -fx-background-color: #021f2d; /* trilha de fundo */
+        }
+
+        .scroll-bar .increment-button, .scroll-bar .decrement-button {
+            -fx-background-color: transparent;
+            -fx-padding: 0;
+        }

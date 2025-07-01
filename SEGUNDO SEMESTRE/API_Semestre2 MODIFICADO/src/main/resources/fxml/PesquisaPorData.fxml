@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.sputnik.api.historicoPesquisaPorData.PesquisaPorDataController"
+      spacing="10" alignment="CENTER" style="-fx-padding: 20;">
+
+    <Label text="Pesquisar histórico por data" style="-fx-font-size: 16px; -fx-font-weight: bold;" />
+
+    <DatePicker fx:id="datePicker" />
+
+    <Button fx:id="buscarButton" text="Buscar" />
+
+    <TextArea fx:id="resultadoArea" prefRowCount="10" wrapText="true"/>
+</VBox>

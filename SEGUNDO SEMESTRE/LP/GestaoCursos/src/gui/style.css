@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+/* Fundo claro industrial - cinza esverdeado suave */
+.root {
+    -fx-background-color: #9AA2A7;
+}
+
+/* Painéis com fundo branco translúcido, borda e sombra */
+VBox, BorderPane {
+    -fx-background-color: rgba(255, 255, 255, 0.85);
+    -fx-background-radius: 6;
+    -fx-padding: 25;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 10, 0, 0, 3);
+}
+
+/* Títulos com fonte Orbitron, cinza médio */
+.titulo {
+    -fx-font-family: "Orbitron", "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 34px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #555555; /* Cinza escuro para boa leitura */
+    -fx-text-alignment: center;
+}
+
+/* Subtítulo em cinza mais claro */
+.subtitulo {
+    -fx-font-family: "Orbitron", "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 18px;
+    -fx-text-fill: #777777;
+    -fx-text-alignment: center;
+}
+
+/* Botões com fundo cinza-azulado e texto escuro */
+.botao {
+    -fx-font-family: "Orbitron", "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 16px;
+    -fx-padding: 15 30 15 30;
+    -fx-min-width: 200px;
+    -fx-min-height: 50px;
+    -fx-background-color: #7A8C99; /* Cinza-azulado */
+    -fx-text-fill: #F0F0F0; /* Branco suave */
+    -fx-background-radius: 4;
+    -fx-cursor: hand;
+    -fx-border-color: #5A6B75;
+    -fx-border-width: 1;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 4, 0, 0, 2);
+}
+
+.botao:hover {
+    -fx-background-color: #607080; /* Azul acinzentado mais escuro */
+    -fx-border-color: #48606A;
+}
+
+/* Botões de relatório com fundo cinza claro */
+.botao-relatorio {
+    -fx-font-family: "Orbitron", "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 12px;
+    -fx-padding: 8 16 8 16;
+    -fx-background-color: #B0B8BC; /* Cinza claro */
+    -fx-text-fill: #333333; /* Texto escuro */
+    -fx-background-radius: 4;
+    -fx-cursor: hand;
+    -fx-border-color: #8A9093;
+    -fx-border-width: 1;
+}
+
+.botao-relatorio:hover {
+    -fx-background-color: #9AA2A7;
+    -fx-text-fill: #111111;
+}
+
+/* Rodapé em cinza médio */
+.rodape {
+    -fx-font-family: "Orbitron", "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 12px;
+    -fx-text-fill: #666666;
+    -fx-text-alignment: center;
+    -fx-padding: 10 0 10 0;
+    -fx-border-color: #CCCCCC;
+    -fx-border-width: 1 0 0 0;
+}
