@@ -1,0 +1,10 @@
+Material para a Prova P0 terça 26-ago
+
+Provas do 1o Semestre e comentários delas:
+https://www.dropbox.com/scl/fi/jyut0jl24r67kijb95gl2/P1-Algoritmos-2025-1.pdf?rlkey=0revk17eq9b706kbtjk80gh7a&dl=0
+https://www.dropbox.com/scl/fi/ll4ilv9s5mehz7d1p0hhk/P1-Alg-2025-1-Gabarito.txt?rlkey=rfyn95a2b62z9hzsb57x9gc6v&dl=0
+https://www.dropbox.com/scl/fi/e9ezfh3fjtd9rwd5pqiey/P2-Alg-2025-1.pdf?rlkey=bl8baj1dbssv0hwdg5ah943w3&dl=0
+https://www.dropbox.com/scl/fi/l5cyrabzt74wibmhce8f7/P2-Alg-2025-1.txt?rlkey=rwjd1uc0piyeyyn8fmcxn0wd2&dl=0
+
+Exercícios com Listas Dicionários usando Comprehensions e a opção key=função para ordenar por outro critério:
+https://www.dropbox.com/scl/fi/cdlij4012m4g18z2eijpd/Listas-Dicion-rios-e-Key.txt?rlkey=rco65ikdxw3etdm9ai1g3viby&dl=0
