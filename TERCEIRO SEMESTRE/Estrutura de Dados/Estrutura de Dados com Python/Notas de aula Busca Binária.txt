@@ -1,0 +1,30 @@
+Nota da aula de Busca Binária
+
+Meu problema é encontrar um elemento em um vetor, que está em ordem crescente. Como aproveitar o dado, isto é que os elementos estão em ordem, para fazer um programa melhor. O programa sequencial vai gastar, no pior caso, o número de elementos do vetor, quando não encontra o elemento procurado. 
+
+Dois semestres atrás vimos um programa de adivinhação, o computador sorteava um número entre 1 e 100. A melhor estratégia é chutar no meio, 50, pois assim elimino metade das possíveis opções e descubro mais rápido o número. Nos próximos passos chuto no meio da metade que sobrou sucessivamente.
+
+Se eu tenho um vetor ordenado, é a mesma coisa, chuto a posição na metade do vetor e vejo o conteúdo, se é maior ou menor, assim jogo fora metade do vetor, a cada vez. Sejam dois namorados, eduardo e damares, eles tem um ponto de encontro amoroso, aleatório. Para chegar ao ponto, demora muito ir de um em um. Tenho um truque para andar rápido. Vejo a metade do caminho entre os dois, vejo se o ponto de encontro, se é maior ou menor que aquele local. Se é maior, então eduardo pode pular até o meio, se é menor, então damares pode voltar até o meio. Faço isso sucessivamente, até eduardo e damares ficarem um do lado do outro (e=d-1).
+
+Se o meu vetor é muito grande, vale muito a pena fazer isso! Repare que, se eu dobrar o tamanho do vetor, basta apenas *um único* passo a mais!
+
+Como sei o número de passos: a cada passo divido no meio, e assim por diante, até chegar em 1. Vou fazer ao contrário, se começo de 1, no passo anterior é o dobro (2), no anterior (4), então se gasto x passos para chegar em 1, tenho 2**x = n. Pela definição de logaritmo, x = log(n, 2)
+from math import log
+log(10**6, 2)  = 20
+log(10**9, 2)  = 30
+log(10**12, 2) = 40
+Crescendo exponencialmente meu número de elementos, log(n, 2) cresce apenas linearmente.
+
+Essa ideia, dividir o mundo em dois, é usada muitas vezes, em situações diferentes. No mundo prático você já viu isso nas listas telefônicas (páginas amarelas). Ninguém procura uma empresa, começando da letra A, indo empresa por empresa. Todo mundo abre a lista no meio, para ver em qual metade está. 
+
+Essa ideia vale ao contrário também. Se quero desenhar 128 retângulos numa folha, vou dobrando sucessivamente, chego mais rápido que desenhando um por um.
+
+E por fim, na Tecnologia, Busca Binária é implementada no ÍNDICE dos Bancos de Dados, para não ter que procurar um por um, no banco, tendo que percorrer todos os registros.
+
+Por isso Busca Binária é comparada à invenção da roda, vou reaproveitar a ideia diversas vezes. Veremos isso na disciplina, em outros algoritmos no futuro, concretamente algoritmos de ordenação: mergesort, quicksort, heapsort.
+
+
+
+
+
+

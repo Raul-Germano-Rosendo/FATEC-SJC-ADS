@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 2 - Notas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h2>Calculadora de Média Ponderada</h2>
+            <p>Informe suas notas para descobrir sua média e classificação!</p>
+        </header>
+        <main>
+            <form id="notasForm">
+                <label for="n1">Atividade prática em laboratório:</label>
+                <input type="number" id="n1" min="0" max="10" step="0.01" required>
+                
+                <label for="n2">Prova do semestre:</label>
+                <input type="number" id="n2" min="0" max="10" step="0.01" required>
+                
+                <label for="n3">Trabalho teórico:</label>
+                <input type="number" id="n3" min="0" max="10" step="0.01" required>
+                
+                <button type="submit">Calcular Média</button>
+            </form>
+            <section id="resultado" class="resultado" style="display:none;">
+                <h1></h1>
+                <p></p>
+            </section>
+        </main>
+        <footer>
+            <small>Fatec São José dos Campos &copy; 2025</small>
+        </footer>
+    </div>
+    <script src="notas.js"></script>
+</body>
+</html>

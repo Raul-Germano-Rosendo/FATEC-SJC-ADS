@@ -1,0 +1,115 @@
+NOTA: neste texto usei uma linguagem "informal", apenas para entendimento básico de Grafos, para meus alunos da FATEC. Um maior rigor pode ser obtido no arquivo "ETG julho 2012.PDF". 
+Todas as referências de exercícios e figuras destas notas fazem referência ao PDF descrito. 
+
+Grafos são Estruturas de Dados compostas de vértices e arestas. 
+As arestas são pares não ordenados de vértices, isto é, não importa a direção. 
+Conseguimos resolver muitos problemas da vida real através de grafos, e, por terem uma representação visual, fica menos abstrato ver propriedades ou entender um algoritmo.
+
+Podemos desenhar um grafo de diversas maneiras. Apesar da forma de desenhar um grafo não alterar a estrutura interna, vértices e arestas, determinadas formas de desenhar facilitam visualizar propriedades internas de um grafo, ou o funcionamento de um algoritmo.
+
+Grafos planares podem ser redesenhados sem que se cruzem linhas. 
+E grafos bipartidos são grafos que podem ser desenhados com dois conjuntos de vértices, vértices de cima e vértices debaixo, onde todas as ligações partem de cima para baixo. Não há ligação entre os de cima e entre os debaixo.
+
+Dois grafos importantes são o cavalo 3-por-3 (E 1.9) e o Cubo Q3 (E 1.14) 
+Eles podem ser desenhados na forma planar. E a partir da forma planar, conseguimos ver que eles resolvem o problema das damas e o problema dos cavaleiros. 
+Na teoria dos grafos, resolver o problema das damas significa que existem um Emparelhamento Máximo, onde todas casam. 
+E o problema dos cavaleiros resolvidos, significa que o grafo possui um Circuito Hamiltoniano, isto é, podemos partir de um vértice, visitar todos os outros vértices sem repetir, e voltar para o vértice de origem. 
+Por terem essas propriedades raras, eles podem ser usados para validar algoritmos que resolvem o problema das damas e o problema dos cavaleiros. 
+Note que desenhar o grafo na forma planar, apesar de não alterar a estrutura de dados, isto é, são os mesmos vértices e arestas, permitiu visualizar o Emparelhamento Máximo e o Circuito Hamiltoniano de forma mais fácil.
+
+Seja o exercício E 1.25, dos operários e máquinas. 
+Note que o desenho tem todas as arestas partindo de cima para baixo. E não existe aresta entre os vértices de cima, nem entre os vértices debaixo. Grafos que podem ser desenhados desta forma se chamam bipartidos.
+Conseguir desenhar um grafo na forma bipartida torna mais fácil achar um Emparelhamento Máximo, que resolve o problema das damas. 
+Note que cavalo 3-por-3 e Cubo Q3 são ambos bipartidos. 
+
+No código Máquinas e operários.py resolvemos, através de um código, o problema de maximizar máquinas funcionando, respeitando os operários aptos para operar as máquinas. 
+Isto é, resolve o problema das damas, onde as damas são as máquinas, e os "queridos" são os operários que pilotam as máquinas. 
+O entendimento desse algoritmo será cobrado na prova P2.
+
+Além disso espera-se que o aluno saiba: 1) a partir da descrição do problema, montar o dicionário que pode ser usado em um código 2) a partir do dicionário, voltar para o desenho do grafo
+Em primeiro lugar, escolhemos para chave do dicionário as máquinas. 
+Essa decisão é devido a ser prioritário ter mais máquinas funcionando. 
+No código, o while funciona enquanto houver máquinas, isto é equivalente a perguntar while G, lembre que a condição é True, até que o dicionário G esteja vazio, isto é, acabaram as máquinas. 
+Vou colocar em ordem por uma chave (key = ) diferente da padrão. 
+Minha forma de ordenar é pelo número de operários associado à máquin (len(G[x]). 
+Lembre que posso definir uma função def num_op(x): return len(G[x]). 
+Como só irei usar essa função no sorted, preferi definir uma função anônima com lambda, que funciona da seguinte forma, a função só funciona na linha definida, onde a sintaxe é lambda argumentos de entrada: retorno de saída.
+Então lambda x: len(g[x]) vai pegar cada máquina x e retornar o número de operários da lista associada. 
+Pego [0] do sorted, isto é a máquina que tem menos operários. 
+Logo após vou pegar o primeiro operário da lista (pode ter mais de um). 
+Removo a máquina com del G[m]. 
+E para cada máquina que restou, removo o operário escolhido, se ele estiver dentro da lista da máquina. 
+Recomendo fortemente colocar esse código no Python Tutor e fazer passo a passo para o bom entendimento.
+
+Observação importante: o problema das damas demora muito, vimos que para 150 damas irei demorar mais do que o tempo existente do atual universo. 
+O nosso algoritmo mostrado não resolve exatamente o problema, sendo apenas uma *aproximação*. 
+No caso escolher a máquina mais conveniente, para maximizar o número delas, é uma escolha chamada gulosa (Greedy em inglês). 
+Quando o problema tem resolução exata muito difícil, aproximações são bem vindas, isto é, casar o maior número possível. 
+No nosso exemplo concreto resolvemos o problema, casando todas as máquinas. Mas o algoritmo não garante que isso funcione para qualquer grafo.
+
+Faça os exercícios E 1.81 e E 1.82. 
+Mostre que K4 é planar, porém K5 não é planar. 
+Mostre que K2,3 é planar, porém K3,3 não é planar. 
+Quanto Kn é seguido de um número n, é um grafo com n vértices, todos ligados entre si. 
+Quando tenho dois números, Kn,m significa um grafo bipartido com n vértices encima e m vértices embaixo. 
+Onde todos os de cima são ligados com todos os debaixo. Os desenhos das respostas estão na pasta Teoria dos Grafos Imagens. 
+No desenho feito do K5, coloquei para fora AD e AC, note que sobrou EC e BD cruzando linhas. 
+Se remover EC ele irá cruzar com alguém fora, se remover BD também irá cruzar com alguém fora. 
+Logo é impossível desenhar K5 planar. 
+
+No caso do K3,3 terei que desenhar na forma de um hexágono, com todas as diagonais, conforme desenho na pasta. 
+Posso colocar AC para fora. 
+Continuam cruzando A2 e B3, sendo impossível colocar qualquer uma das duas arestas para fora, sem cruzar com a que já está fora. 
+Kuratowski demostrou um teorema impressionante, onde qualquer grafo é planar, se e somente se não possui um "caroço" K5 ou K3,3.
+
+Como eu mostro que dois grafos são isomorfos? 
+Colocando nomes nos vértices dos dois desenhos, onde as arestas são as mesmas. 
+Assim mostrei que K3,3 é isomorfo ao héxagono com todas as diagonais. 
+São os mesmos vértices e as mesmas arestas em ambos os desenhos, depois de colocar nome nos vértices. 
+Faça o exercício E 2.7, colocando nomes nos vértices da Figura 2.2. 
+Os 3 grafos são isomorfos, e o gabarito está na pasta Teoria dos Grafos Imagens.
+
+O que são conjuntos estáveis? 
+São conjuntos de vértices, onde nenhum é ligado ao outro.
+Encontrar o maior conjunto estável resolve o problema das substâncias químicas, onde o grafo mostra as ligações de substâncias que explodem, quando estão juntas. 
+Quero colocar o maior número de substâncias numa caixa, de tal forma que não exploda a caixa. 
+Isto é, quero colocar o maior conjunto estável de vértices, onde todos não tem ligação com o resto. 
+Aqui também posso fazer uma busca "gulosa" (greedy). 
+Se quero maximizar as substâncias na caixa, devo escolher o vértice com menos vizinhos, isto é, o que menos reage com outros. 
+O algoritmo de aproximação é o Easy Maximum Independent Set by Minimum Degree Greedy Heuristic.py, traduzindo, Heurística por vértice de grau mínimo Gulosa, para resolver o problema do Conjunto Independente Máximo. 
+Os dados de exemplo são da figura "Heurística Gulosa por Vértice de Grau Mínimo" que está na pasta Teoria dos Grafos Imagens. 
+Modelei o dicionário com as substâncias como chave, e os vizinhos como os reagentes, isto é, não podem estar juntos na caixa. 
+Enquanto existirem substâncias (while G), escolho o vértice de grau mínimo, incluo este vértice na minha lista de resposta s, removo todos os vizinhos de todas as listas de substâncias remanescentes. 
+Note, na figura, que cada vértice removido torna o grafo que sobra *muito* mais simples. 
+Desta forma é esperado que esse algoritmos seja muito rápido. 
+Apesar de ser uma aproximação, isto é, pode não obter o maior conjunto em algum caso, ele funcionou bem no nosso caso concreto. 
+Aproximações de problemas de difícil solução exata são bem vindos. 
+Pode ser melhor ter uma aproximação do que fazer um esforço computacional grande para obter a resposta exata.
+
+Como curiosidade, existe uma "irmandade" entre os problemas difíceis. Problemas NP-Hard são uma comunidade bem unida.
+Foi provado que, se alguém resolver, com um algoritmo polinomial, qualquer problema difícil, através de um outro algoritmo, consigo resolver *qualquer* problema difícil. 
+Por causa desse resultado, se acredita que não exista nenhum algoritmo polinomial para qualquer um dos problemas da "irmandade". 
+Então aproximações são bem vindas para esses problemas, que chamamos NP-difíceis.
+
+Ao falar dos problemas das damas e cavaleiros, dissemos que o problema dos cavaleiros não admite um boa caracterização.
+Enquanto no problema das damas conseguimos mostrar um certificado, que faz o Rei Arthur desistir de começar o problema. 
+No caso basta mostrar um subconjunto de damas onde o número de queridos diferentes é menor. 
+No caso dos cavaleiros temos que rodar todas as permutações para ver que não existe configuração possível na mesa. 
+
+O problema dos cavaleiros é denominado problema do Circuito Hamiltoniano, onde verificamos se é possível, num grafo, partir de um vértice origem, percorrer todos os outros vértices, sem repetir, e voltar para o vértice origem. 
+Encontre o circuito hamiltoniano na Figura 17.1 do Exercício E 17.3 
+
+DFS: Busca por profundidade num grafo (Deepth First Search)
+A partir da raiz, visito *todos* os vizinhos
+Só depois passo para o próximo nível (mais profundo)
+
+BFS: Busca por largura num grafo (Breadth First Search)
+Partindo da raiz, visito os grafos até o mais profundo, isto é o mais distante
+Só depois passo para o próximo vizinho não visitado do atual
+
+Algorítmo de Dijkstra 
+"Daik-stra"
+O "ij" em holandês soa como o ai do inglês em bike.
+O "k" é bem claro.
+O "stra" é um pouco mais suave do que falamos em português.
+Veja o vídeo no final da playlist no YouTube

@@ -1,0 +1,49 @@
+**Análise das Respostas**
+
+**Dimensão: Pessoas & Cultura**
+
+* Estágio de maturidade: 2 (Frágil)
+* Pontos fortes:
+	+ Comunicação pode ser boa em alguns casos (Pergunta 1, Pontuação: 2.5/4)
+	+ Ferramentas para apoio às pessoas & cultura podem ser boas em alguns casos (Pergunta 6, Pontuação: 2.5/4)
+* Fragilidades:
+	+ Falhas na comunicação (Pergunta 1, Pontuação: 2.5/4)
+	+ Dependência de fatores externos para liderança e rotina de trabalho (Perguntas 2-4, Pontuações: 1.5/4)
+
+**Dimensão: Estrutura & Operações**
+
+* Estágio de maturidade: 2 (Frágil)
+* Pontos fortes:
+	+ Troca de informações entre áreas pode ser boa em alguns casos (Pergunta 1, Pontuação: 2.5/4)
+	+ Ferramentas para apoio às operações do dia a dia podem ser boas em alguns casos (Pergunta 6, Pontuação: 2.5/4)
+* Fragilidades:
+	+ Dependência de fatores externos para delegação e processos (Perguntas 2-3, Pontuações: 1.5/4)
+	+ Falhas na autonomia operacional (Pergunta 4, Pontuação: 1.5/4)
+
+**Dimensão: Mercado & Clientes**
+
+* Estágio de maturidade: 2 (Frágil)
+* Pontos fortes:
+	+ Comunicação com clientes pode ser boa em alguns casos (Pergunta 1, Pontuação: 2.5/4)
+	+ Ferramentas para apoio ao mercado & clientes podem ser boas em alguns casos (Pergunta 6, Pontuação: 2.5/4)
+* Fragilidades:
+	+ Dependência de fatores externos para reação ao mercado e atendimento (Perguntas 3-4, Pontuações: 1.5/4)
+
+**Dimensão: Direção & Futuro**
+
+* Estágio de maturidade: 2 (Frágil)
+* Pontos fortes:
+	+ Comunicação da visão de futuro pode ser boa em alguns casos (Pergunta 1, Pontuação: 2.5/4)
+	+ Ferramentas para apoio à estratégia podem ser boas em alguns casos (Pergunta 6, Pontuação: 2.5/4)
+* Fragilidades:
+	+ Dependência de fatores externos para liderança e planejamento (Perguntas 2-3, Pontuações: 1.5/4)
+
+**Trilhas de Melhoria Recomendadas**
+
+1. Fortalecer a comunicação internalizada, especialmente na Dimensão Pessoas & Cultura.
+2. Desenvolver habilidades de liderança e delegação mais eficazes, para reduzir a dependência de fatores externos em todas as dimensões.
+3. Implementar ferramentas e processos mais eficazes para apoiar operações diárias e estratégias.
+4. Aumentar a autonomia dos colaboradores e reduzir a dependência de fatores externos na Dimensão Estrutura & Operações.
+5. Fomentar uma cultura de inovação e aprendizado contínuo para melhorar a reação ao mercado e atendimento no futuro.
+
+Lembre-se que essas são apenas recomendações baseadas nas respostas fornecidas. É importante considerar outras informações e fatores para obter um diagnóstico mais preciso e elaborar planos de melhoria adequados.

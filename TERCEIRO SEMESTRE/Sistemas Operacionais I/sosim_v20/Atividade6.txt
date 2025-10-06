@@ -1,0 +1,373 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+31 : Processo 5311392 alocacao de blocos no pagefile
+31 : Processo 5311392 HwPF - Executável0
+31 : Processo 5311392 HwPF - Executável1
+31 : Processo 5311392 HwPF - Executável2
+31 : Processo 5311392 HwPF - Executável3
+31 : Processo 5311392 HwPF - Executável4
+31 : Processo 5311392 criado
+32 : Processo 5311392 Pronto -> Exec
+33 : Processo 5311392 Exec -> Pronto por tempo
+33 : Processo 5312778 alocacao de blocos no pagefile
+33 : Processo 5312778 HwPF - Executável0
+33 : Processo 5312778 HwPF - Executável1
+33 : Processo 5312778 HwPF - Executável2
+33 : Processo 5312778 HwPF - Executável3
+33 : Processo 5312778 HwPF - Executável4
+33 : Processo 5312778 criado
+34 : Processo 5311392 Pronto -> Exec
+35 : Processo 5311392 Exec -> Pronto por tempo
+36 : Processo 5312778 Pronto -> Exec
+37 : Processo 5312778 Exec -> Pronto por tempo
+38 : Processo 5311392 Pronto -> Exec
+39 : Processo 5311392 Exec -> Pronto por tempo
+40 : Processo 5312778 Pronto -> Exec
+41 : Processo 5312778 Exec -> Pronto por tempo
+42 : Processo 5311392 Pronto -> Exec
+43 : Processo 5311392 Exec -> Pronto por tempo
+44 : Processo 5312778 Pronto -> Exec
+45 : Processo 5312778 Exec -> Pronto por tempo
+46 : Processo 5311392 Pronto -> Exec
+47 : Processo 5311392 Exec -> Pronto por tempo
+48 : Processo 5312778 Pronto -> Exec
+49 : Processo 5312778 Exec -> Pronto por tempo
+50 : Processo 5311392 Pronto -> Exec
+51 : Processo 5311392 Exec -> Pronto por tempo
+52 : Processo 5312778 Pronto -> Exec
+53 : Processo 5312778 Exec -> Pronto por tempo
+54 : Processo 5311392 Pronto -> Exec
+55 : Processo 5311392 Exec -> Pronto por tempo
+56 : Processo 5312778 Pronto -> Exec
+57 : Processo 5312778 Exec -> Pronto por tempo
+58 : Processo 5311392 Pronto -> Exec
+59 : Processo 5311392 Exec -> Pronto por tempo
+60 : Processo 5312778 Pronto -> Exec
+61 : Processo 5312778 Exec -> Pronto por tempo
+62 : Processo 5311392 Pronto -> Exec
+63 : Processo 5311392 Exec -> Pronto por tempo
+64 : Processo 5312778 Pronto -> Exec
+65 : Processo 5312778 Exec -> Pronto por tempo
+66 : Processo 5311392 Pronto -> Exec
+67 : Processo 5311392 Exec -> Pronto por tempo
+68 : Processo 5312778 Pronto -> Exec
+69 : Processo 5312778 Exec -> Pronto por tempo
+70 : Processo 5311392 Pronto -> Exec
+71 : Processo 5311392 Exec -> Pronto por tempo
+72 : Processo 5312778 Pronto -> Exec
+73 : Processo 5312778 Exec -> Pronto por tempo
+74 : Processo 5311392 Pronto -> Exec
+75 : Processo 5311392 Exec -> Pronto por tempo
+76 : Processo 5312778 Pronto -> Exec
+77 : Processo 5312778 Exec -> Pronto por tempo
+78 : Processo 5311392 Pronto -> Exec
+79 : Processo 5311392 Exec -> Pronto por tempo
+80 : Processo 5312778 Pronto -> Exec
+81 : Processo 5312778 Exec -> Pronto por tempo
+82 : Processo 5311392 Pronto -> Exec
+83 : Processo 5311392 Exec -> Pronto por tempo
+84 : Processo 5312778 Pronto -> Exec
+85 : Processo 5312778 Exec -> Pronto por tempo
+86 : Processo 5311392 Pronto -> Exec
+87 : Processo 5311392 Exec -> Pronto por tempo
+88 : Processo 5312778 Pronto -> Exec
+89 : Processo 5312778 Exec -> Pronto por tempo
+90 : Processo 5311392 Pronto -> Exec
+91 : Processo 5311392 Exec -> Pronto por tempo
+92 : Processo 5312778 Pronto -> Exec
+93 : Processo 5312778 Exec -> Pronto por tempo
+94 : Processo 5311392 Pronto -> Exec
+95 : Processo 5311392 Exec -> Pronto por tempo
+96 : Processo 5312778 Pronto -> Exec
+97 : Processo 5312778 Exec -> Pronto por tempo
+98 : Processo 5311392 Pronto -> Exec
+99 : Processo 5311392 Exec -> Pronto por tempo
+100 : Processo 5312778 Pronto -> Exec
+101 : Processo 5312778 Exec -> Pronto por tempo
+102 : Processo 5311392 Pronto -> Exec
+103 : Processo 5311392 Exec -> Pronto por tempo
+104 : Processo 5312778 Pronto -> Exec
+105 : Processo 5312778 Exec -> Pronto por tempo
+106 : Processo 5311392 Pronto -> Exec
+107 : Processo 5311392 Exec -> Pronto por tempo
+108 : Processo 5312778 Pronto -> Exec
+109 : Processo 5312778 Exec -> Pronto por tempo
+110 : Processo 5311392 Pronto -> Exec
+111 : Processo 5311392 Exec -> Pronto por tempo
+112 : Processo 5312778 Pronto -> Exec
+113 : Processo 5312778 Exec -> Pronto por tempo
+114 : Processo 5311392 Pronto -> Exec
+115 : Processo 5311392 Exec -> Pronto por tempo
+116 : Processo 5312778 Pronto -> Exec
+117 : Processo 5312778 Exec -> Pronto por tempo
+118 : Processo 5311392 Pronto -> Exec
+119 : Processo 5311392 Exec -> Pronto por tempo
+120 : Processo 5312778 Pronto -> Exec
+121 : Processo 5312778 Exec -> Pronto por tempo
+122 : Processo 5311392 Pronto -> Exec
+123 : Processo 5311392 Exec -> Pronto por tempo
+124 : Processo 5312778 Pronto -> Exec
+125 : Processo 5312778 Exec -> Pronto por tempo
+126 : Processo 5311392 Pronto -> Exec
+127 : Processo 5311392 Exec -> Pronto por tempo
+128 : Processo 5312778 Pronto -> Exec
+129 : Processo 5312778 Exec -> Pronto por tempo
+130 : Processo 5311392 Pronto -> Exec
+131 : Processo 5311392 Exec -> Pronto por tempo
+132 : Processo 5312778 Pronto -> Exec
+133 : Processo 5312778 Exec -> Pronto por tempo
+134 : Processo 5311392 Pronto -> Exec
+135 : Processo 5311392 Exec -> Pronto por tempo
+136 : Processo 5312778 Pronto -> Exec
+137 : Processo 5312778 Exec -> Pronto por tempo
+138 : Processo 5311392 Pronto -> Exec
+139 : Processo 5311392 Exec -> Pronto por tempo
+140 : Processo 5312778 Pronto -> Exec
+141 : Processo 5312778 Exec -> Pronto por tempo
+142 : Processo 5311392 Pronto -> Exec
+143 : Processo 5311392 Exec -> Pronto por tempo
+144 : Processo 5312778 Pronto -> Exec
+145 : Processo 5312778 Exec -> Pronto por tempo
+146 : Processo 5311392 Pronto -> Exec
+147 : Processo 5311392 Exec -> Pronto por tempo
+148 : Processo 5312778 Pronto -> Exec
+149 : Processo 5312778 Exec -> Pronto por tempo
+150 : Processo 5311392 Pronto -> Exec
+151 : Processo 5311392 Exec -> Pronto por tempo
+152 : Processo 5312778 Pronto -> Exec
+153 : Processo 5312778 Exec -> Pronto por tempo
+154 : Processo 5311392 Pronto -> Exec
+155 : Processo 5311392 Exec -> Pronto por tempo
+156 : Processo 5312778 Pronto -> Exec
+157 : Processo 5312778 Exec -> Pronto por tempo
+158 : Processo 5311392 Pronto -> Exec
+159 : Processo 5311392 Exec -> Pronto por tempo
+160 : Processo 5312778 Pronto -> Exec
+161 : Processo 5312778 Exec -> Pronto por tempo
+162 : Processo 5311392 Pronto -> Exec
+163 : Processo 5311392 Exec -> Pronto por tempo
+164 : Processo 5312778 Pronto -> Exec
+165 : Processo 5312778 Exec -> Pronto por tempo
+166 : Processo 5311392 Pronto -> Exec
+167 : Processo 5311392 Exec -> Pronto por tempo
+168 : Processo 5312778 Pronto -> Exec
+169 : Processo 5312778 Exec -> Pronto por tempo
+170 : Processo 5311392 Pronto -> Exec
+171 : Processo 5311392 Exec -> Pronto por tempo
+172 : Processo 5312778 Pronto -> Exec
+173 : Processo 5312778 Exec -> Pronto por tempo
+174 : Processo 5311392 Pronto -> Exec
+175 : Processo 5311392 Exec -> Pronto por tempo
+176 : Processo 5312778 Pronto -> Exec
+177 : Processo 5312778 Exec -> Pronto por tempo
+178 : Processo 5311392 Pronto -> Exec
+179 : Processo 5311392 Exec -> Pronto por tempo
+180 : Processo 5312778 Pronto -> Exec
+181 : Processo 5312778 Exec -> Pronto por tempo
+182 : Processo 5311392 Pronto -> Exec
+183 : Processo 5311392 Exec -> Pronto por tempo
+184 : Processo 5312778 Pronto -> Exec
+185 : Processo 5312778 Exec -> Pronto por tempo
+186 : Processo 5311392 Pronto -> Exec
+187 : Processo 5311392 Exec -> Pronto por tempo
+188 : Processo 5312778 Pronto -> Exec
+189 : Processo 5312778 Exec -> Pronto por tempo
+190 : Processo 5311392 Pronto -> Exec
+191 : Processo 5311392 Exec -> Pronto por tempo
+192 : Processo 5312778 Pronto -> Exec
+193 : Processo 5312778 Exec -> Pronto por tempo
+194 : Processo 5311392 Pronto -> Exec
+195 : Processo 5311392 Exec -> Pronto por tempo
+196 : Processo 5312778 Pronto -> Exec
+197 : Processo 5312778 Exec -> Pronto por tempo
+198 : Processo 5311392 Pronto -> Exec
+199 : Processo 5311392 Exec -> Pronto por tempo
+200 : Processo 5312778 Pronto -> Exec
+201 : Processo 5312778 Exec -> Pronto por tempo
+202 : Processo 5311392 Pronto -> Exec
+203 : Processo 5311392 Exec -> Pronto por tempo
+204 : Processo 5312778 Pronto -> Exec
+205 : Processo 5312778 Exec -> Pronto por tempo
+206 : Processo 5311392 Pronto -> Exec
+207 : Processo 5311392 Exec -> Pronto por tempo
+208 : Processo 5312778 Pronto -> Exec
+209 : Processo 5312778 Exec -> Pronto por tempo
+210 : Processo 5311392 Pronto -> Exec
+211 : Processo 5311392 Exec -> Pronto por tempo
+212 : Processo 5312778 Pronto -> Exec
+213 : Processo 5312778 Exec -> Pronto por tempo
+214 : Processo 5311392 Pronto -> Exec
+215 : Processo 5311392 Exec -> Pronto por tempo
+216 : Processo 5312778 Pronto -> Exec
+217 : Processo 5312778 Exec -> Pronto por tempo
+218 : Processo 5311392 Pronto -> Exec
+219 : Processo 5311392 Exec -> Pronto por tempo
+220 : Processo 5312778 Pronto -> Exec
+221 : Processo 5312778 Exec -> Pronto por tempo
+222 : Processo 5311392 Pronto -> Exec
+223 : Processo 5311392 Exec -> Pronto por tempo
+224 : Processo 5312778 Pronto -> Exec
+225 : Processo 5312778 Exec -> Pronto por tempo
+226 : Processo 5311392 Pronto -> Exec
+227 : Processo 5311392 Exec -> Pronto por tempo
+228 : Processo 5312778 Pronto -> Exec
+229 : Processo 5312778 Exec -> Pronto por tempo
+230 : Processo 5311392 Pronto -> Exec
+231 : Processo 5311392 Exec -> Pronto por tempo
+232 : Processo 5312778 Pronto -> Exec
+233 : Processo 5312778 Exec -> Pronto por tempo
+234 : Processo 5311392 Pronto -> Exec
+235 : Processo 5311392 Exec -> Pronto por tempo
+236 : Processo 5312778 Pronto -> Exec
+237 : Processo 5312778 Exec -> Pronto por tempo
+238 : Processo 5311392 Pronto -> Exec
+239 : Processo 5311392 Exec -> Pronto por tempo
+240 : Processo 5312778 Pronto -> Exec
+241 : Processo 5312778 Exec -> Pronto por tempo
+242 : Processo 5311392 Pronto -> Exec
+243 : Processo 5311392 Exec -> Pronto por tempo
+244 : Processo 5312778 Pronto -> Exec
+245 : Processo 5312778 Exec -> Pronto por tempo
+246 : Processo 5311392 Pronto -> Exec
+247 : Processo 5311392 Exec -> Pronto por tempo
+248 : Processo 5312778 Pronto -> Exec
+249 : Processo 5312778 Exec -> Pronto por tempo
+250 : Processo 5311392 Pronto -> Exec
+251 : Processo 5311392 Exec -> Pronto por tempo
+252 : Processo 5312778 Pronto -> Exec
+253 : Processo 5312778 Exec -> Pronto por tempo
+254 : Processo 5311392 Pronto -> Exec
+255 : Processo 5311392 Exec -> Pronto por tempo
+256 : Processo 5312778 Pronto -> Exec
+257 : Processo 5312778 Exec -> Pronto por tempo
+258 : Processo 5311392 Pronto -> Exec
+259 : Processo 5311392 Exec -> Pronto por tempo
+260 : Processo 5312778 Pronto -> Exec
+261 : Processo 5312778 Exec -> Pronto por tempo
+262 : Processo 5311392 Pronto -> Exec
+263 : Processo 5311392 Exec -> Pronto por tempo
+264 : Processo 5312778 Pronto -> Exec
+265 : Processo 5312778 Exec -> Pronto por tempo
+266 : Processo 5311392 Pronto -> Exec
+267 : Processo 5311392 Exec -> Pronto por tempo
+268 : Processo 5312778 Pronto -> Exec
+269 : Processo 5312778 Exec -> Pronto por tempo
+270 : Processo 5311392 Pronto -> Exec
+271 : Processo 5311392 Exec -> Pronto por tempo
+272 : Processo 5312778 Pronto -> Exec
+273 : Processo 5312778 Exec -> Pronto por tempo
+274 : Processo 5311392 Pronto -> Exec
+275 : Processo 5311392 Exec -> Pronto por tempo
+276 : Processo 5312778 Pronto -> Exec
+277 : Processo 5312778 Exec -> Pronto por tempo
+278 : Processo 5311392 Pronto -> Exec
+279 : Processo 5311392 Exec -> Pronto por tempo
+280 : Processo 5312778 Pronto -> Exec
+281 : Processo 5312778 Exec -> Pronto por tempo
+282 : Processo 5311392 Pronto -> Exec
+283 : Processo 5311392 Exec -> Pronto por tempo
+284 : Processo 5312778 Pronto -> Exec
+285 : Processo 5312778 Exec -> Pronto por tempo
+286 : Processo 5311392 Pronto -> Exec
+287 : Processo 5311392 Exec -> Pronto por tempo
+288 : Processo 5312778 Pronto -> Exec
+289 : Processo 5312778 Exec -> Pronto por tempo
+290 : Processo 5311392 Pronto -> Exec
+291 : Processo 5311392 Exec -> Pronto por tempo
+292 : Processo 5312778 Pronto -> Exec
+293 : Processo 5312778 Exec -> Pronto por tempo
+294 : Processo 5311392 Pronto -> Exec
+295 : Processo 5311392 Exec -> Pronto por tempo
+296 : Processo 5312778 Pronto -> Exec
+297 : Processo 5312778 Exec -> Pronto por tempo
+298 : Processo 5311392 Pronto -> Exec
+299 : Processo 5311392 Exec -> Pronto por tempo
+300 : Processo 5312778 Pronto -> Exec
+301 : Processo 5312778 Exec -> Pronto por tempo
+302 : Processo 5311392 Pronto -> Exec
+303 : Processo 5311392 Exec -> Pronto por tempo
+304 : Processo 5312778 Pronto -> Exec
+305 : Processo 5312778 Exec -> Pronto por tempo
+306 : Processo 5311392 Pronto -> Exec
+307 : Processo 5311392 Exec -> Pronto por tempo
+308 : Processo 5312778 Pronto -> Exec
+309 : Processo 5312778 Exec -> Pronto por tempo
+310 : Processo 5311392 Pronto -> Exec
+311 : Processo 5311392 Exec -> Pronto por tempo
+312 : Processo 5312778 Pronto -> Exec
+313 : Processo 5312778 Exec -> Pronto por tempo
+314 : Processo 5311392 Pronto -> Exec
+315 : Processo 5311392 Exec -> Pronto por tempo
+316 : Processo 5312778 Pronto -> Exec
+317 : Processo 5312778 Exec -> Pronto por tempo
+318 : Processo 5311392 Pronto -> Exec
+319 : Processo 5311392 Exec -> Pronto por tempo
+320 : Processo 5312778 Pronto -> Exec
+321 : Processo 5312778 Exec -> Pronto por tempo
+322 : Processo 5311392 Pronto -> Exec
+323 : Processo 5311392 Exec -> Pronto por tempo
+324 : Processo 5312778 Pronto -> Exec
+325 : Processo 5312778 Exec -> Pronto por tempo
+326 : Processo 5311392 Pronto -> Exec
+327 : Processo 5311392 Exec -> Pronto por tempo
+328 : Processo 5312778 Pronto -> Exec
+329 : Processo 5312778 Exec -> Pronto por tempo
+330 : Processo 5311392 Pronto -> Exec
+331 : Processo 5311392 Exec -> Pronto por tempo
+332 : Processo 5312778 Pronto -> Exec
+333 : Processo 5312778 Exec -> Pronto por tempo
+334 : Processo 5311392 Pronto -> Exec
+335 : Processo 5311392 Exec -> Pronto por tempo
+336 : Processo 5312778 Pronto -> Exec
+337 : Processo 5312778 Exec -> Pronto por tempo
+338 : Processo 5311392 Pronto -> Exec
+339 : Processo 5311392 Exec -> Pronto por tempo
+340 : Processo 5312778 Pronto -> Exec
+341 : Processo 5312778 Exec -> Pronto por tempo
+342 : Processo 5311392 Pronto -> Exec
+343 : Processo 5311392 Exec -> Pronto por tempo
+344 : Processo 5312778 Pronto -> Exec
+345 : Processo 5312778 Exec -> Pronto por tempo
+346 : Processo 5311392 Pronto -> Exec
+347 : Processo 5311392 Exec -> Pronto por tempo
+348 : Processo 5312778 Pronto -> Exec
+348 : Processo 5312778 Executando -> Suspenso
+349 : Processo 5311392 Pronto -> Exec
+350 : Processo 5311392 Exec -> Pronto por tempo
+351 : Processo 5311392 Pronto -> Exec
+352 : Processo 5311392 Exec -> Pronto por tempo
+353 : Processo 5311392 Pronto -> Exec
+354 : Processo 5311392 Exec -> Pronto por tempo
+355 : Processo 5311392 Pronto -> Exec
+356 : Processo 5311392 Exec -> Pronto por tempo
+357 : Processo 5311392 Pronto -> Exec
+358 : Processo 5311392 Exec -> Pronto por tempo
+359 : Processo 5311392 Pronto -> Exec
+360 : Processo 5311392 Exec -> Pronto por tempo
+361 : Processo 5311392 Pronto -> Exec
+362 : Processo 5311392 Exec -> Pronto por tempo
+363 : Processo 5311392 Pronto -> Exec
+364 : Processo 5311392 Exec -> Pronto por tempo
+365 : Processo 5312778 Pronto -> Exec
+366 : Processo 5312778 Exec -> Pronto por tempo
+367 : Processo 5311392 Pronto -> Exec
+368 : Processo 5311392 Exec -> Pronto por tempo
+369 : Processo 5312778 Pronto -> Exec
+370 : Processo 5312778 Exec -> Pronto por tempo
+371 : Processo 5311392 Pronto -> Exec
+372 : Processo 5311392 Exec -> Pronto por tempo
+373 : Processo 5312778 Pronto -> Exec
+374 : Processo 5312778 Exec -> Pronto por tempo
+375 : Processo 5311392 Pronto -> Exec
+375 : Processo 5311392 eliminado
+375 : Tempo de UCP:91 Tempo decorrido:344
+375 : Processo 5311392 liberando pagefile reservado
+376 : Processo 5312778 Pronto -> Exec
+377 : Processo 5312778 Exec -> Pronto por tempo
+378 : Processo 5312778 Pronto -> Exec
+379 : Processo 5312778 Exec -> Pronto por tempo
+380 : Processo 5312778 Pronto -> Exec
+381 : Processo 5312778 Exec -> Pronto por tempo
+382 : Processo 5312778 Pronto -> Exec
+390 : Processo 5312778 Exec -> Pronto por tempo
+391 : Processo 5312778 Pronto -> Exec

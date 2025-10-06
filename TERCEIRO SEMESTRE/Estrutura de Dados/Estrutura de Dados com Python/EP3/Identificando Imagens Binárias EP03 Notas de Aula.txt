@@ -1,0 +1,15 @@
+Identificando Imagens Binárias
+1. Para ler o texto multilinha e transformar na matriz de 0's e 1's: primeiro fazer split e depois transformar para lista cada uma das linhas
+2. Qual Estrutura de Dados irei usar para guardar as regiões: pode ser uma lista de listas, onde cada índice da lista principal é uma região, e os elementos das regiões são listas de coordenadas na matriz (linha, coluna)
+3. A parte mais difícil é a lógica principal. Vou percorrer linha por linha e as colunas da esquerda para direita. Cada vez que encontrou um '1' vou verificar encima e do lado esquerdo. 
+3.1. Tem gente encima: vou incluir a coordenada na região de cima
+3.2. Tem gente do lado esquerdo. Existem duas possibilidades:
+3.2.1. Não tem gente encima ao mesmo tempo, então se trata de uma nova região
+3.2.2. Tem gente encima ao mesmo tempo. Então esse elemento irá "juntar" duas regiões diferentes, a de cima e a do lado esquerdo. Juntar tem também duas possibilidades:
+3.2.2.a. A região de cima é a mesma da região do lado esquerdo, então não precisamos fazer nada
+Ex.:
+11
+11   
+quando chego em (1,1) encima e esq estão na mesma região
+3.2.2.b. Regiões diferentes devem ser "juntadas". Vou fazer extend (append para vários elementos) e apagar a região que foi incorporada.
+

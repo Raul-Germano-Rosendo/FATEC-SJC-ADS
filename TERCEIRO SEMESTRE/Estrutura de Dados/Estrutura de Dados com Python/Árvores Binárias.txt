@@ -1,0 +1,40 @@
+Árvores Binárias
+
+Árvore em Computação é de ponta cabeça, raiz encima e galhos embaixo
+Binária porque cada nó tem no máximo dois galhos
+
+Existe uma árvore especial, chamada Árvore Binária de BUSCA, onde todos os nós da direita são maiores ou iguais no conteúdo e todos os nós da esquerda são menores ou iguais no contéudo, isso vale para qualquer nó
+Se eu baixar todos os nós na vertical, vou ter um VETOR ORDENADO
+Para BUSCA, se tenho uma árvore de busca, a cada passo jogo fora metade da árvore, porque essa estrutura permite dividir o mundo em dois, a cada passo. Ou seja vou gastar log(n, 2) passos para achar qualquer número
+Parto da raiz e se for maior, jogo metade da esq e assim por diante
+
+Para BUSCA isso é igualzinho Busca Binária num vetor ordenado, a diferença é que a Estrutura de Dados é diferente, uma árvore binária, implementada com ponteiros
+
+Se estou ensinando uma Estrutura nova é que o vetor ordenado tem alguma limitação
+
+Em programação não podemos ver uma única operação, no caso busca!! Temos que ver inserção e remoção de elementos
+Um vetor ordenado para busca é rápido, mas será que é rápido para inserir ou remover elementos???????
+É ruim principalmente para inserir ou remover no início, preciso empurrar todo mundo, e tanto faz se o vetor está ordenado ou não
+
+A árvore é implementada por ponteiros, ponteiro para esq e ponteiro para a direita, então, remover ou inserir é muito melhor!
+Assim, tenho para busca eficiência e também para inserir ou remover. Veja no desenho que para remover o zero, não preciso mover ninguém na árvore. 
+
+Árvore binária de busca é a base para criar o ÍNDICE dos Bancos de Dados. Em inglês é BST Binary Search Tree.
+
+Por incrível que pareça, é eficaz não só para inserir e remover no início. Se remover a raiz é rápido reorganizar a árvore, mas não veremos esse algoritmo.
+
+Por último, existe um caso, onde acabo gastando muito mais para buscar, onde para cada nó tenho apenas um galho de um dos lados
+
+1
+ \
+  2
+   \
+    3
+     \
+      4
+       \
+        5
+         \
+          6
+
+Igualzinho o pior caso do Quicksort, da mesma maneira é um caso raro, em geral os algoritmos para árvores conseguem gerar árvores razoavelmente balanceadas, isto é sem galhos de um lado apenas, ou seja, uma árvore que só tem galhos de um lado é algo raro

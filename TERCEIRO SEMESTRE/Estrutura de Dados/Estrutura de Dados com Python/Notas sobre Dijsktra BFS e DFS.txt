@@ -1,0 +1,26 @@
+Códigos e imagens em bit.ly\PythonED
+
+Busca por Largura (Breadth First Search)
+Visito todos os vizinhos, antes de ir para a frente
+No algoritmo vemos que usamos uma fila, para poder varrer todos os vizinhos, antes de ir para a frente
+'São Paulo', 'Rio de Janeiro', 'Curitiba', 'Belo Horizonte', 'Vitória', 'Florianópolis', 'Porto Alegre', 'Brasília'
+São Paulo tem com vizinhos Rio de Janeiro e Curitiba, que são visitados antes de ir para a frente, em seguida Belo Horizonte e Vitória, vizinhos de Rio de Janeiro, em seguida Florianópolis e Porto Alegre, vizinhos de Curitiba, finalmente visitamos Brasília, que está no último nível
+
+Busca por Profundidade (Depth First Search)
+Vou o mais longe que puder, quando acaba o caminho, volto para o nível anterior e continuo tentando ir até o fundo
+No algoritmo usamos uma pilha, para desempilhar o último e ir para a frente, antes de continuar os vizinhos do mesmo nível
+'São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Brasília', 'Vitória', 'Curitiba', 'Florianópolis', 'Porto Alegre'
+Saio de São Paulo, visito RJ, depois BH, e depois Brasília, ponto final, volto um nível, não tem ninguém mais, volto mais um nível, vou para Vitória, ponto final, volto um nível, não tem ninguém mais, vou para Curitiba, e depois para Florianópolis, ponto final, volto um nível, vou para Porto Alegre, ponto final, volto um nível, não tem mais nínguem, volto para SP e acabou.
+
+Dijkstra
+Encontrar o caminho mais curto entre dois pontos
+A partir da origem vejo os vizinhos, escolho o mais perto, e assim sucessivamente
+
+No código temos 3 grafos de exemplo
+1) Grafo de Tempos, saindo de São José em direção à Ubatuba, posso ir para Taubaté, gasto 35min, e de Taubaté vou para Ubatuba, gastando 70 min, neste percurso gasto 105 min. Outro percurso é sair de São José e ir para Caraguatatuba, gastando 90min, e de Caraguatatuba ir para Ubatuba, ponto final, gastando 60min, neste percurso gasto 150min. Menor gasto de tempo: SJC -> Tau -> Ubatuba.
+2) Grafo de Distâncias, saindo de SJC para Taubaté percorro 45km, e de Taubaté para Ubatuba, percorro 92km, distância total de 137km neste percurso. Outro percurso sai de SJC até Caraguatatuba, percorrendo 85km, e de Caraguatatuba para Ubatuba, ponto final, percorrendo mais 50km, distância total de 135km. Menor distância percorrida: SJC -> Caragua -> Ubatuba
+3) Grafo de distâncias entre as cidades A B C D e E, sendo que o melhor percurso para chegar de A até E é A -> C -> E gastando 5 unidades
+
+Observações importantes:
+1) O aluno deve saber montar o grafo a partir do desenho. Lembrando que se o grafo não tem pesos nas arestas, serve um dicionário com um nó como chave e uma lista de vizinhos. Porém se o grafo tiver pesos nas arestas, como os grafos do código dijsktra.py, o dicionário deve ter para cada vértice chave, um dicionário com pares nó vizinho: peso para chegar até ele
+2) O contrário também é importante, a partir do dicionário do grafo, voltar ao desenho. Neste caso vale a pena fazer algumas tentativas para obter um desenho claro.

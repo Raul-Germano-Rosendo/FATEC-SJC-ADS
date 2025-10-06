@@ -1,0 +1,177 @@
+Aqui estão as respostas para cada pergunta:
+
+**Dimensão: Pessoas & Cultura**
+
+Pergunta 1: Como a comunicação acontece no dia a dia?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: A comunicação pode ser boa em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 2: Como você descreveria o estilo de liderança predominante?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O estilo de liderança pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 3: Quando surgem problemas, como os times costumam agir?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O comportamento dos times pode variar dependendo do problema e da situação.
+
+Pontuação: 1.5/4
+
+Pergunta 4: Como está organizada a rotina de trabalho?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: A rotina de trabalho pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 5: Até que ponto os valores da empresa estão presentes no dia a dia?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: Os valores da empresa podem variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 6: Quais ferramentas apoiam pessoas & cultura?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: As ferramentas para apoio às pessoas & cultura podem ser boas em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+**Dimensão: Estrutura & Operações**
+
+Pergunta 1: Como é a troca de informações entre áreas?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: A troca de informações pode ser boa em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 2: Como os gestores lidam com delegação?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: A delegação pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 3: Quando processos falham, o que acontece?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O comportamento quando os processos falham pode variar dependendo da situação.
+
+Pontuação: 1.5/4
+
+Pergunta 4: Quanta autonomia operacional os colaboradores têm?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: A autonomia operacional pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 5: Qual é a relação da empresa com padrões de qualidade?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: A relação com padrões de qualidade pode ser boa em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 6: Quais ferramentas apoiam as operações do dia a dia?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: As ferramentas para apoio às operações do dia a dia podem ser boas em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+**Dimensão: Mercado & Clientes**
+
+Pergunta 1: Como a empresa ouve seus clientes?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: A empresa pode ouvir seus clientes em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 2: Como vendas e atendimento trabalham juntos?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: As áreas de vendas e atendimento podem trabalhar bem em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 3: Quando o mercado muda, como a empresa reage?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: A empresa pode variar sua resposta dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 4: Como é o acompanhamento de metas comerciais?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O acompanhamento de metas comerciais pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 5: O diferencial competitivo está claro?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O diferencial competitivo pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 6: Quais ferramentas apoiam mercado & clientes?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: As ferramentas para apoio ao mercado & clientes podem ser boas em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+**Dimensão: Direção & Futuro**
+
+Pergunta 1: Como a visão de futuro é comunicada?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: A comunicação da visão de futuro pode ser boa em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4
+
+Pergunta 2: Como os líderes conectam pessoas à estratégia?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: Os líderes podem variar sua abordagem dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 3: Qual é o papel da inovação no planejamento?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: O papel da inovação pode variar dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 4: Como as atividades diárias se conectam com a estratégia?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: As atividades diárias podem variar sua conexão com a estratégia dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 5: Como a empresa lida com propósito e impacto social?
+Resposta: 2 - Frágil, dependente de fatores externos
+
+Descrição: A empresa pode variar sua abordagem para lidar com o propósito e impacto social dependendo das circunstâncias e da pessoa.
+
+Pontuação: 1.5/4
+
+Pergunta 6: Quais ferramentas apoiam a estratégia?
+Resposta: 3 - Bom, mas com falhas
+
+Descrição: As ferramentas para apoio à estratégia podem ser boas em alguns casos, mas há também momentos de falha.
+
+Pontuação: 2.5/4

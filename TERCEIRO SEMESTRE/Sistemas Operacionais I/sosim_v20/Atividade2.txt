@@ -1,0 +1,440 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+160 : Processo 3720447 alocacao de blocos no pagefile
+160 : Processo 3720447 HwPF - Executável0
+160 : Processo 3720447 HwPF - Executável1
+160 : Processo 3720447 HwPF - Executável2
+160 : Processo 3720447 HwPF - Executável3
+160 : Processo 3720447 HwPF - Executável4
+160 : Processo 3720447 criado
+161 : Processo 3720447 Pronto -> Exec
+162 : Processo 3720447 Exec -> Pronto por tempo
+163 : Processo 3720447 Pronto -> Exec
+164 : Processo 3720447 Exec -> Pronto por tempo
+165 : Processo 3720447 Pronto -> Exec
+166 : Processo 3720447 Exec -> Pronto por tempo
+167 : Processo 3720447 Pronto -> Exec
+168 : Processo 3720447 Exec -> Pronto por tempo
+169 : Processo 3720447 Pronto -> Exec
+170 : Processo 3720447 Exec -> Pronto por tempo
+170 : Processo 3731446 alocacao de blocos no pagefile
+170 : Processo 3731446 HwPF - Executável0
+170 : Processo 3731446 HwPF - Executável1
+170 : Processo 3731446 HwPF - Executável2
+170 : Processo 3731446 HwPF - Executável3
+170 : Processo 3731446 HwPF - Executável4
+170 : Processo 3731446 criado
+171 : Processo 3720447 Pronto -> Exec
+172 : Processo 3720447 Exec -> Pronto por tempo
+173 : Processo 3731446 Pronto -> Exec
+173 : Processo 3731446 Exec -> I/O
+174 : Processo 3720447 Pronto -> Exec
+175 : Processo 3720447 Exec -> Pronto por tempo
+176 : Processo 3720447 Pronto -> Exec
+177 : Processo 3720447 Exec -> Pronto por tempo
+178 : Processo 3720447 Pronto -> Exec
+179 : Processo 3720447 Exec -> Pronto por tempo
+180 : Processo 3720447 Pronto -> Exec
+181 : Processo 3720447 Exec -> Pronto por tempo
+182 : Processo 3720447 Pronto -> Exec
+183 : Processo 3720447 Exec -> Pronto por tempo
+184 : Processo 3720447 Pronto -> Exec
+185 : Processo 3720447 Exec -> Pronto por tempo
+186 : Processo 3731446 Pronto -> Exec
+187 : Processo 3731446 Exec -> Pronto por tempo
+188 : Processo 3720447 Pronto -> Exec
+189 : Processo 3720447 Exec -> Pronto por tempo
+190 : Processo 3731446 Pronto -> Exec
+190 : Processo 3731446 Exec -> I/O
+191 : Processo 3720447 Pronto -> Exec
+192 : Processo 3720447 Exec -> Pronto por tempo
+193 : Processo 3720447 Pronto -> Exec
+194 : Processo 3720447 Exec -> Pronto por tempo
+195 : Processo 3720447 Pronto -> Exec
+196 : Processo 3720447 Exec -> Pronto por tempo
+197 : Processo 3720447 Pronto -> Exec
+198 : Processo 3720447 Exec -> Pronto por tempo
+199 : Processo 3720447 Pronto -> Exec
+200 : Processo 3720447 Exec -> Pronto por tempo
+201 : Processo 3720447 Pronto -> Exec
+202 : Processo 3720447 Exec -> Pronto por tempo
+203 : Processo 3731446 Pronto -> Exec
+203 : Processo 3731446 Exec -> I/O
+204 : Processo 3720447 Pronto -> Exec
+205 : Processo 3720447 Exec -> Pronto por tempo
+206 : Processo 3720447 Pronto -> Exec
+207 : Processo 3720447 Exec -> Pronto por tempo
+208 : Processo 3720447 Pronto -> Exec
+209 : Processo 3720447 Exec -> Pronto por tempo
+210 : Processo 3720447 Pronto -> Exec
+211 : Processo 3720447 Exec -> Pronto por tempo
+212 : Processo 3720447 Pronto -> Exec
+213 : Processo 3720447 Exec -> Pronto por tempo
+214 : Processo 3720447 Pronto -> Exec
+215 : Processo 3720447 Exec -> Pronto por tempo
+216 : Processo 3731446 Pronto -> Exec
+216 : Processo 3731446 Exec -> I/O
+217 : Processo 3720447 Pronto -> Exec
+218 : Processo 3720447 Exec -> Pronto por tempo
+219 : Processo 3720447 Pronto -> Exec
+220 : Processo 3720447 Exec -> Pronto por tempo
+221 : Processo 3720447 Pronto -> Exec
+222 : Processo 3720447 Exec -> Pronto por tempo
+223 : Processo 3720447 Pronto -> Exec
+224 : Processo 3720447 Exec -> Pronto por tempo
+225 : Processo 3720447 Pronto -> Exec
+226 : Processo 3720447 Exec -> Pronto por tempo
+227 : Processo 3720447 Pronto -> Exec
+228 : Processo 3720447 Exec -> Pronto por tempo
+229 : Processo 3731446 Pronto -> Exec
+229 : Processo 3731446 Exec -> I/O
+230 : Processo 3720447 Pronto -> Exec
+231 : Processo 3720447 Exec -> Pronto por tempo
+232 : Processo 3720447 Pronto -> Exec
+233 : Processo 3720447 Exec -> Pronto por tempo
+234 : Processo 3720447 Pronto -> Exec
+235 : Processo 3720447 Exec -> Pronto por tempo
+236 : Processo 3720447 Pronto -> Exec
+237 : Processo 3720447 Exec -> Pronto por tempo
+238 : Processo 3720447 Pronto -> Exec
+239 : Processo 3720447 Exec -> Pronto por tempo
+240 : Processo 3720447 Pronto -> Exec
+241 : Processo 3720447 Exec -> Pronto por tempo
+242 : Processo 3731446 Pronto -> Exec
+242 : Processo 3731446 Exec -> I/O
+243 : Processo 3720447 Pronto -> Exec
+244 : Processo 3720447 Exec -> Pronto por tempo
+245 : Processo 3720447 Pronto -> Exec
+246 : Processo 3720447 Exec -> Pronto por tempo
+247 : Processo 3720447 Pronto -> Exec
+248 : Processo 3720447 Exec -> Pronto por tempo
+249 : Processo 3720447 Pronto -> Exec
+250 : Processo 3720447 Exec -> Pronto por tempo
+251 : Processo 3720447 Pronto -> Exec
+252 : Processo 3720447 Exec -> Pronto por tempo
+253 : Processo 3720447 Pronto -> Exec
+254 : Processo 3720447 Exec -> Pronto por tempo
+255 : Processo 3731446 Pronto -> Exec
+255 : Processo 3731446 Exec -> I/O
+256 : Processo 3720447 Pronto -> Exec
+257 : Processo 3720447 Exec -> Pronto por tempo
+258 : Processo 3720447 Pronto -> Exec
+259 : Processo 3720447 Exec -> Pronto por tempo
+260 : Processo 3720447 Pronto -> Exec
+261 : Processo 3720447 Exec -> Pronto por tempo
+262 : Processo 3720447 Pronto -> Exec
+263 : Processo 3720447 Exec -> Pronto por tempo
+264 : Processo 3720447 Pronto -> Exec
+265 : Processo 3720447 Exec -> Pronto por tempo
+266 : Processo 3720447 Pronto -> Exec
+267 : Processo 3720447 Exec -> Pronto por tempo
+268 : Processo 3731446 Pronto -> Exec
+268 : Processo 3731446 Exec -> I/O
+269 : Processo 3720447 Pronto -> Exec
+270 : Processo 3720447 Exec -> Pronto por tempo
+271 : Processo 3720447 Pronto -> Exec
+272 : Processo 3720447 Exec -> Pronto por tempo
+273 : Processo 3720447 Pronto -> Exec
+274 : Processo 3720447 Exec -> Pronto por tempo
+275 : Processo 3720447 Pronto -> Exec
+276 : Processo 3720447 Exec -> Pronto por tempo
+277 : Processo 3720447 Pronto -> Exec
+278 : Processo 3720447 Exec -> Pronto por tempo
+279 : Processo 3720447 Pronto -> Exec
+280 : Processo 3720447 Exec -> Pronto por tempo
+281 : Processo 3731446 Pronto -> Exec
+281 : Processo 3731446 Exec -> I/O
+282 : Processo 3720447 Pronto -> Exec
+283 : Processo 3720447 Exec -> Pronto por tempo
+284 : Processo 3720447 Pronto -> Exec
+285 : Processo 3720447 Exec -> Pronto por tempo
+286 : Processo 3720447 Pronto -> Exec
+287 : Processo 3720447 Exec -> Pronto por tempo
+288 : Processo 3720447 Pronto -> Exec
+289 : Processo 3720447 Exec -> Pronto por tempo
+290 : Processo 3720447 Pronto -> Exec
+291 : Processo 3720447 Exec -> Pronto por tempo
+292 : Processo 3720447 Pronto -> Exec
+293 : Processo 3720447 Exec -> Pronto por tempo
+294 : Processo 3731446 Pronto -> Exec
+294 : Processo 3731446 Exec -> I/O
+295 : Processo 3720447 Pronto -> Exec
+296 : Processo 3720447 Exec -> Pronto por tempo
+297 : Processo 3720447 Pronto -> Exec
+298 : Processo 3720447 Exec -> Pronto por tempo
+299 : Processo 3720447 Pronto -> Exec
+300 : Processo 3720447 Exec -> Pronto por tempo
+301 : Processo 3720447 Pronto -> Exec
+302 : Processo 3720447 Exec -> Pronto por tempo
+303 : Processo 3720447 Pronto -> Exec
+304 : Processo 3720447 Exec -> Pronto por tempo
+305 : Processo 3720447 Pronto -> Exec
+306 : Processo 3720447 Exec -> Pronto por tempo
+307 : Processo 3731446 Pronto -> Exec
+307 : Processo 3731446 Exec -> I/O
+308 : Processo 3720447 Pronto -> Exec
+309 : Processo 3720447 Exec -> Pronto por tempo
+310 : Processo 3720447 Pronto -> Exec
+311 : Processo 3720447 Exec -> Pronto por tempo
+312 : Processo 3720447 Pronto -> Exec
+313 : Processo 3720447 Exec -> Pronto por tempo
+314 : Processo 3720447 Pronto -> Exec
+315 : Processo 3720447 Exec -> Pronto por tempo
+316 : Processo 3720447 Pronto -> Exec
+317 : Processo 3720447 Exec -> Pronto por tempo
+318 : Processo 3720447 Pronto -> Exec
+319 : Processo 3720447 Exec -> Pronto por tempo
+320 : Processo 3731446 Pronto -> Exec
+320 : Processo 3731446 Exec -> I/O
+321 : Processo 3720447 Pronto -> Exec
+322 : Processo 3720447 Exec -> Pronto por tempo
+323 : Processo 3720447 Pronto -> Exec
+324 : Processo 3720447 Exec -> Pronto por tempo
+325 : Processo 3720447 Pronto -> Exec
+326 : Processo 3720447 Exec -> Pronto por tempo
+327 : Processo 3720447 Pronto -> Exec
+328 : Processo 3720447 Exec -> Pronto por tempo
+329 : Processo 3720447 Pronto -> Exec
+330 : Processo 3720447 Exec -> Pronto por tempo
+331 : Processo 3720447 Pronto -> Exec
+332 : Processo 3720447 Exec -> Pronto por tempo
+333 : Processo 3731446 Pronto -> Exec
+333 : Processo 3731446 Exec -> I/O
+334 : Processo 3720447 Pronto -> Exec
+335 : Processo 3720447 Exec -> Pronto por tempo
+336 : Processo 3720447 Pronto -> Exec
+337 : Processo 3720447 Exec -> Pronto por tempo
+338 : Processo 3720447 Pronto -> Exec
+339 : Processo 3720447 Exec -> Pronto por tempo
+340 : Processo 3720447 Pronto -> Exec
+341 : Processo 3720447 Exec -> Pronto por tempo
+342 : Processo 3720447 Pronto -> Exec
+343 : Processo 3720447 Exec -> Pronto por tempo
+344 : Processo 3720447 Pronto -> Exec
+345 : Processo 3720447 Exec -> Pronto por tempo
+346 : Processo 3731446 Pronto -> Exec
+346 : Processo 3731446 Exec -> I/O
+347 : Processo 3720447 Pronto -> Exec
+348 : Processo 3720447 Exec -> Pronto por tempo
+349 : Processo 3720447 Pronto -> Exec
+350 : Processo 3720447 Exec -> Pronto por tempo
+351 : Processo 3720447 Pronto -> Exec
+352 : Processo 3720447 Exec -> Pronto por tempo
+353 : Processo 3720447 Pronto -> Exec
+354 : Processo 3720447 Exec -> Pronto por tempo
+355 : Processo 3720447 Pronto -> Exec
+356 : Processo 3720447 Exec -> Pronto por tempo
+357 : Processo 3720447 Pronto -> Exec
+358 : Processo 3720447 Exec -> Pronto por tempo
+359 : Processo 3731446 Pronto -> Exec
+359 : Processo 3731446 Exec -> I/O
+360 : Processo 3720447 Pronto -> Exec
+361 : Processo 3720447 Exec -> Pronto por tempo
+362 : Processo 3720447 Pronto -> Exec
+363 : Processo 3720447 Exec -> Pronto por tempo
+364 : Processo 3720447 Pronto -> Exec
+365 : Processo 3720447 Exec -> Pronto por tempo
+366 : Processo 3720447 Pronto -> Exec
+367 : Processo 3720447 Exec -> Pronto por tempo
+368 : Processo 3720447 Pronto -> Exec
+369 : Processo 3720447 Exec -> Pronto por tempo
+370 : Processo 3720447 Pronto -> Exec
+371 : Processo 3720447 Exec -> Pronto por tempo
+372 : Processo 3731446 Pronto -> Exec
+372 : Processo 3731446 Exec -> I/O
+373 : Processo 3720447 Pronto -> Exec
+374 : Processo 3720447 Exec -> Pronto por tempo
+375 : Processo 3720447 Pronto -> Exec
+376 : Processo 3720447 Exec -> Pronto por tempo
+377 : Processo 3720447 Pronto -> Exec
+378 : Processo 3720447 Exec -> Pronto por tempo
+379 : Processo 3720447 Pronto -> Exec
+380 : Processo 3720447 Exec -> Pronto por tempo
+381 : Processo 3720447 Pronto -> Exec
+382 : Processo 3720447 Exec -> Pronto por tempo
+383 : Processo 3720447 Pronto -> Exec
+384 : Processo 3720447 Exec -> Pronto por tempo
+385 : Processo 3731446 Pronto -> Exec
+385 : Processo 3731446 Exec -> I/O
+386 : Processo 3720447 Pronto -> Exec
+387 : Processo 3720447 Exec -> Pronto por tempo
+388 : Processo 3720447 Pronto -> Exec
+389 : Processo 3720447 Exec -> Pronto por tempo
+390 : Processo 3720447 Pronto -> Exec
+391 : Processo 3720447 Exec -> Pronto por tempo
+392 : Processo 3720447 Pronto -> Exec
+393 : Processo 3720447 Exec -> Pronto por tempo
+394 : Processo 3720447 Pronto -> Exec
+395 : Processo 3720447 Exec -> Pronto por tempo
+396 : Processo 3720447 Pronto -> Exec
+397 : Processo 3720447 Exec -> Pronto por tempo
+398 : Processo 3731446 Pronto -> Exec
+398 : Processo 3731446 Exec -> I/O
+399 : Processo 3720447 Pronto -> Exec
+400 : Processo 3720447 Exec -> Pronto por tempo
+401 : Processo 3720447 Pronto -> Exec
+402 : Processo 3720447 Exec -> Pronto por tempo
+403 : Processo 3720447 Pronto -> Exec
+404 : Processo 3720447 Exec -> Pronto por tempo
+405 : Processo 3720447 Pronto -> Exec
+406 : Processo 3720447 Exec -> Pronto por tempo
+407 : Processo 3720447 Pronto -> Exec
+408 : Processo 3720447 Exec -> Pronto por tempo
+409 : Processo 3720447 Pronto -> Exec
+410 : Processo 3720447 Exec -> Pronto por tempo
+411 : Processo 3731446 Pronto -> Exec
+411 : Processo 3731446 Exec -> I/O
+412 : Processo 3720447 Pronto -> Exec
+413 : Processo 3720447 Exec -> Pronto por tempo
+414 : Processo 3720447 Pronto -> Exec
+415 : Processo 3720447 Exec -> Pronto por tempo
+416 : Processo 3720447 Pronto -> Exec
+417 : Processo 3720447 Exec -> Pronto por tempo
+418 : Processo 3720447 Pronto -> Exec
+419 : Processo 3720447 Exec -> Pronto por tempo
+420 : Processo 3720447 Pronto -> Exec
+421 : Processo 3720447 Exec -> Pronto por tempo
+422 : Processo 3720447 Pronto -> Exec
+423 : Processo 3720447 Exec -> Pronto por tempo
+424 : Processo 3731446 Pronto -> Exec
+424 : Processo 3731446 Exec -> I/O
+425 : Processo 3720447 Pronto -> Exec
+426 : Processo 3720447 Exec -> Pronto por tempo
+427 : Processo 3720447 Pronto -> Exec
+428 : Processo 3720447 Exec -> Pronto por tempo
+429 : Processo 3720447 Pronto -> Exec
+430 : Processo 3720447 Exec -> Pronto por tempo
+431 : Processo 3720447 Pronto -> Exec
+432 : Processo 3720447 Exec -> Pronto por tempo
+433 : Processo 3720447 Pronto -> Exec
+434 : Processo 3720447 Exec -> Pronto por tempo
+435 : Processo 3720447 Pronto -> Exec
+436 : Processo 3720447 Exec -> Pronto por tempo
+437 : Processo 3731446 Pronto -> Exec
+437 : Processo 3731446 Exec -> I/O
+438 : Processo 3720447 Pronto -> Exec
+439 : Processo 3720447 Exec -> Pronto por tempo
+440 : Processo 3720447 Pronto -> Exec
+441 : Processo 3720447 Exec -> Pronto por tempo
+442 : Processo 3720447 Pronto -> Exec
+443 : Processo 3720447 Exec -> Pronto por tempo
+444 : Processo 3720447 Pronto -> Exec
+445 : Processo 3720447 Exec -> Pronto por tempo
+446 : Processo 3720447 Pronto -> Exec
+447 : Processo 3720447 Exec -> Pronto por tempo
+448 : Processo 3720447 Pronto -> Exec
+449 : Processo 3720447 Exec -> Pronto por tempo
+450 : Processo 3731446 Pronto -> Exec
+450 : Processo 3731446 Exec -> I/O
+451 : Processo 3720447 Pronto -> Exec
+452 : Processo 3720447 Exec -> Pronto por tempo
+453 : Processo 3720447 Pronto -> Exec
+454 : Processo 3720447 Exec -> Pronto por tempo
+455 : Processo 3720447 Pronto -> Exec
+456 : Processo 3720447 Exec -> Pronto por tempo
+457 : Processo 3720447 Pronto -> Exec
+458 : Processo 3720447 Exec -> Pronto por tempo
+459 : Processo 3720447 Pronto -> Exec
+460 : Processo 3720447 Exec -> Pronto por tempo
+461 : Processo 3720447 Pronto -> Exec
+462 : Processo 3720447 Exec -> Pronto por tempo
+463 : Processo 3731446 Pronto -> Exec
+463 : Processo 3731446 Exec -> I/O
+464 : Processo 3720447 Pronto -> Exec
+465 : Processo 3720447 Exec -> Pronto por tempo
+466 : Processo 3720447 Pronto -> Exec
+467 : Processo 3720447 Exec -> Pronto por tempo
+468 : Processo 3720447 Pronto -> Exec
+469 : Processo 3720447 Exec -> Pronto por tempo
+470 : Processo 3720447 Pronto -> Exec
+471 : Processo 3720447 Exec -> Pronto por tempo
+472 : Processo 3720447 Pronto -> Exec
+473 : Processo 3720447 Exec -> Pronto por tempo
+474 : Processo 3720447 Pronto -> Exec
+475 : Processo 3720447 Exec -> Pronto por tempo
+476 : Processo 3731446 Pronto -> Exec
+476 : Processo 3731446 Exec -> I/O
+477 : Processo 3720447 Pronto -> Exec
+478 : Processo 3720447 Exec -> Pronto por tempo
+479 : Processo 3720447 Pronto -> Exec
+480 : Processo 3720447 Exec -> Pronto por tempo
+481 : Processo 3720447 Pronto -> Exec
+482 : Processo 3720447 Exec -> Pronto por tempo
+483 : Processo 3720447 Pronto -> Exec
+484 : Processo 3720447 Exec -> Pronto por tempo
+485 : Processo 3720447 Pronto -> Exec
+486 : Processo 3720447 Exec -> Pronto por tempo
+487 : Processo 3720447 Pronto -> Exec
+488 : Processo 3720447 Exec -> Pronto por tempo
+489 : Processo 3731446 Pronto -> Exec
+489 : Processo 3731446 Exec -> I/O
+490 : Processo 3720447 Pronto -> Exec
+491 : Processo 3720447 Exec -> Pronto por tempo
+492 : Processo 3720447 Pronto -> Exec
+493 : Processo 3720447 Exec -> Pronto por tempo
+494 : Processo 3720447 Pronto -> Exec
+495 : Processo 3720447 Exec -> Pronto por tempo
+496 : Processo 3720447 Pronto -> Exec
+497 : Processo 3720447 Exec -> Pronto por tempo
+498 : Processo 3720447 Pronto -> Exec
+499 : Processo 3720447 Exec -> Pronto por tempo
+500 : Processo 3720447 Pronto -> Exec
+501 : Processo 3720447 Exec -> Pronto por tempo
+502 : Processo 3731446 Pronto -> Exec
+502 : Processo 3731446 Exec -> I/O
+503 : Processo 3720447 Pronto -> Exec
+504 : Processo 3720447 Exec -> Pronto por tempo
+505 : Processo 3720447 Pronto -> Exec
+506 : Processo 3720447 Exec -> Pronto por tempo
+507 : Processo 3720447 Pronto -> Exec
+508 : Processo 3720447 Exec -> Pronto por tempo
+509 : Processo 3720447 Pronto -> Exec
+510 : Processo 3720447 Exec -> Pronto por tempo
+511 : Processo 3720447 Pronto -> Exec
+512 : Processo 3720447 Exec -> Pronto por tempo
+513 : Processo 3720447 Pronto -> Exec
+514 : Processo 3720447 Exec -> Pronto por tempo
+515 : Processo 3731446 Pronto -> Exec
+515 : Processo 3731446 Exec -> I/O
+516 : Processo 3720447 Pronto -> Exec
+517 : Processo 3720447 Exec -> Pronto por tempo
+518 : Processo 3720447 Pronto -> Exec
+519 : Processo 3720447 Exec -> Pronto por tempo
+520 : Processo 3720447 Pronto -> Exec
+521 : Processo 3720447 Exec -> Pronto por tempo
+522 : Processo 3720447 Pronto -> Exec
+523 : Processo 3720447 Exec -> Pronto por tempo
+524 : Processo 3720447 Pronto -> Exec
+525 : Processo 3720447 Exec -> Pronto por tempo
+526 : Processo 3720447 Pronto -> Exec
+527 : Processo 3720447 Exec -> Pronto por tempo
+528 : Processo 3731446 Pronto -> Exec
+528 : Processo 3731446 Exec -> I/O
+529 : Processo 3720447 Pronto -> Exec
+530 : Processo 3720447 Exec -> Pronto por tempo
+531 : Processo 3720447 Pronto -> Exec
+532 : Processo 3720447 Exec -> Pronto por tempo
+533 : Processo 3720447 Pronto -> Exec
+534 : Processo 3720447 Exec -> Pronto por tempo
+535 : Processo 3720447 Pronto -> Exec
+536 : Processo 3720447 Exec -> Pronto por tempo
+537 : Processo 3720447 Pronto -> Exec
+538 : Processo 3720447 Exec -> Pronto por tempo
+539 : Processo 3720447 Pronto -> Exec
+540 : Processo 3720447 Exec -> Pronto por tempo
+541 : Processo 3731446 Pronto -> Exec
+541 : Processo 3731446 Exec -> I/O
+542 : Processo 3720447 Pronto -> Exec
+543 : Processo 3720447 Exec -> Pronto por tempo
+544 : Processo 3720447 Pronto -> Exec
+545 : Processo 3720447 Exec -> Pronto por tempo
+546 : Processo 3720447 Pronto -> Exec
+547 : Processo 3720447 Exec -> Pronto por tempo
+548 : Processo 3720447 Pronto -> Exec
+549 : Processo 3720447 Exec -> Pronto por tempo
+550 : Processo 3720447 Pronto -> Exec
+551 : Processo 3720447 Exec -> Pronto por tempo
+552 : Processo 3720447 Pronto -> Exec
+553 : Processo 3720447 Exec -> Pronto por tempo
+554 : Processo 3731446 Pronto -> Exec
+554 : Processo 3731446 Exec -> I/O

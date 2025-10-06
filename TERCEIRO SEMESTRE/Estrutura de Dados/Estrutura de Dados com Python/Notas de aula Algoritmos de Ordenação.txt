@@ -1,0 +1,158 @@
+Notas de aula Algoritmos de Ordenação
+
+Busca Binária é a invenção da roda, muito rápido, porém tem um detalhe, o vetor precisa estar ordenado. Será que existem algoritmos de ordenação rápidos o suficiente para isso?
+SIIIMMMMMM! E para isso vamos reutilizar a ideia de dividir o mundo em dois, da Busca Binária.
+
+5 algoritmos
+2 "ruins" inserção e seleção
+3 "bons" mergesort quicksort heapsort
+
+"ruins": inserção e seleção e 3 "bons": mergesort, quicksort, heapsort. Estudar e rodar para ver o tempo de execução para um vetor grande!
+
+Como analisar um algoritmo, o que é "bom" ou "ruim".
+-Número passos e espaço ocupado
+-E dentro do número de passos: pior caso e caso médio
+
+Algoritmo de Inserção: algoritmo do baralho
+Como coloco as cartas que eu recebi em ordem: vou percorrendo da esquerda para a direita e cada uma das cartas, coloco do lado esquerdo na posição
+2 0 5 7 3 1 6 4     2 fica no local (primeiro)
+0 2                 0 empurra 2
+0 2 5               5 não mexe ninguém
+0 2 5 7             7 não mexe ninguém
+0 2 3 5 7           3 empurra 57
+0 1 2 3 5 7         1 empurra 2357
+0 1 2 3 5 6 7       6 empurra 7
+0 1 2 3 4 5 6 7     4 empurra 567
+
+Faça você
+7 5 0 1 2 3 6 4     7 fica no lugar (primeiro)
+5 7                 5 empurra 7
+0 5 7               0 empurra 57
+0 1 5 7             1 empurra 57
+0 1 2 5 7           2 empurra 57
+0 1 2 3 5 7         3 empurra 57
+0 1 2 3 5 6 7       6 empurra 7
+0 1 2 3 4 5 6 7     4 empurra 567
+
+Vamos analisar o número de passos, no pior caso
+Se eu tiver n elementos, vou gastar n passos para percorrer todas as cartas
+Para cada carta, o pior caso é ela ser muito pequena e ter que empurrar todo mundo para a direita
+Logo, no total vou gastar n * n passos
+
+Pior caso: 7 6 5 4 3 2 1 0
+Porém, existem casos bons e ruins, então, na média é um pouquinho melhor que n**2
+
+Rodando inserção.py gastei, no notebook do prof, 12.39 s
+
+Algoritmo de seleção
+Vou percorrer todos os elementos da esquerda para a direita
+A cada elemento, vejo o menor de todos para frente
+Troco o atual com o menor da frente
+2 0 5 7 3 1 6 4
+0 2 5 7 3 1 6 4        troquei 0 com 2
+0 1 5 7 3 2 6 4        troquei 1 com 2
+0 1 2 7 3 5 6 4        troquei 2 com 5
+0 1 2 3 7 5 6 4        troquei 3 com 7
+0 1 2 3 4 5 6 7        troquei 4 com 7
+0 1 2 3 4 5 6 7        troquei 5 com 5
+0 1 2 3 4 5 6 7        troquei 6 com 6
+
+Faça você
+7 5 0 1 2 3 6 4
+0 5 7 1 2 3 6 4       troquei 0 com 7
+0 1 7 5 2 3 6 4       troquei 1 com 5
+0 1 2 5 7 3 6 4       troquei 2 com 7
+0 1 2 3 7 5 6 4       troquei 3 com 5
+0 1 2 3 4 5 6 7       troquei 4 com 7
+0 1 2 3 4 5 6 7       troquei 5 com 5
+0 1 2 3 4 5 6 7       troquei 6 com 6
+0 1 2 3 4 5 6 7       troquei 7 com 7
+
+Vamos analisar o número de passos no pior caso
+Para percorrer todo mundo, n passos
+Para achar o menor, também n passos
+Logo gasto n * n passos
+
+Isso é pior que o algoritmo anterior, que tinha alguns casos bons, o que na média torna ele mais rápido que seleção
+
+Como tornar esse algoritmo melhor que o de inserção. Será que em Python tem alguma função que já calcula o menor? Tem a função min.
+Minha suposição que min é uma função de biblioteca e portanto deve ser otimizada. De fato ao inserir e remover de um vetor, em Python, eu guardo os menores em uma Estrutura de Dados, assim, se eu pedir o min, não vou precisar percorrer todo mundo!!
+Rodando seleção.py, no notebook do prof, gastei 5.91 s
+
+O problema dos dois algoritmos, inserção e seleção, é que, nos dois passos, preciso, no pior caso, percorrer todo mundo. No total gasto n*n passos, no pior caso.
+
+Será que consigo diminuir, bastante, um dos dois passos? Siiiimmmm, usando a ideia da Busca Binária, de dividir o mundo em dois.
+Mergesort, Quicksort e Heapsort usam essa ideia
+
+Algoritmo Mergesort
+Se eu tiver duas fileiras de crianças, em ordem de tamanho, consigo montar uma fileira única da seguinte forma: vejo a criança que está na frente, a menor, em cada fileira, escolho a menor, entre as duas, e mando para a fileira final. Repito o processo até terminarem as crianças. Se uma das filas acabar, basta encaminhar as crianças restantes para o final da fila única. Este processo se chama "merge" e "junto" duas fileiras em ordem, tornando uma única final, em ordem.
+
+O processo começa dividindo o vetor ao meio, até cada vetor ficar de tamanho 1. Neste caso, tamanho 1 ou 0, o vetor já está em ordem. Vão se formar duplas em ordem. No próximo passo, viram quadruplas em ordem. No próximo octuplas. Note que estou dobrando o vetor em ordem a cada passo. 
+20573164               
+2057 3164              dividi em 2 vetores de 4
+20 57 31 64            dividi em 4 vetores de 2
+2 0 5 7 3 1 6 4        agora tenho 8 vetores de 1
+02  57  13  46
+
+Faça você agora
+75012364
+7501 2364
+75 01 23 64
+7 5 0 1 2 3 6 4     8 vetores ordenados de tam 1
+57  01  23  46      4 vetores ordenados de tam 2
+0157    2346        2 vetores ordenados de tam 4
+01234567            vetor ordenado final!
+
+Análise do algoritmo mergesort:
+1. Gasto n passos para o merge (juntar duas fileiras)
+2. Para chegar em tamanho 1, vou gastar log(n, 2)
+Total: n * log(n, 2) <<<<<<<<<<<  n * n
+
+Essa ideia se chama "Dividir para Conquistar", e é uma estratégia de programação!
+
+Note que, quando o DADO tem um "jeitão" recursivo, o algoritmo recursivo fica mais claro e mais fácil de implementar. Vimos mergesort interativo, que faz a mesma coisa, mas é muito mais difícil de programar, que a versão recursiva.
+
+Vamos criticar o nosso mergesort. 
+Preciso de um espaço igual ao vetor original para o vetor resultante do merge. Isto é, vou gastar o dobro de memória. Isto não é bom.
+Lição importante, não basta ter poucos passos, é necessário também gastar pouca memória, para ser considerado eficiente!!!
+
+Será que é possível melhorar o tempo de Mergesort: sim, podemos executar cada metade em paralelo, já que são independentes.
+Nem sempre podemos paralelizar código. Vejamos um exemplo: se eu tenho que cavar uma valeta de 6 metros de comprimento e 1 metro de profundidade, posso colocar mais de uma pessoa cavando ao mesmo tempo, sem uma prejudicar muito as outras. Porém, se eu tiver que cavar um poço, de um metro de diâmetro e 6 metros de profundidade, não adianta colocar muita gente, pois ao entrar no buraco uma irá atrapalhar o trabalho das outras. 
+
+Será que tem algum algoritmo, que usa a ideia de dividir o mundo em dois, mas não gasta o dobro da memória: sim, o nome dele é quicksort e heapsort.
+
+Algoritmo Quicksort
+Vou pegar um voluntário, chamado de pivô, e dividir todo mundo em menore e maiores que o pivô. No final do processo, o voluntário está na posição final do vetor ordenado. Vou repetir o processo nos menores e maiores. Então terei mais duas pessoas na posição final. Vou repetir nas 4 partes, e terei 4 na posição final. No próximo passo 8 pessoas, e depois 16, depois 32... Em log(n, 2) passos todo mundo está ordenado!!
+
+20573164          2 é o pivô
+01 2 57364        0 pivô menores e 5 pivô maiores
+0 1 2 34 5 76     3 pivô e 7 pivô
+0 1 2 3 4 5 6 7   todo mundo ordenado   
+
+Faça você agora:
+75012364          7 é o pivô
+5012364 7         5 é o pivô
+01234 5 6 7       0 é o pivô
+0 1234 5 6 7      1 é o pivô
+0 1 234 5 6 7     2 é o pivô
+0 1 2 34 5 6 7    3 é o pivô
+0 1 2 3 4 5 6 7   todo mundo ordenado
+
+Análise do algoritmo quicksort: para dividir todo mundo em relação ao pivô, gasto n passos. Vou ter todo mundo ordenado, em log(n, 2) passos, pois estou dobrando o número de pessoas a cada passo. Total: n * log(n, 2). Igual mergesort.
+
+Vamos criticar quicksort. Seja um vetor já ordenado (pior caso). O voluntário é o menor de todos. Logo não vai ninguém para o lado dos menores, e todo mundo para o lado dos maiores. O segundo voluntário, é o segundo menor, de novo vai todo mundo para o lado dos maiores. Nesse pior caso, vou gastar, n passos até todos estarem na posição final. TOTAL: n passos para todos se comparar com o pivô e n para chegar ao final. n * n passos, isto é tão ruim como inserção ou seleção!!!!
+Não se desespere, pois o pior caso é MUITO RARO, um vetor ordenado. Então, na prática, na vida real, quicksort é muito rápido.
+
+Será que existe outra forma de dividir o mundo em dois...
+Sim. Podemos andar num vetor pelos índices, de forma a dobrar o número do passo ao ir para a direita e diminuir pela metade, ao voltar para a esquerda. Como dobro o número, consigo percorrer todo o vetor em log(n, 2) passos. Existe uma estrutura de dados, chamada heap, onde cada elemento num índice k, tem dois filhos, nas posições 2*k e 2*k + 1, com conteúdo menor que o pai. O algoritmo se chama Heapsort.
+Algoritmo Heapsort
+Num primeiro passo coloco todos os elementos em formato heap, um por um, gastando n * log(n, 2) passos. Chamo de hierarquia do crime, onde cada elemento só conhece os filhos, que são mais fracos.
+No segundo passo, a polícia prende o primeiro, colocando o último no lugar. Como esse último é fraco ele irá "descendo" para a posição correta, em log(n, 2) passos. O primeiro que ficou no final, já está na posição correta no vetor ordenado. Como tenho que pegar n vezes o primeiro e colocar no fim, no total gasto n * log(n, 2) passos. 
+Total: 2 * n * log(n, 2) passos, como a constante 2 não conta muito, posso dizer que o tempo é proporcional a n * log(n, 2) passos, equivalente à mergesort e quicksort.
+
+Posso melhorar mais ainda a ordenação! Fazendo um algoritmo híbrido, isto é, que use mais de uma forma de ordenação. O sort interno do Python se chama TimSort, e é um híbrido.
+
+Por último, não é justo comparar algoritmos rodando uma única vez, e também não é justo ter vetores aleatórios diferentes 
+Então vamos consertar isso no EP01.py:
+1) vou rodar várias vezes, aumentando o tamanho do vetor
+2) vou guardar o vetor aleatório para ser testado em cada um dos algoritmos de ordenação

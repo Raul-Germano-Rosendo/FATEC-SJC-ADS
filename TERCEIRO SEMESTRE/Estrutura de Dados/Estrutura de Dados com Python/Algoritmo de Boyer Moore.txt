@@ -1,0 +1,53 @@
+Algoritmo de Boyer Moore
+Supondo um texto de n caracteres e uma palavra a ser buscada de m caracteres
+Exemplo:
+Os algoritmos de ordenação
+algoritmo
+
+Supondo que n seja bem maior que m, o que é verdade na prática
+
+O algoritmo sequencial compara cada caracter da palavra com a faixa do texto correspondente, independente de achar ou não, ele avança apenas um caractere, o que é muito lento, e passa a comparar o novo trecho com a palavra
+No exemplo acima irá comparar o trecho "Os algori" com "algoritmo"
+No próximo passo irá comparar o trecho "s algorit" com "algoritmo"
+No próximo passo irá comparar o trecho " algoritm" com "algoritmo"
+No próximo passo irá comparar o trecho "algoritmo" com "algoritmo"
+
+Como podemos fazer para avançar mais de uma posição, a cada passo? Usando o DADO que temos, que é a palavra a ser procurada!
+
+Uma boa ideia é fazer uma tabela de "pulos", da seguinte forma, se a próxima letra faz parte da palavra, vou da um pulo de tal forma que encaixe a próxima letra do texto, com a letra na posição correspondente da palavra. 
+
+a    9
+l    8
+g    7
+o    1
+r    5
+i    4
+t    3
+m    2
+o    1
+
+para todas as letras diferentes das de cima, darei pulos de 10 posições
+
+Os algoritmos de ordenação
+algoritmo
+
+No exemplo acima, a próxima letra é "t", então vou avançar 3 posições e não apenas uma, desta forma a letra "t" do texto fica encaixada com a letra "t" da palavra
+Os algoritmos de ordenação
+   algoritmo
+
+Achamos uma ocorrência de algoritmo, vamos continuar, a próxima letra é "s", então posso pular todo o tamanho da palavra, já que "s" não faz parte da palavra
+Os algoritmos de ordenação
+             algoritmo
+
+A próxima letra é "a", que faz parte da palavra, posso avançar 9 posições, para encaixar a próxima posição "a" com a letra "a" na palavra
+Os algoritmos de ordenação
+                      algoritmo
+Desta forma, demos 3 "pulões", em vez de andar de um em um várias vezes
+
+Vários motivos nos mostram que o Algoritmo de BoyerMoore é bom:
+1) a maior parte dos caracteres do texto não faz parte da palavra, já que n é muito maior que m, logo, darei pulos grandes muitas vezes
+2) mesmo que a próxima letra faça parte da palavra, vou dar pulos maiores que um muitas vezes, então também saio ganhando
+
+Note também que o custo para montar a tabela de pulos é pequeno, pois o texto é bem maior que a palavra
+
+Além de buscar palavras em um texto, podemos usar o mesmo algoritmo para busca de um vírus na memória do computador, ou de uma anomalia genética na sua sequência de DNA. Vide slide 132 do SLIDES-A-handout.PDF

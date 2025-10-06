@@ -1,0 +1,119 @@
+Recursão: função que se chama a si própria
+"Para entender recursão é preciso primeiro entender recursão"
+"Ao tentar resolver o problema, encontrei obstáculos dentro de obstáculos. Por isso adotei uma solução recursiva"
+"Se o Voldemort quisesse ser imortal mesmo, teria criado uma Horcrux recursiva" Harry Potter
+Assistir o filme "A origem" (Inception, 2010)
+
+Estrutura de uma função recursiva:
+def f(argumentos):
+   if caso mais simples: return valor que já sei da saída
+   #caso contrário
+   return expressão com a função diminuindo os argumentos
+
+def fat(n):
+    if n == 0 or n == 1: return 1
+    return n * fat(n - 1)
+
+print (fat(3))
+
+
+Não tem while e nem for no código acima, então como é feita a repetição, faço a repetição no return, isto é usando DADOS
+Estou fazendo a programação usando os DADOS, no return
+
+Vamos fazer teste de mesa:
+def fat(3):
+    if 3 == 0 or 3 == 1:
+    return 3 * fat(2) #ao acordar executa 3 * 2 = 6
+def fat(2):
+    if 2 == 0 or 2 == 1:
+    return 2 * fat(1) #ao acordar executa 2 * 1 = 2
+def fat(1):
+    if 1 == 0 or 1 == 1: return 1
+Acima tenho 3 instâncias de fat, no return 1 saio da última instância, acordo a anterior que faz 2*1, e saio da instância, que acorda a anterior e faz 3*2 = 6, que é o que imprime 6
+
+def pot(x, n): #potência de x elevado à n, sem usar **
+  #seu código
+print (pot(2, 3)) #saída é 8
+
+def pot(x, n):
+    if n == 0: return 1  #caso particular é o primeiro a pensar
+    return x * pot(x, n-1) #como diminuir o parâmetro n
+print (pot(2, 3))
+Teste de mesa:
+def pot(2, 3):
+    if 3 == 0:
+    return 2 * pot(2, 2) #acorda 2 * 4 = 8
+def pot(2, 2):
+    if 2 == 0:
+    return 2 * pot(2, 1) #acorda 2 * 2 = 4
+def pot(2, 1):
+    if 1 == 0:
+    return 2 * pot(2, 0) #acorda 2 * 1 = 2
+def pot(2, 0):
+    if 0 == 0: return 1
+Acima tenho 4 instâncias, na última devolvo 1, acorda a anterior e faço 2 * 1 = 2, acorda a anterior e faço 2 * 2 = 4, acorda a primeira e faço 2 * 4 = 8, que imprimo finalmente
+
+Faça agora as seguintes funções recursivas abaixo:
+def inv(s):    # inv('abacate') -> 'etacaba'
+def sd(n):     # sd(123) -> 1 + 2 + 3 -> 6
+def fib(n):    # fib(3) -> 2
+def mdc(a, b): # mdc(21, 15) -> 3
+def dec2bin(n):# dec2bin(18) -> '10010'
+
+def sd(n):
+    if n <= 9: return n
+    return n % 10 + sd(n // 10)
+print (sd(123))                #acorda imprimindo 6
+def sd(123)
+    if 123 <= 9:
+    return 123 % 10 + sd(12)   #acorda 3 + 3 = 6
+def sd(12)
+    if 12 <= 9:
+    return 12 % 10 + sd(1)     #acorda 2 + 1 = 3
+def sd(1)
+    if 1 <= 9: return 1
+
+Fibonacci recursivo é muito especial, preste atenção!!!
+def fib(n):
+    if n == 1 or n == 2: return 1
+    return fib(n - 1) + fib(n - 2)
+
+Será que toda função recursiva é mais eficente que a sua versão interativa??
+Por exemplo, fibonacci recursivo é melhor que fibonacci interativo?
+Fibonacci recursivo é muito pior!!!
+Porque repete muita coisa já feita antes!!
+
+E como melhorar? Usando Dados! Vou guardar em algum lugar os valores já calculados, para não repetir!! Por exemplo um dicionário.
+dic = {}
+def fib(n):
+    if n == 1 or n == 2: return 1
+    if n not in dic: dic[n] = fib(n - 1) + fib(n - 2)
+    return dic[n]
+Note que não repito mais chamadas desnecessárias, toda vez que um valor nunca foi calculado, faço a chamada, se já foi calculado não faço repetições
+
+Posso melhorar mais ainda? Posso usar uma biblioteca do Python
+from functools import cache
+@cache
+def fib(n):
+    if n == 1 or n == 2: return 1
+    return fib(n-1) + fib(n-2)
+
+Aqui o Python verifica se a conta já foi feita antes, e vai guardando na memória do Sistema Operacional as contas feitas
+@cache é um decorador, isto é, um envelope na função fibonacci
+Ela dá super poderes à função, guardando os resultados das chamadas feitas na memória do Sistema Operacional
+
+Exercício: as duas funções são iguais, sim ou não, explique. Melhore se estiver ineficiente.
+def f1(n):
+  if n == 0: return 1
+  return 2* f1(n-1)
+print (f1(100))
+
+def f(n):
+  if n == 0: return 1
+  return f(n-1) + f(n-1)
+print (f(100))
+
+
+
+
+

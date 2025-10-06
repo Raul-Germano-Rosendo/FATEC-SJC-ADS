@@ -1,0 +1,14 @@
+Herança e sobrecarga (int42.py)
+-criei uma classe int42 que herda tudo de int, inclusive eu chamo __init__ de int
+-vou fazer uma sobrecarga dos métodos __add__ e __str__
+-note que em a + b, chamo o mais de açúcar sintático, seria o mesmo fazer a.__add__(b)
+-no primeiro semestre vimos um exemplo de sobrecarga, quando criamos uma classe conta especial, herdando tudo da classe conta, fazendo sobrecarga no método saque, que na conta especial pode sacar o que não se tem, até um limite. 
+
+Metaprogramação  (metaprogramação 42.py)
+-Criamos um decorador hitchhiker, que "envelopa" fatorial e fibonacci, para retornar sempre 42
+-no primeiro semestre usamos o decorador para definir uma rota para um conteúdo a ser apresentado em um site
+-recentemente usamos o decorador lru_cache para que o fibonacci não repita coisas
+
+Abstract Syntax Tree (ast42.py)
+-Cada linguagem tem uma árvore de descrição da sua sintaxe
+-Podemos percorrer num código essa árvore, para fazer geração de testes automáticos, por exemplo

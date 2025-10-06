@@ -1,0 +1,91 @@
+Notas sobre ponteiros:
+Em Python tudo são ponteiros (variáveis por referência), mas para aprender como isso funciona "debaixo do pano" vamos ver ponteiros em C
+
+A memória do computador é como se fosse um vetor enorme de bytes consecutivos. As variáveis ficam em algum lugar, posso acessar remotamente essas variáveis pelo índice nesse vetor, através de variáveis chamadas ponteiros em C. Cada variável possui um tamanho, em bytes, de acordo com o seu tipo: char tem um byte, int tem 4 bytes, etc
+int j;     //  posição 329758
+int k;     //  posição 329758 + 4 = 329762
+char c;    //  posição 329762 + 4 = 329766
+int v[10]; //  v[0] está em 329767
+           //  v[1] está em 329771 e assim vai...
+
+Note que em C as variáveis são contíguas, isto é, uma grudada na outra!!
+
+Se eu declarar int *p; significa que p aponta para regiões da memória do tipo inteiro, podemos acessar indiretamente k por exemplo
+p = &k;     //  p está com 329766, endereço de k
+*p = 42;    //  consegui colocar 42 em k
+
+p = malloc(sizeof(int))  // vou pedir 4 bytes da memória
+// malloc == memory allocation
+Ponteiros são variáveis que acessam regiões da memória ou outras variáveis de "forma remota"
+Regras:
+1. Ponteiro e coisa apontada são diferentes
+2. Não tem sentido usar um ponteiro que não aponta para nada
+
+Usos: 
+1. comum: acessar variáveis locais fora do meu escopo, só consigo mudar uma variável local através de ponteiros (passagem por referência)
+2. fazer alocação dinâmica de vetores
+Código Apêndice C ponteiros.c
+
+Vetores em C tem Dados contíguos, um do lado do outro. Isto tem vantagens, como mover grandes massas de dados em Computação Gráfica. A maior desvantagem é inserir ou remover no início do vetor. Preciso mover todo mundo.
+Resolvemos esse problema usando ponteiros, implementando uma Estrutura de Dados chamada Lista Ligada, ou Lista Encadeada.
+Você pode entender Lista Ligada como um "Caça ao Tesouro" onde os conteúdos são os locais e as "pistas" ponteiros para o próximo local.
+
+struct cel {
+   int conteúdo;
+   struct cel *seg;  ponteiro para o seguinte
+}
+typedef struct cel célula; 
+Obs.: quanto eu tenho um ponteiro para uma struct, posso acessar os elementos de duas formas:
+célula a;
+célula *p;
+p = &a;
+p->conteúdo = 42; ou 
+(*p).conteúdo = 42; forma mais comum!
+
+Como C é baixo nível veremos muitos detalhes de otimização. "Programar em C é como dançar num salão bem encerado, com um monte de facas na mão".
+
+Para inserir é melhor inserir no começo
+Se eu inserir no final, toda vez preciso andar até o final para colocar o próximo lá
+Consequência disso, se eu quiser uma lista com 1 2 3, preciso inserir 3 2 1 ao contrário
+
+Lista Ligada com cabeça sem alocação dinâmica
+Crio variáveis a b e c, nada mais faço do que ligar a b e c, com 3 5 e 10 de conteúdo
+Problema: se eu tiver muitas dados, não tem sentido declarar em C várias variáveis célula
+
+Lista Ligada com cabeça com alocação dinâmica
+Alocação dinâmica -> pegar da memória sem declarar variável
+Na função insere, cada novo início, aponta para o início anterior
+Por isso que insiro ao contrário
+
+Lista Ligada cria lista com cabeça
+Até aqui você deve estar curioso com isso de cabeça
+Cabeça serve em primeiro lugar, para nunca mais ter que perguntar se a lista está vazia!!!
+E na grande maioria das vezes, a lista não está vazia, então seria uma pergunta inútil
+
+Lista Ligada cria Lista SEM cabeça
+Se eu não tiver cabeça, terei que perguntar se a lista é vazia
+Além disso, lst é um ponteiro, variável local da função main, para alterar, no caso da lista vazia, preciso passar ponteiro para ponteiros
+Já é difícil um ponteiro simples, mas ponteiro para ponteiros é muito pior
+
+Resumindo: usando a Estrutura Dados cabeça
+1. Não pergunto mais se a lista é vazia, isto é o código fica mais eficiente
+2. Não uso ponteiro para ponteiro, o código fica muito mais fácil de dar manutenção
+
+Lista Ligada Mínimo
+Veja que eu retorno um ponteiro para o menor elemento, antes eu retornava um índice, se fosse um vetor, mas na Lista Ligada os elementos estão dispersos na memória
+
+Lista Ligada Vetor para Lista
+Aqui preciso inserir do final para o início do vetor, porque insere sempre no início da lista
+
+Lista Ligada Concatena
+Percorro a Lista lst1 até o último elemento, ligo o seguinte dele para o primeiro da Lisa lst2, libero a cabeça de lst2, que não serve mais para nada
+
+Lista Ligada Libera
+Preciso salvar o seguinte, antes de devolver o atual para a memória, senão perco a referência
+
+Lista Ligada Inverte
+Preciso de 3 ponteiros, um para salvar o anterior, outro para a célula atual, e outro para o seguinte. Justificativa: como só tenho os seguintes, preciso salvar o anterior. Na hora que mudar o ponteiro do atual para o anterior, vou perder o seguinte, então preciso salvar antes para não perder a referência.
+
+Lista Ligada Josephus
+n = 50 e m = 3
+Os romanos cercaram uma caverna, com n = 50 judeus, e muito mantimento e água. O cerco pode demorar muitos anos. Josephus convence todos a se suicidarem, um após o outro, segundo um rito. Os 50 judeus se sentam numa mesa enorme circular, e o ritual é a cada m = 3 posições ocorrer um suicídio. Vou criar uma lista ligada com conteúdos de 1 até 50, só que vou ligar o seguinte de 50 no 1, isto é, minha lista fica circular. Vou remover as células com um contador que é 0, 1, 2 (morre). Esse processo de mata mata termina quando sobra apenas uma célula, que aponta para si própria. Que é a célula com conteúdo 11, posição onde sentou Josephus.

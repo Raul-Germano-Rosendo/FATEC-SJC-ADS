@@ -1,0 +1,27 @@
+body {
+    background: #eee;
+    font-family: monospace;
+    color: #222;
+}
+h1 {
+    font-size: 1.3em;
+}
+form {
+    margin-bottom: 1em;
+}
+label {
+    display: block;
+    margin: 0.3em 0;
+}
+input {
+    width: 120px;
+}
+button {
+    margin-top: 0.5em;
+}
+pre {
+    background: #fff;
+    border: 1px solid #aaa;
+    padding: 1em;
+    font-size: 1em;
+}

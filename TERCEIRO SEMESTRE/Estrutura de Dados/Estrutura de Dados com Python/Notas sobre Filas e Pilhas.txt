@@ -1,0 +1,29 @@
+Notas sobre Filas e Pilhas
+*Filas*
+FIFO First In First Out
+fila = []
+fila.append(novo)  #enfilera
+x = fila.pop(0)    #tira da fila
+
+Típicos para problemas de varredura, onde precisamos percorrer todas as possibilidades, começamos de um estado inicial, vamos enfileirando os próximos estados, enquanto a fila não está vazia ainda temos possibilidade de chegar mais longe. Exemplos: cálculo de distâncias mínimas em uma rede, se a formiga sai de um labirinto, varrer os estados de um jogo, para ver possibilidades futuras
+Código: Distâncias em um Rede.py
+Desenho está no slide 60 do arquivo SLIDES-A-handout.PDF
+Observe que código não processa desenho, então além da fila, precisamos representar o desenho das cidades na forma de uma matriz, onde 1 indica que a cidade representada pela linha, tem vizinho representado pela coluna
+Outro ponto, quero a distância mínima, a partir da cidade 3, então marcar o vetor d com -1 em todas as posições, é uma forma de verificar se é a primeira vez que chego numa cidade. Só vou enfileirar cidades onde chego e que estão com -1.
+
+*Pilhas*
+LIFO Last In First Out
+p = []
+p.append(novo)     #empilha
+x = p.pop()        #desempilha
+
+Típico para problemas onde avaliamos o último, ou precisamos inverter estados passados.
+Código: dec2bin.py     #inverter os restos 
+Código: bemformada.py  #se expressão é bem formada
+O professor não tem nada contra meninos e meninas fofas, somente para exemplificar e chamar a atenção.
+Todo abre é menino, ( fofo, { pontudo
+Todo fecha é menina, ) fofa, } pontuda
+Cada caracter é parenteses ou chaves na string s de entrada
+Se é menina fofa, vejo se o topo da pilha é menino fofo. Caso positivo, match, continua, caso contrário retorna False.
+Se é menina pontuda, vejo se o topo é um pontudo, match e continua para o próximo. Se não é pontudo, retorna False.
+Por último, na hora que todos forem processados, se sobrar menino na pilha, então deu ruim também, tem muito mais menino que menina na turma.

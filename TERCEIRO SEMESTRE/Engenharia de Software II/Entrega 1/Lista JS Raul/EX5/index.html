@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Calc Simples</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Soma e Subtração</h1>
+        <form id="calcForm">
+            <label for="num1">Primeiro número:</label>
+            <input type="number" id="num1" required>
+
+            <label for="operacao">Operação (soma ou subtração):</label>
+            <input type="text" id="operacao" required placeholder="soma ou subtração">
+
+            <label for="num2">Segundo número:</label>
+            <input type="number" id="num2" required>
+
+            <button type="submit">Calcular</button>
+        </form>
+        <div id="saida"></div>
+    </div>
+    <script src="calc.js"></script>
+</body>
+</html>

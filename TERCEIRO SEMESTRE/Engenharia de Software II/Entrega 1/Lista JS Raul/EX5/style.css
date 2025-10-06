@@ -1,0 +1,80 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f6f7fb;
+    color: #222;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background: #fff;
+    max-width: 350px;
+    margin: 50px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(80,0,0,0.10);
+    padding: 32px 28px 18px 28px;
+    border-top: 6px solid #1976d2;
+}
+
+h1 {
+    font-size: 1.4em;
+    color: #1976d2;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+label {
+    color: #1976d2;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+input[type="number"], input[type="text"] {
+    padding: 8px;
+    border: 1px solid #bdbdbd;
+    border-radius: 6px;
+    font-size: 1em;
+    background: #f8f8f8;
+    transition: border 0.2s;
+}
+
+input:focus {
+    border: 1.5px solid #1976d2;
+    outline: none;
+}
+
+button {
+    background: #1976d2;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 0;
+    font-size: 1.1em;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background: #1565c0;
+}
+
+#saida {
+    margin-top: 22px;
+    font-weight: bold;
+    font-size: 1.15em;
+    color: #fff;
+    background: #1976d2;
+    border-radius: 6px;
+    padding: 12px 8px;
+    text-align: center;
+    letter-spacing: 1px;
+    min-height: 32px;
+}

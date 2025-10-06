@@ -1,0 +1,100 @@
+Enumerar = fazer uma lista de todos os objetos
+Força Bruta ou Backtracking
+Subconjuntos ou Permutações
+2**n-1  e n! passos
+Os dois são muito lentos, porém pode ser melhor que nada
+Note que 2**n é muito menor que n! Faça no IDLE para alguns casos a experiência.
+Como gerar subconjuntos, para n elementos:
+1. Começando de 1, aumente de 1 em 1, até chegar a n
+2. Quando chegar à n, remover o último, e aumenta de 1 o anterior ao último
+3. Tente aumentar novamente
+Um caso prático de uso para esse algoritmo é o problema das damas do Mago Merlim, como ele sabe que é muito demorado tentar casar as 150 damas, seguindo suas preferências, ele irá procurar algum subconjunto, cujo número de preferidos seja menor, assim o Rei Arthur se convence facilmente de que não vale a pena começar o processamento. Digo que é uma obstrução simples para a meta, isto é um "certificado" simples que me prova que não devo começar.
+n = 4
+1
+12
+123
+1234
+124
+13
+134
+14
+2
+23
+234
+24
+3
+34
+4
+
+n = 5
+1
+12
+123
+1234
+12345
+1235
+124
+1245
+125
+13
+134
+1345
+135
+14
+145
+15
+2
+23
+234
+2345
+235
+24
+245
+25
+3
+34
+345
+35
+4
+45
+5
+
+Permutações, como gerar para n elementos:
+1. Fixe o primeiro, dando vez a todos os elementos
+2. Faça as permutações com n-1 elementos
+Um caso prático de uso é ver uma possível disposição de cavaleiros em torno da Távola Redonda, de tal forma que cada um é amigo do seu vizinho esquerdo e direito. Note que esse problema, apesar de ser tão demorado quanto o das damas, é substancialmente diferente. Aqui eu não consigo convencer o Rei Arthur a nem começar o processamento. Não existe uma obstrução simples, nem certificado, como no caso das damas. Provavelmente o problema dos cavaleiros não possui uma boa caracterização. Esse problema também é conhecido como problema do Circuito Hamiltoniano, onde começo em um vértice, passando em todos os outros de um grafo, que mostra as amizades entre cavaleiros, sem repetir, e volto para a origem, fechando o circuito. Este problema é relacionado com o Problema do Caixeiro Viajante, onde o vendedor sai de uma cidade origem, passa em todas as cidades do seu circuito, sem repetir, e volta para a cidade de origem.
+n = 2
+12
+21
+n = 3
+123
+132
+213
+231
+312
+321
+n = 4
+1234
+1243
+1324
+1342
+1423
+1432
+2134
+2143
+2314
+2341
+2413
+2431
+3124
+3142
+3214
+3241
+3412
+3421
+4123
+4132
+4213
+4231
+4312
+4321

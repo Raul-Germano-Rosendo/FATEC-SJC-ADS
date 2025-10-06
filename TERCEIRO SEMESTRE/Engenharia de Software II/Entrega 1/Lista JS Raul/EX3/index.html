@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 3 - Cálculo de Frete</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h2>Cálculo de Frete</h2>
+    <form id="freteForm">
+        <label for="distancia">Distância (km):</label>
+        <input type="number" id="distancia" min="1" required>
+
+        <label for="pecas">Quantidade de peças:</label>
+        <input type="number" id="pecas" min="1" required>
+
+        <label for="regiao">Região:</label>
+        <select id="regiao" required>
+            <option value="">Selecione</option>
+            <option value="1">Sul</option>
+            <option value="2">Sudeste</option>
+            <option value="3">Centro-oeste</option>
+        </select>
+
+        <label for="rastreamento">Deseja rastreamento?</label>
+        <select id="rastreamento" required>
+            <option value="N">Não</option>
+            <option value="S">Sim</option>
+        </select>
+
+        <button type="submit">Calcular Frete</button>
+    </form>
+    <section id="resultado" style="display:none;">
+        <h3>Resultado do Frete</h3>
+        <p id="taxaRastreamento"></p>
+        <p id="valorFretePecas"></p>
+        <p id="valorFreteKm"></p>
+        <p id="totalFrete"></p>
+    </section>
+</div>
+<script src="frete.js"></script>
+</body>
+</html>

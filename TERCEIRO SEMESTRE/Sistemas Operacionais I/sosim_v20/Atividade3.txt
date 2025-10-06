@@ -1,0 +1,4229 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+41 : Processo 1003983 alocacao de blocos no pagefile
+41 : Processo 1003983 HwPF - Executável0
+41 : Processo 1003983 HwPF - Executável1
+41 : Processo 1003983 HwPF - Executável2
+41 : Processo 1003983 HwPF - Executável3
+41 : Processo 1003983 HwPF - Executável4
+41 : Processo 1003983 criado
+42 : Processo 1003983 Pronto -> Exec
+43 : Processo 1003983 Exec -> Pronto por tempo
+43 : Processo 1006268 alocacao de blocos no pagefile
+43 : Processo 1006268 HwPF - Executável0
+43 : Processo 1006268 HwPF - Executável1
+43 : Processo 1006268 HwPF - Executável2
+43 : Processo 1006268 HwPF - Executável3
+43 : Processo 1006268 HwPF - Executável4
+43 : Processo 1006268 criado
+44 : Processo 1003983 Pronto -> Exec
+45 : Processo 1003983 Exec -> Pronto por tempo
+46 : Processo 1006268 Pronto -> Exec
+47 : Processo 1006268 Exec -> Pronto por tempo
+48 : Processo 1003983 Pronto -> Exec
+49 : Processo 1003983 Exec -> Pronto por tempo
+50 : Processo 1006268 Pronto -> Exec
+51 : Processo 1006268 Exec -> Pronto por tempo
+52 : Processo 1003983 Pronto -> Exec
+53 : Processo 1003983 Exec -> Pronto por tempo
+54 : Processo 1006268 Pronto -> Exec
+55 : Processo 1006268 Exec -> Pronto por tempo
+56 : Processo 1003983 Pronto -> Exec
+57 : Processo 1003983 Exec -> Pronto por tempo
+58 : Processo 1006268 Pronto -> Exec
+59 : Processo 1006268 Exec -> Pronto por tempo
+60 : Processo 1003983 Pronto -> Exec
+61 : Processo 1003983 Exec -> Pronto por tempo
+62 : Processo 1006268 Pronto -> Exec
+63 : Processo 1006268 Exec -> Pronto por tempo
+64 : Processo 1003983 Pronto -> Exec
+65 : Processo 1003983 Exec -> Pronto por tempo
+66 : Processo 1006268 Pronto -> Exec
+67 : Processo 1006268 Exec -> Pronto por tempo
+68 : Processo 1003983 Pronto -> Exec
+69 : Processo 1003983 Exec -> Pronto por tempo
+70 : Processo 1006268 Pronto -> Exec
+71 : Processo 1006268 Exec -> Pronto por tempo
+72 : Processo 1003983 Pronto -> Exec
+73 : Processo 1003983 Exec -> Pronto por tempo
+74 : Processo 1006268 Pronto -> Exec
+75 : Processo 1006268 Exec -> Pronto por tempo
+76 : Processo 1003983 Pronto -> Exec
+77 : Processo 1003983 Exec -> Pronto por tempo
+78 : Processo 1006268 Pronto -> Exec
+79 : Processo 1006268 Exec -> Pronto por tempo
+80 : Processo 1003983 Pronto -> Exec
+81 : Processo 1003983 Exec -> Pronto por tempo
+82 : Processo 1006268 Pronto -> Exec
+83 : Processo 1006268 Exec -> Pronto por tempo
+84 : Processo 1003983 Pronto -> Exec
+85 : Processo 1003983 Exec -> Pronto por tempo
+86 : Processo 1006268 Pronto -> Exec
+87 : Processo 1006268 Exec -> Pronto por tempo
+88 : Processo 1003983 Pronto -> Exec
+89 : Processo 1003983 Exec -> Pronto por tempo
+90 : Processo 1006268 Pronto -> Exec
+91 : Processo 1006268 Exec -> Pronto por tempo
+92 : Processo 1003983 Pronto -> Exec
+93 : Processo 1003983 Exec -> Pronto por tempo
+94 : Processo 1006268 Pronto -> Exec
+95 : Processo 1006268 Exec -> Pronto por tempo
+96 : Processo 1003983 Pronto -> Exec
+97 : Processo 1003983 Exec -> Pronto por tempo
+98 : Processo 1006268 Pronto -> Exec
+99 : Processo 1006268 Exec -> Pronto por tempo
+100 : Processo 1003983 Pronto -> Exec
+101 : Processo 1003983 Exec -> Pronto por tempo
+102 : Processo 1006268 Pronto -> Exec
+103 : Processo 1006268 Exec -> Pronto por tempo
+104 : Processo 1003983 Pronto -> Exec
+105 : Processo 1003983 Exec -> Pronto por tempo
+106 : Processo 1006268 Pronto -> Exec
+107 : Processo 1006268 Exec -> Pronto por tempo
+108 : Processo 1003983 Pronto -> Exec
+109 : Processo 1003983 Exec -> Pronto por tempo
+110 : Processo 1006268 Pronto -> Exec
+111 : Processo 1006268 Exec -> Pronto por tempo
+112 : Processo 1003983 Pronto -> Exec
+113 : Processo 1003983 Exec -> Pronto por tempo
+114 : Processo 1006268 Pronto -> Exec
+115 : Processo 1006268 Exec -> Pronto por tempo
+116 : Processo 1003983 Pronto -> Exec
+117 : Processo 1003983 Exec -> Pronto por tempo
+118 : Processo 1006268 Pronto -> Exec
+119 : Processo 1006268 Exec -> Pronto por tempo
+120 : Processo 1003983 Pronto -> Exec
+121 : Processo 1003983 Exec -> Pronto por tempo
+122 : Processo 1006268 Pronto -> Exec
+123 : Processo 1006268 Exec -> Pronto por tempo
+124 : Processo 1003983 Pronto -> Exec
+125 : Processo 1003983 Exec -> Pronto por tempo
+126 : Processo 1006268 Pronto -> Exec
+127 : Processo 1006268 Exec -> Pronto por tempo
+128 : Processo 1003983 Pronto -> Exec
+129 : Processo 1003983 Exec -> Pronto por tempo
+130 : Processo 1006268 Pronto -> Exec
+131 : Processo 1006268 Exec -> Pronto por tempo
+132 : Processo 1003983 Pronto -> Exec
+133 : Processo 1003983 Exec -> Pronto por tempo
+134 : Processo 1006268 Pronto -> Exec
+135 : Processo 1006268 Exec -> Pronto por tempo
+136 : Processo 1003983 Pronto -> Exec
+137 : Processo 1003983 Exec -> Pronto por tempo
+138 : Processo 1006268 Pronto -> Exec
+139 : Processo 1006268 Exec -> Pronto por tempo
+140 : Processo 1003983 Pronto -> Exec
+141 : Processo 1003983 Exec -> Pronto por tempo
+142 : Processo 1006268 Pronto -> Exec
+143 : Processo 1006268 Exec -> Pronto por tempo
+144 : Processo 1003983 Pronto -> Exec
+145 : Processo 1003983 Exec -> Pronto por tempo
+146 : Processo 1006268 Pronto -> Exec
+147 : Processo 1006268 Exec -> Pronto por tempo
+148 : Processo 1003983 Pronto -> Exec
+149 : Processo 1003983 Exec -> Pronto por tempo
+150 : Processo 1006268 Pronto -> Exec
+151 : Processo 1006268 Exec -> Pronto por tempo
+152 : Processo 1003983 Pronto -> Exec
+153 : Processo 1003983 Exec -> Pronto por tempo
+154 : Processo 1006268 Pronto -> Exec
+155 : Processo 1006268 Exec -> Pronto por tempo
+156 : Processo 1003983 Pronto -> Exec
+157 : Processo 1003983 Exec -> Pronto por tempo
+158 : Processo 1006268 Pronto -> Exec
+159 : Processo 1006268 Exec -> Pronto por tempo
+160 : Processo 1003983 Pronto -> Exec
+161 : Processo 1003983 Exec -> Pronto por tempo
+162 : Processo 1006268 Pronto -> Exec
+163 : Processo 1006268 Exec -> Pronto por tempo
+164 : Processo 1003983 Pronto -> Exec
+165 : Processo 1003983 Exec -> Pronto por tempo
+166 : Processo 1006268 Pronto -> Exec
+167 : Processo 1006268 Exec -> Pronto por tempo
+168 : Processo 1003983 Pronto -> Exec
+169 : Processo 1003983 Exec -> Pronto por tempo
+170 : Processo 1006268 Pronto -> Exec
+171 : Processo 1006268 Exec -> Pronto por tempo
+172 : Processo 1003983 Pronto -> Exec
+173 : Processo 1003983 Exec -> Pronto por tempo
+174 : Processo 1006268 Pronto -> Exec
+175 : Processo 1006268 Exec -> Pronto por tempo
+176 : Processo 1003983 Pronto -> Exec
+177 : Processo 1003983 Exec -> Pronto por tempo
+178 : Processo 1006268 Pronto -> Exec
+179 : Processo 1006268 Exec -> Pronto por tempo
+180 : Processo 1003983 Pronto -> Exec
+181 : Processo 1003983 Exec -> Pronto por tempo
+182 : Processo 1006268 Pronto -> Exec
+183 : Processo 1006268 Exec -> Pronto por tempo
+184 : Processo 1003983 Pronto -> Exec
+185 : Processo 1003983 Exec -> Pronto por tempo
+186 : Processo 1006268 Pronto -> Exec
+187 : Processo 1006268 Exec -> Pronto por tempo
+188 : Processo 1003983 Pronto -> Exec
+189 : Processo 1003983 Exec -> Pronto por tempo
+190 : Processo 1006268 Pronto -> Exec
+191 : Processo 1006268 Exec -> Pronto por tempo
+192 : Processo 1003983 Pronto -> Exec
+193 : Processo 1003983 Exec -> Pronto por tempo
+194 : Processo 1006268 Pronto -> Exec
+195 : Processo 1006268 Exec -> Pronto por tempo
+196 : Processo 1003983 Pronto -> Exec
+197 : Processo 1003983 Exec -> Pronto por tempo
+198 : Processo 1006268 Pronto -> Exec
+199 : Processo 1006268 Exec -> Pronto por tempo
+200 : Processo 1003983 Pronto -> Exec
+201 : Processo 1003983 Exec -> Pronto por tempo
+202 : Processo 1006268 Pronto -> Exec
+203 : Processo 1006268 Exec -> Pronto por tempo
+204 : Processo 1003983 Pronto -> Exec
+205 : Processo 1003983 Exec -> Pronto por tempo
+206 : Processo 1006268 Pronto -> Exec
+207 : Processo 1006268 Exec -> Pronto por tempo
+208 : Processo 1003983 Pronto -> Exec
+209 : Processo 1003983 Exec -> Pronto por tempo
+210 : Processo 1006268 Pronto -> Exec
+211 : Processo 1006268 Exec -> Pronto por tempo
+212 : Processo 1003983 Pronto -> Exec
+213 : Processo 1003983 Exec -> Pronto por tempo
+214 : Processo 1006268 Pronto -> Exec
+215 : Processo 1006268 Exec -> Pronto por tempo
+216 : Processo 1003983 Pronto -> Exec
+217 : Processo 1003983 Exec -> Pronto por tempo
+218 : Processo 1006268 Pronto -> Exec
+219 : Processo 1006268 Exec -> Pronto por tempo
+220 : Processo 1003983 Pronto -> Exec
+221 : Processo 1003983 Exec -> Pronto por tempo
+222 : Processo 1006268 Pronto -> Exec
+223 : Processo 1006268 Exec -> Pronto por tempo
+224 : Processo 1003983 Pronto -> Exec
+225 : Processo 1003983 Exec -> Pronto por tempo
+226 : Processo 1006268 Pronto -> Exec
+227 : Processo 1006268 Exec -> Pronto por tempo
+228 : Processo 1003983 Pronto -> Exec
+229 : Processo 1003983 Exec -> Pronto por tempo
+230 : Processo 1006268 Pronto -> Exec
+231 : Processo 1006268 Exec -> Pronto por tempo
+232 : Processo 1003983 Pronto -> Exec
+233 : Processo 1003983 Exec -> Pronto por tempo
+234 : Processo 1006268 Pronto -> Exec
+235 : Processo 1006268 Exec -> Pronto por tempo
+236 : Processo 1003983 Pronto -> Exec
+237 : Processo 1003983 Exec -> Pronto por tempo
+238 : Processo 1006268 Pronto -> Exec
+239 : Processo 1006268 Exec -> Pronto por tempo
+240 : Processo 1003983 Pronto -> Exec
+241 : Processo 1003983 Exec -> Pronto por tempo
+242 : Processo 1006268 Pronto -> Exec
+243 : Processo 1006268 Exec -> Pronto por tempo
+244 : Processo 1003983 Pronto -> Exec
+245 : Processo 1003983 Exec -> Pronto por tempo
+246 : Processo 1006268 Pronto -> Exec
+247 : Processo 1006268 Exec -> Pronto por tempo
+248 : Processo 1003983 Pronto -> Exec
+249 : Processo 1003983 Exec -> Pronto por tempo
+250 : Processo 1006268 Pronto -> Exec
+251 : Processo 1006268 Exec -> Pronto por tempo
+252 : Processo 1003983 Pronto -> Exec
+253 : Processo 1003983 Exec -> Pronto por tempo
+254 : Processo 1006268 Pronto -> Exec
+255 : Processo 1006268 Exec -> Pronto por tempo
+256 : Processo 1003983 Pronto -> Exec
+257 : Processo 1003983 Exec -> Pronto por tempo
+258 : Processo 1006268 Pronto -> Exec
+259 : Processo 1006268 Exec -> Pronto por tempo
+260 : Processo 1003983 Pronto -> Exec
+261 : Processo 1003983 Exec -> Pronto por tempo
+262 : Processo 1006268 Pronto -> Exec
+263 : Processo 1006268 Exec -> Pronto por tempo
+264 : Processo 1003983 Pronto -> Exec
+265 : Processo 1003983 Exec -> Pronto por tempo
+266 : Processo 1006268 Pronto -> Exec
+267 : Processo 1006268 Exec -> Pronto por tempo
+268 : Processo 1003983 Pronto -> Exec
+269 : Processo 1003983 Exec -> Pronto por tempo
+270 : Processo 1006268 Pronto -> Exec
+271 : Processo 1006268 Exec -> Pronto por tempo
+272 : Processo 1003983 Pronto -> Exec
+273 : Processo 1003983 Exec -> Pronto por tempo
+274 : Processo 1006268 Pronto -> Exec
+275 : Processo 1006268 Exec -> Pronto por tempo
+276 : Processo 1003983 Pronto -> Exec
+277 : Processo 1003983 Exec -> Pronto por tempo
+278 : Processo 1006268 Pronto -> Exec
+279 : Processo 1006268 Exec -> Pronto por tempo
+280 : Processo 1003983 Pronto -> Exec
+281 : Processo 1003983 Exec -> Pronto por tempo
+282 : Processo 1006268 Pronto -> Exec
+283 : Processo 1006268 Exec -> Pronto por tempo
+284 : Processo 1003983 Pronto -> Exec
+285 : Processo 1003983 Exec -> Pronto por tempo
+286 : Processo 1006268 Pronto -> Exec
+287 : Processo 1006268 Exec -> Pronto por tempo
+288 : Processo 1003983 Pronto -> Exec
+289 : Processo 1003983 Exec -> Pronto por tempo
+290 : Processo 1006268 Pronto -> Exec
+291 : Processo 1006268 Exec -> Pronto por tempo
+292 : Processo 1003983 Pronto -> Exec
+293 : Processo 1003983 Exec -> Pronto por tempo
+294 : Processo 1006268 Pronto -> Exec
+295 : Processo 1006268 Exec -> Pronto por tempo
+296 : Processo 1003983 Pronto -> Exec
+297 : Processo 1003983 Exec -> Pronto por tempo
+298 : Processo 1006268 Pronto -> Exec
+299 : Processo 1006268 Exec -> Pronto por tempo
+300 : Processo 1003983 Pronto -> Exec
+301 : Processo 1003983 Exec -> Pronto por tempo
+302 : Processo 1006268 Pronto -> Exec
+303 : Processo 1006268 Exec -> Pronto por tempo
+304 : Processo 1003983 Pronto -> Exec
+305 : Processo 1003983 Exec -> Pronto por tempo
+306 : Processo 1006268 Pronto -> Exec
+307 : Processo 1006268 Exec -> Pronto por tempo
+308 : Processo 1003983 Pronto -> Exec
+309 : Processo 1003983 Exec -> Pronto por tempo
+310 : Processo 1006268 Pronto -> Exec
+311 : Processo 1006268 Exec -> Pronto por tempo
+312 : Processo 1003983 Pronto -> Exec
+313 : Processo 1003983 Exec -> Pronto por tempo
+314 : Processo 1006268 Pronto -> Exec
+315 : Processo 1006268 Exec -> Pronto por tempo
+316 : Processo 1003983 Pronto -> Exec
+317 : Processo 1003983 Exec -> Pronto por tempo
+318 : Processo 1006268 Pronto -> Exec
+319 : Processo 1006268 Exec -> Pronto por tempo
+320 : Processo 1003983 Pronto -> Exec
+321 : Processo 1003983 Exec -> Pronto por tempo
+322 : Processo 1006268 Pronto -> Exec
+323 : Processo 1006268 Exec -> Pronto por tempo
+324 : Processo 1003983 Pronto -> Exec
+325 : Processo 1003983 Exec -> Pronto por tempo
+326 : Processo 1006268 Pronto -> Exec
+327 : Processo 1006268 Exec -> Pronto por tempo
+328 : Processo 1003983 Pronto -> Exec
+329 : Processo 1003983 Exec -> Pronto por tempo
+330 : Processo 1006268 Pronto -> Exec
+331 : Processo 1006268 Exec -> Pronto por tempo
+332 : Processo 1003983 Pronto -> Exec
+333 : Processo 1003983 Exec -> Pronto por tempo
+334 : Processo 1006268 Pronto -> Exec
+335 : Processo 1006268 Exec -> Pronto por tempo
+336 : Processo 1003983 Pronto -> Exec
+337 : Processo 1003983 Exec -> Pronto por tempo
+338 : Processo 1006268 Pronto -> Exec
+339 : Processo 1006268 Exec -> Pronto por tempo
+340 : Processo 1003983 Pronto -> Exec
+341 : Processo 1003983 Exec -> Pronto por tempo
+342 : Processo 1006268 Pronto -> Exec
+343 : Processo 1006268 Exec -> Pronto por tempo
+344 : Processo 1003983 Pronto -> Exec
+345 : Processo 1003983 Exec -> Pronto por tempo
+346 : Processo 1006268 Pronto -> Exec
+347 : Processo 1006268 Exec -> Pronto por tempo
+348 : Processo 1003983 Pronto -> Exec
+349 : Processo 1003983 Exec -> Pronto por tempo
+350 : Processo 1006268 Pronto -> Exec
+351 : Processo 1006268 Exec -> Pronto por tempo
+352 : Processo 1003983 Pronto -> Exec
+353 : Processo 1003983 Exec -> Pronto por tempo
+354 : Processo 1006268 Pronto -> Exec
+355 : Processo 1006268 Exec -> Pronto por tempo
+356 : Processo 1003983 Pronto -> Exec
+357 : Processo 1003983 Exec -> Pronto por tempo
+358 : Processo 1006268 Pronto -> Exec
+359 : Processo 1006268 Exec -> Pronto por tempo
+360 : Processo 1003983 Pronto -> Exec
+361 : Processo 1003983 Exec -> Pronto por tempo
+362 : Processo 1006268 Pronto -> Exec
+363 : Processo 1006268 Exec -> Pronto por tempo
+364 : Processo 1003983 Pronto -> Exec
+365 : Processo 1003983 Exec -> Pronto por tempo
+366 : Processo 1006268 Pronto -> Exec
+367 : Processo 1006268 Exec -> Pronto por tempo
+368 : Processo 1003983 Pronto -> Exec
+369 : Processo 1003983 Exec -> Pronto por tempo
+370 : Processo 1006268 Pronto -> Exec
+371 : Processo 1006268 Exec -> Pronto por tempo
+372 : Processo 1003983 Pronto -> Exec
+373 : Processo 1003983 Exec -> Pronto por tempo
+374 : Processo 1006268 Pronto -> Exec
+375 : Processo 1006268 Exec -> Pronto por tempo
+376 : Processo 1003983 Pronto -> Exec
+377 : Processo 1003983 Exec -> Pronto por tempo
+378 : Processo 1006268 Pronto -> Exec
+379 : Processo 1006268 Exec -> Pronto por tempo
+380 : Processo 1003983 Pronto -> Exec
+381 : Processo 1003983 Exec -> Pronto por tempo
+382 : Processo 1006268 Pronto -> Exec
+383 : Processo 1006268 Exec -> Pronto por tempo
+384 : Processo 1003983 Pronto -> Exec
+385 : Processo 1003983 Exec -> Pronto por tempo
+386 : Processo 1006268 Pronto -> Exec
+387 : Processo 1006268 Exec -> Pronto por tempo
+388 : Processo 1003983 Pronto -> Exec
+389 : Processo 1003983 Exec -> Pronto por tempo
+390 : Processo 1006268 Pronto -> Exec
+391 : Processo 1006268 Exec -> Pronto por tempo
+392 : Processo 1003983 Pronto -> Exec
+393 : Processo 1003983 Exec -> Pronto por tempo
+394 : Processo 1006268 Pronto -> Exec
+395 : Processo 1006268 Exec -> Pronto por tempo
+396 : Processo 1003983 Pronto -> Exec
+397 : Processo 1003983 Exec -> Pronto por tempo
+398 : Processo 1006268 Pronto -> Exec
+399 : Processo 1006268 Exec -> Pronto por tempo
+400 : Processo 1003983 Pronto -> Exec
+401 : Processo 1003983 Exec -> Pronto por tempo
+402 : Processo 1006268 Pronto -> Exec
+403 : Processo 1006268 Exec -> Pronto por tempo
+404 : Processo 1003983 Pronto -> Exec
+405 : Processo 1003983 Exec -> Pronto por tempo
+406 : Processo 1006268 Pronto -> Exec
+407 : Processo 1006268 Exec -> Pronto por tempo
+408 : Processo 1003983 Pronto -> Exec
+409 : Processo 1003983 Exec -> Pronto por tempo
+410 : Processo 1006268 Pronto -> Exec
+411 : Processo 1006268 Exec -> Pronto por tempo
+412 : Processo 1003983 Pronto -> Exec
+413 : Processo 1003983 Exec -> Pronto por tempo
+414 : Processo 1006268 Pronto -> Exec
+415 : Processo 1006268 Exec -> Pronto por tempo
+416 : Processo 1003983 Pronto -> Exec
+417 : Processo 1003983 Exec -> Pronto por tempo
+418 : Processo 1006268 Pronto -> Exec
+419 : Processo 1006268 Exec -> Pronto por tempo
+420 : Processo 1003983 Pronto -> Exec
+421 : Processo 1003983 Exec -> Pronto por tempo
+422 : Processo 1006268 Pronto -> Exec
+423 : Processo 1006268 Exec -> Pronto por tempo
+424 : Processo 1003983 Pronto -> Exec
+425 : Processo 1003983 Exec -> Pronto por tempo
+426 : Processo 1006268 Pronto -> Exec
+427 : Processo 1006268 Exec -> Pronto por tempo
+428 : Processo 1003983 Pronto -> Exec
+429 : Processo 1003983 Exec -> Pronto por tempo
+430 : Processo 1006268 Pronto -> Exec
+431 : Processo 1006268 Exec -> Pronto por tempo
+432 : Processo 1003983 Pronto -> Exec
+433 : Processo 1003983 Exec -> Pronto por tempo
+434 : Processo 1006268 Pronto -> Exec
+435 : Processo 1006268 Exec -> Pronto por tempo
+436 : Processo 1003983 Pronto -> Exec
+437 : Processo 1003983 Exec -> Pronto por tempo
+438 : Processo 1006268 Pronto -> Exec
+439 : Processo 1006268 Exec -> Pronto por tempo
+440 : Processo 1003983 Pronto -> Exec
+441 : Processo 1003983 Exec -> Pronto por tempo
+442 : Processo 1006268 Pronto -> Exec
+443 : Processo 1006268 Exec -> Pronto por tempo
+444 : Processo 1003983 Pronto -> Exec
+445 : Processo 1003983 Exec -> Pronto por tempo
+446 : Processo 1006268 Pronto -> Exec
+447 : Processo 1006268 Exec -> Pronto por tempo
+448 : Processo 1003983 Pronto -> Exec
+449 : Processo 1003983 Exec -> Pronto por tempo
+450 : Processo 1006268 Pronto -> Exec
+451 : Processo 1006268 Exec -> Pronto por tempo
+452 : Processo 1003983 Pronto -> Exec
+453 : Processo 1003983 Exec -> Pronto por tempo
+454 : Processo 1006268 Pronto -> Exec
+455 : Processo 1006268 Exec -> Pronto por tempo
+456 : Processo 1003983 Pronto -> Exec
+457 : Processo 1003983 Exec -> Pronto por tempo
+458 : Processo 1006268 Pronto -> Exec
+459 : Processo 1006268 Exec -> Pronto por tempo
+460 : Processo 1003983 Pronto -> Exec
+461 : Processo 1003983 Exec -> Pronto por tempo
+462 : Processo 1006268 Pronto -> Exec
+463 : Processo 1006268 Exec -> Pronto por tempo
+464 : Processo 1003983 Pronto -> Exec
+465 : Processo 1003983 Exec -> Pronto por tempo
+466 : Processo 1006268 Pronto -> Exec
+467 : Processo 1006268 Exec -> Pronto por tempo
+468 : Processo 1003983 Pronto -> Exec
+469 : Processo 1003983 Exec -> Pronto por tempo
+470 : Processo 1006268 Pronto -> Exec
+471 : Processo 1006268 Exec -> Pronto por tempo
+472 : Processo 1003983 Pronto -> Exec
+473 : Processo 1003983 Exec -> Pronto por tempo
+474 : Processo 1006268 Pronto -> Exec
+475 : Processo 1006268 Exec -> Pronto por tempo
+476 : Processo 1003983 Pronto -> Exec
+477 : Processo 1003983 Exec -> Pronto por tempo
+478 : Processo 1006268 Pronto -> Exec
+479 : Processo 1006268 Exec -> Pronto por tempo
+480 : Processo 1003983 Pronto -> Exec
+481 : Processo 1003983 Exec -> Pronto por tempo
+482 : Processo 1006268 Pronto -> Exec
+483 : Processo 1006268 Exec -> Pronto por tempo
+484 : Processo 1003983 Pronto -> Exec
+485 : Processo 1003983 Exec -> Pronto por tempo
+486 : Processo 1006268 Pronto -> Exec
+487 : Processo 1006268 Exec -> Pronto por tempo
+488 : Processo 1003983 Pronto -> Exec
+489 : Processo 1003983 Exec -> Pronto por tempo
+490 : Processo 1006268 Pronto -> Exec
+491 : Processo 1006268 Exec -> Pronto por tempo
+492 : Processo 1003983 Pronto -> Exec
+493 : Processo 1003983 Exec -> Pronto por tempo
+494 : Processo 1006268 Pronto -> Exec
+495 : Processo 1006268 Exec -> Pronto por tempo
+496 : Processo 1003983 Pronto -> Exec
+497 : Processo 1003983 Exec -> Pronto por tempo
+498 : Processo 1006268 Pronto -> Exec
+499 : Processo 1006268 Exec -> Pronto por tempo
+500 : Processo 1003983 Pronto -> Exec
+501 : Processo 1003983 Exec -> Pronto por tempo
+502 : Processo 1006268 Pronto -> Exec
+503 : Processo 1006268 Exec -> Pronto por tempo
+504 : Processo 1003983 Pronto -> Exec
+505 : Processo 1003983 Exec -> Pronto por tempo
+506 : Processo 1006268 Pronto -> Exec
+507 : Processo 1006268 Exec -> Pronto por tempo
+508 : Processo 1003983 Pronto -> Exec
+509 : Processo 1003983 Exec -> Pronto por tempo
+510 : Processo 1006268 Pronto -> Exec
+511 : Processo 1006268 Exec -> Pronto por tempo
+512 : Processo 1003983 Pronto -> Exec
+513 : Processo 1003983 Exec -> Pronto por tempo
+514 : Processo 1006268 Pronto -> Exec
+515 : Processo 1006268 Exec -> Pronto por tempo
+516 : Processo 1003983 Pronto -> Exec
+517 : Processo 1003983 Exec -> Pronto por tempo
+518 : Processo 1006268 Pronto -> Exec
+519 : Processo 1006268 Exec -> Pronto por tempo
+520 : Processo 1003983 Pronto -> Exec
+521 : Processo 1003983 Exec -> Pronto por tempo
+522 : Processo 1006268 Pronto -> Exec
+523 : Processo 1006268 Exec -> Pronto por tempo
+524 : Processo 1003983 Pronto -> Exec
+525 : Processo 1003983 Exec -> Pronto por tempo
+526 : Processo 1006268 Pronto -> Exec
+527 : Processo 1006268 Exec -> Pronto por tempo
+528 : Processo 1003983 Pronto -> Exec
+529 : Processo 1003983 Exec -> Pronto por tempo
+530 : Processo 1006268 Pronto -> Exec
+531 : Processo 1006268 Exec -> Pronto por tempo
+532 : Processo 1003983 Pronto -> Exec
+533 : Processo 1003983 Exec -> Pronto por tempo
+534 : Processo 1006268 Pronto -> Exec
+535 : Processo 1006268 Exec -> Pronto por tempo
+536 : Processo 1003983 Pronto -> Exec
+537 : Processo 1003983 Exec -> Pronto por tempo
+538 : Processo 1006268 Pronto -> Exec
+539 : Processo 1006268 Exec -> Pronto por tempo
+540 : Processo 1003983 Pronto -> Exec
+541 : Processo 1003983 Exec -> Pronto por tempo
+542 : Processo 1006268 Pronto -> Exec
+543 : Processo 1006268 Exec -> Pronto por tempo
+544 : Processo 1003983 Pronto -> Exec
+545 : Processo 1003983 Exec -> Pronto por tempo
+546 : Processo 1006268 Pronto -> Exec
+547 : Processo 1006268 Exec -> Pronto por tempo
+548 : Processo 1003983 Pronto -> Exec
+549 : Processo 1003983 Exec -> Pronto por tempo
+550 : Processo 1006268 Pronto -> Exec
+551 : Processo 1006268 Exec -> Pronto por tempo
+552 : Processo 1003983 Pronto -> Exec
+553 : Processo 1003983 Exec -> Pronto por tempo
+554 : Processo 1006268 Pronto -> Exec
+555 : Processo 1006268 Exec -> Pronto por tempo
+556 : Processo 1003983 Pronto -> Exec
+557 : Processo 1003983 Exec -> Pronto por tempo
+558 : Processo 1006268 Pronto -> Exec
+559 : Processo 1006268 Exec -> Pronto por tempo
+560 : Processo 1003983 Pronto -> Exec
+561 : Processo 1003983 Exec -> Pronto por tempo
+562 : Processo 1006268 Pronto -> Exec
+563 : Processo 1006268 Exec -> Pronto por tempo
+564 : Processo 1003983 Pronto -> Exec
+565 : Processo 1003983 Exec -> Pronto por tempo
+566 : Processo 1006268 Pronto -> Exec
+567 : Processo 1006268 Exec -> Pronto por tempo
+568 : Processo 1003983 Pronto -> Exec
+569 : Processo 1003983 Exec -> Pronto por tempo
+570 : Processo 1006268 Pronto -> Exec
+571 : Processo 1006268 Exec -> Pronto por tempo
+572 : Processo 1003983 Pronto -> Exec
+573 : Processo 1003983 Exec -> Pronto por tempo
+574 : Processo 1006268 Pronto -> Exec
+575 : Processo 1006268 Exec -> Pronto por tempo
+576 : Processo 1003983 Pronto -> Exec
+577 : Processo 1003983 Exec -> Pronto por tempo
+578 : Processo 1006268 Pronto -> Exec
+579 : Processo 1006268 Exec -> Pronto por tempo
+580 : Processo 1003983 Pronto -> Exec
+581 : Processo 1003983 Exec -> Pronto por tempo
+582 : Processo 1006268 Pronto -> Exec
+583 : Processo 1006268 Exec -> Pronto por tempo
+584 : Processo 1003983 Pronto -> Exec
+585 : Processo 1003983 Exec -> Pronto por tempo
+586 : Processo 1006268 Pronto -> Exec
+587 : Processo 1006268 Exec -> Pronto por tempo
+588 : Processo 1003983 Pronto -> Exec
+589 : Processo 1003983 Exec -> Pronto por tempo
+590 : Processo 1006268 Pronto -> Exec
+591 : Processo 1006268 Exec -> Pronto por tempo
+592 : Processo 1003983 Pronto -> Exec
+593 : Processo 1003983 Exec -> Pronto por tempo
+594 : Processo 1006268 Pronto -> Exec
+595 : Processo 1006268 Exec -> Pronto por tempo
+596 : Processo 1003983 Pronto -> Exec
+597 : Processo 1003983 Exec -> Pronto por tempo
+598 : Processo 1006268 Pronto -> Exec
+599 : Processo 1006268 Exec -> Pronto por tempo
+600 : Processo 1003983 Pronto -> Exec
+601 : Processo 1003983 Exec -> Pronto por tempo
+602 : Processo 1006268 Pronto -> Exec
+603 : Processo 1006268 Exec -> Pronto por tempo
+604 : Processo 1003983 Pronto -> Exec
+605 : Processo 1003983 Exec -> Pronto por tempo
+606 : Processo 1006268 Pronto -> Exec
+607 : Processo 1006268 Exec -> Pronto por tempo
+608 : Processo 1003983 Pronto -> Exec
+609 : Processo 1003983 Exec -> Pronto por tempo
+610 : Processo 1006268 Pronto -> Exec
+611 : Processo 1006268 Exec -> Pronto por tempo
+612 : Processo 1003983 Pronto -> Exec
+613 : Processo 1003983 Exec -> Pronto por tempo
+614 : Processo 1006268 Pronto -> Exec
+615 : Processo 1006268 Exec -> Pronto por tempo
+616 : Processo 1003983 Pronto -> Exec
+617 : Processo 1003983 Exec -> Pronto por tempo
+618 : Processo 1006268 Pronto -> Exec
+619 : Processo 1006268 Exec -> Pronto por tempo
+620 : Processo 1003983 Pronto -> Exec
+621 : Processo 1003983 Exec -> Pronto por tempo
+622 : Processo 1006268 Pronto -> Exec
+623 : Processo 1006268 Exec -> Pronto por tempo
+624 : Processo 1003983 Pronto -> Exec
+625 : Processo 1003983 Exec -> Pronto por tempo
+626 : Processo 1006268 Pronto -> Exec
+627 : Processo 1006268 Exec -> Pronto por tempo
+628 : Processo 1003983 Pronto -> Exec
+629 : Processo 1003983 Exec -> Pronto por tempo
+630 : Processo 1006268 Pronto -> Exec
+631 : Processo 1006268 Exec -> Pronto por tempo
+632 : Processo 1003983 Pronto -> Exec
+633 : Processo 1003983 Exec -> Pronto por tempo
+634 : Processo 1006268 Pronto -> Exec
+635 : Processo 1006268 Exec -> Pronto por tempo
+636 : Processo 1003983 Pronto -> Exec
+637 : Processo 1003983 Exec -> Pronto por tempo
+638 : Processo 1006268 Pronto -> Exec
+639 : Processo 1006268 Exec -> Pronto por tempo
+640 : Processo 1003983 Pronto -> Exec
+641 : Processo 1003983 Exec -> Pronto por tempo
+642 : Processo 1006268 Pronto -> Exec
+643 : Processo 1006268 Exec -> Pronto por tempo
+644 : Processo 1003983 Pronto -> Exec
+645 : Processo 1003983 Exec -> Pronto por tempo
+646 : Processo 1006268 Pronto -> Exec
+647 : Processo 1006268 Exec -> Pronto por tempo
+648 : Processo 1003983 Pronto -> Exec
+649 : Processo 1003983 Exec -> Pronto por tempo
+650 : Processo 1006268 Pronto -> Exec
+651 : Processo 1006268 Exec -> Pronto por tempo
+652 : Processo 1003983 Pronto -> Exec
+653 : Processo 1003983 Exec -> Pronto por tempo
+654 : Processo 1006268 Pronto -> Exec
+655 : Processo 1006268 Exec -> Pronto por tempo
+656 : Processo 1003983 Pronto -> Exec
+657 : Processo 1003983 Exec -> Pronto por tempo
+658 : Processo 1006268 Pronto -> Exec
+659 : Processo 1006268 Exec -> Pronto por tempo
+660 : Processo 1003983 Pronto -> Exec
+661 : Processo 1003983 Exec -> Pronto por tempo
+662 : Processo 1006268 Pronto -> Exec
+663 : Processo 1006268 Exec -> Pronto por tempo
+664 : Processo 1003983 Pronto -> Exec
+665 : Processo 1003983 Exec -> Pronto por tempo
+666 : Processo 1006268 Pronto -> Exec
+667 : Processo 1006268 Exec -> Pronto por tempo
+668 : Processo 1003983 Pronto -> Exec
+669 : Processo 1003983 Exec -> Pronto por tempo
+670 : Processo 1006268 Pronto -> Exec
+671 : Processo 1006268 Exec -> Pronto por tempo
+672 : Processo 1003983 Pronto -> Exec
+673 : Processo 1003983 Exec -> Pronto por tempo
+674 : Processo 1006268 Pronto -> Exec
+675 : Processo 1006268 Exec -> Pronto por tempo
+676 : Processo 1003983 Pronto -> Exec
+677 : Processo 1003983 Exec -> Pronto por tempo
+678 : Processo 1006268 Pronto -> Exec
+679 : Processo 1006268 Exec -> Pronto por tempo
+680 : Processo 1003983 Pronto -> Exec
+681 : Processo 1003983 Exec -> Pronto por tempo
+682 : Processo 1006268 Pronto -> Exec
+683 : Processo 1006268 Exec -> Pronto por tempo
+684 : Processo 1003983 Pronto -> Exec
+685 : Processo 1003983 Exec -> Pronto por tempo
+686 : Processo 1006268 Pronto -> Exec
+687 : Processo 1006268 Exec -> Pronto por tempo
+688 : Processo 1003983 Pronto -> Exec
+689 : Processo 1003983 Exec -> Pronto por tempo
+690 : Processo 1006268 Pronto -> Exec
+691 : Processo 1006268 Exec -> Pronto por tempo
+692 : Processo 1003983 Pronto -> Exec
+693 : Processo 1003983 Exec -> Pronto por tempo
+694 : Processo 1006268 Pronto -> Exec
+695 : Processo 1006268 Exec -> Pronto por tempo
+696 : Processo 1003983 Pronto -> Exec
+697 : Processo 1003983 Exec -> Pronto por tempo
+698 : Processo 1006268 Pronto -> Exec
+699 : Processo 1006268 Exec -> Pronto por tempo
+700 : Processo 1003983 Pronto -> Exec
+701 : Processo 1003983 Exec -> Pronto por tempo
+702 : Processo 1006268 Pronto -> Exec
+703 : Processo 1006268 Exec -> Pronto por tempo
+704 : Processo 1003983 Pronto -> Exec
+705 : Processo 1003983 Exec -> Pronto por tempo
+706 : Processo 1006268 Pronto -> Exec
+707 : Processo 1006268 Exec -> Pronto por tempo
+708 : Processo 1003983 Pronto -> Exec
+709 : Processo 1003983 Exec -> Pronto por tempo
+710 : Processo 1006268 Pronto -> Exec
+711 : Processo 1006268 Exec -> Pronto por tempo
+712 : Processo 1003983 Pronto -> Exec
+713 : Processo 1003983 Exec -> Pronto por tempo
+714 : Processo 1006268 Pronto -> Exec
+715 : Processo 1006268 Exec -> Pronto por tempo
+716 : Processo 1003983 Pronto -> Exec
+717 : Processo 1003983 Exec -> Pronto por tempo
+718 : Processo 1006268 Pronto -> Exec
+719 : Processo 1006268 Exec -> Pronto por tempo
+720 : Processo 1003983 Pronto -> Exec
+721 : Processo 1003983 Exec -> Pronto por tempo
+722 : Processo 1006268 Pronto -> Exec
+723 : Processo 1006268 Exec -> Pronto por tempo
+724 : Processo 1003983 Pronto -> Exec
+725 : Processo 1003983 Exec -> Pronto por tempo
+726 : Processo 1006268 Pronto -> Exec
+727 : Processo 1006268 Exec -> Pronto por tempo
+728 : Processo 1003983 Pronto -> Exec
+729 : Processo 1003983 Exec -> Pronto por tempo
+730 : Processo 1006268 Pronto -> Exec
+731 : Processo 1006268 Exec -> Pronto por tempo
+732 : Processo 1003983 Pronto -> Exec
+733 : Processo 1003983 Exec -> Pronto por tempo
+734 : Processo 1006268 Pronto -> Exec
+735 : Processo 1006268 Exec -> Pronto por tempo
+736 : Processo 1003983 Pronto -> Exec
+737 : Processo 1003983 Exec -> Pronto por tempo
+738 : Processo 1006268 Pronto -> Exec
+739 : Processo 1006268 Exec -> Pronto por tempo
+740 : Processo 1003983 Pronto -> Exec
+741 : Processo 1003983 Exec -> Pronto por tempo
+742 : Processo 1006268 Pronto -> Exec
+743 : Processo 1006268 Exec -> Pronto por tempo
+744 : Processo 1003983 Pronto -> Exec
+745 : Processo 1003983 Exec -> Pronto por tempo
+746 : Processo 1006268 Pronto -> Exec
+747 : Processo 1006268 Exec -> Pronto por tempo
+748 : Processo 1003983 Pronto -> Exec
+749 : Processo 1003983 Exec -> Pronto por tempo
+750 : Processo 1006268 Pronto -> Exec
+751 : Processo 1006268 Exec -> Pronto por tempo
+752 : Processo 1003983 Pronto -> Exec
+753 : Processo 1003983 Exec -> Pronto por tempo
+754 : Processo 1006268 Pronto -> Exec
+755 : Processo 1006268 Exec -> Pronto por tempo
+756 : Processo 1003983 Pronto -> Exec
+757 : Processo 1003983 Exec -> Pronto por tempo
+758 : Processo 1006268 Pronto -> Exec
+759 : Processo 1006268 Exec -> Pronto por tempo
+760 : Processo 1003983 Pronto -> Exec
+761 : Processo 1003983 Exec -> Pronto por tempo
+762 : Processo 1006268 Pronto -> Exec
+763 : Processo 1006268 Exec -> Pronto por tempo
+764 : Processo 1003983 Pronto -> Exec
+765 : Processo 1003983 Exec -> Pronto por tempo
+766 : Processo 1006268 Pronto -> Exec
+767 : Processo 1006268 Exec -> Pronto por tempo
+768 : Processo 1003983 Pronto -> Exec
+769 : Processo 1003983 Exec -> Pronto por tempo
+770 : Processo 1006268 Pronto -> Exec
+771 : Processo 1006268 Exec -> Pronto por tempo
+772 : Processo 1003983 Pronto -> Exec
+773 : Processo 1003983 Exec -> Pronto por tempo
+774 : Processo 1006268 Pronto -> Exec
+775 : Processo 1006268 Exec -> Pronto por tempo
+776 : Processo 1003983 Pronto -> Exec
+777 : Processo 1003983 Exec -> Pronto por tempo
+778 : Processo 1006268 Pronto -> Exec
+779 : Processo 1006268 Exec -> Pronto por tempo
+780 : Processo 1003983 Pronto -> Exec
+781 : Processo 1003983 Exec -> Pronto por tempo
+782 : Processo 1006268 Pronto -> Exec
+783 : Processo 1006268 Exec -> Pronto por tempo
+784 : Processo 1003983 Pronto -> Exec
+785 : Processo 1003983 Exec -> Pronto por tempo
+786 : Processo 1006268 Pronto -> Exec
+787 : Processo 1006268 Exec -> Pronto por tempo
+788 : Processo 1003983 Pronto -> Exec
+789 : Processo 1003983 Exec -> Pronto por tempo
+790 : Processo 1006268 Pronto -> Exec
+791 : Processo 1006268 Exec -> Pronto por tempo
+792 : Processo 1003983 Pronto -> Exec
+793 : Processo 1003983 Exec -> Pronto por tempo
+794 : Processo 1006268 Pronto -> Exec
+795 : Processo 1006268 Exec -> Pronto por tempo
+796 : Processo 1003983 Pronto -> Exec
+797 : Processo 1003983 Exec -> Pronto por tempo
+798 : Processo 1006268 Pronto -> Exec
+799 : Processo 1006268 Exec -> Pronto por tempo
+800 : Processo 1003983 Pronto -> Exec
+801 : Processo 1003983 Exec -> Pronto por tempo
+802 : Processo 1006268 Pronto -> Exec
+803 : Processo 1006268 Exec -> Pronto por tempo
+804 : Processo 1003983 Pronto -> Exec
+805 : Processo 1003983 Exec -> Pronto por tempo
+806 : Processo 1006268 Pronto -> Exec
+807 : Processo 1006268 Exec -> Pronto por tempo
+808 : Processo 1003983 Pronto -> Exec
+809 : Processo 1003983 Exec -> Pronto por tempo
+810 : Processo 1006268 Pronto -> Exec
+811 : Processo 1006268 Exec -> Pronto por tempo
+812 : Processo 1003983 Pronto -> Exec
+813 : Processo 1003983 Exec -> Pronto por tempo
+814 : Processo 1006268 Pronto -> Exec
+815 : Processo 1006268 Exec -> Pronto por tempo
+816 : Processo 1003983 Pronto -> Exec
+817 : Processo 1003983 Exec -> Pronto por tempo
+818 : Processo 1006268 Pronto -> Exec
+819 : Processo 1006268 Exec -> Pronto por tempo
+820 : Processo 1003983 Pronto -> Exec
+821 : Processo 1003983 Exec -> Pronto por tempo
+822 : Processo 1006268 Pronto -> Exec
+823 : Processo 1006268 Exec -> Pronto por tempo
+824 : Processo 1003983 Pronto -> Exec
+825 : Processo 1003983 Exec -> Pronto por tempo
+826 : Processo 1006268 Pronto -> Exec
+827 : Processo 1006268 Exec -> Pronto por tempo
+828 : Processo 1003983 Pronto -> Exec
+829 : Processo 1003983 Exec -> Pronto por tempo
+830 : Processo 1006268 Pronto -> Exec
+831 : Processo 1006268 Exec -> Pronto por tempo
+832 : Processo 1003983 Pronto -> Exec
+833 : Processo 1003983 Exec -> Pronto por tempo
+834 : Processo 1006268 Pronto -> Exec
+835 : Processo 1006268 Exec -> Pronto por tempo
+836 : Processo 1003983 Pronto -> Exec
+837 : Processo 1003983 Exec -> Pronto por tempo
+838 : Processo 1006268 Pronto -> Exec
+839 : Processo 1006268 Exec -> Pronto por tempo
+840 : Processo 1003983 Pronto -> Exec
+841 : Processo 1003983 Exec -> Pronto por tempo
+842 : Processo 1006268 Pronto -> Exec
+843 : Processo 1006268 Exec -> Pronto por tempo
+844 : Processo 1003983 Pronto -> Exec
+845 : Processo 1003983 Exec -> Pronto por tempo
+846 : Processo 1006268 Pronto -> Exec
+847 : Processo 1006268 Exec -> Pronto por tempo
+848 : Processo 1003983 Pronto -> Exec
+849 : Processo 1003983 Exec -> Pronto por tempo
+850 : Processo 1006268 Pronto -> Exec
+851 : Processo 1006268 Exec -> Pronto por tempo
+852 : Processo 1003983 Pronto -> Exec
+853 : Processo 1003983 Exec -> Pronto por tempo
+854 : Processo 1006268 Pronto -> Exec
+855 : Processo 1006268 Exec -> Pronto por tempo
+856 : Processo 1003983 Pronto -> Exec
+857 : Processo 1003983 Exec -> Pronto por tempo
+858 : Processo 1006268 Pronto -> Exec
+859 : Processo 1006268 Exec -> Pronto por tempo
+860 : Processo 1003983 Pronto -> Exec
+861 : Processo 1003983 Exec -> Pronto por tempo
+862 : Processo 1006268 Pronto -> Exec
+863 : Processo 1006268 Exec -> Pronto por tempo
+864 : Processo 1003983 Pronto -> Exec
+865 : Processo 1003983 Exec -> Pronto por tempo
+866 : Processo 1006268 Pronto -> Exec
+867 : Processo 1006268 Exec -> Pronto por tempo
+868 : Processo 1003983 Pronto -> Exec
+869 : Processo 1003983 Exec -> Pronto por tempo
+870 : Processo 1006268 Pronto -> Exec
+871 : Processo 1006268 Exec -> Pronto por tempo
+872 : Processo 1003983 Pronto -> Exec
+873 : Processo 1003983 Exec -> Pronto por tempo
+874 : Processo 1006268 Pronto -> Exec
+875 : Processo 1006268 Exec -> Pronto por tempo
+876 : Processo 1003983 Pronto -> Exec
+877 : Processo 1003983 Exec -> Pronto por tempo
+878 : Processo 1006268 Pronto -> Exec
+879 : Processo 1006268 Exec -> Pronto por tempo
+880 : Processo 1003983 Pronto -> Exec
+881 : Processo 1003983 Exec -> Pronto por tempo
+882 : Processo 1006268 Pronto -> Exec
+883 : Processo 1006268 Exec -> Pronto por tempo
+884 : Processo 1003983 Pronto -> Exec
+885 : Processo 1003983 Exec -> Pronto por tempo
+886 : Processo 1006268 Pronto -> Exec
+887 : Processo 1006268 Exec -> Pronto por tempo
+888 : Processo 1003983 Pronto -> Exec
+889 : Processo 1003983 Exec -> Pronto por tempo
+890 : Processo 1006268 Pronto -> Exec
+891 : Processo 1006268 Exec -> Pronto por tempo
+892 : Processo 1003983 Pronto -> Exec
+893 : Processo 1003983 Exec -> Pronto por tempo
+894 : Processo 1006268 Pronto -> Exec
+895 : Processo 1006268 Exec -> Pronto por tempo
+896 : Processo 1003983 Pronto -> Exec
+897 : Processo 1003983 Exec -> Pronto por tempo
+898 : Processo 1006268 Pronto -> Exec
+899 : Processo 1006268 Exec -> Pronto por tempo
+900 : Processo 1003983 Pronto -> Exec
+901 : Processo 1003983 Exec -> Pronto por tempo
+902 : Processo 1006268 Pronto -> Exec
+903 : Processo 1006268 Exec -> Pronto por tempo
+904 : Processo 1003983 Pronto -> Exec
+905 : Processo 1003983 Exec -> Pronto por tempo
+906 : Processo 1006268 Pronto -> Exec
+907 : Processo 1006268 Exec -> Pronto por tempo
+908 : Processo 1003983 Pronto -> Exec
+909 : Processo 1003983 Exec -> Pronto por tempo
+910 : Processo 1006268 Pronto -> Exec
+911 : Processo 1006268 Exec -> Pronto por tempo
+912 : Processo 1003983 Pronto -> Exec
+913 : Processo 1003983 Exec -> Pronto por tempo
+914 : Processo 1006268 Pronto -> Exec
+915 : Processo 1006268 Exec -> Pronto por tempo
+916 : Processo 1003983 Pronto -> Exec
+917 : Processo 1003983 Exec -> Pronto por tempo
+918 : Processo 1006268 Pronto -> Exec
+919 : Processo 1006268 Exec -> Pronto por tempo
+920 : Processo 1003983 Pronto -> Exec
+921 : Processo 1003983 Exec -> Pronto por tempo
+922 : Processo 1006268 Pronto -> Exec
+923 : Processo 1006268 Exec -> Pronto por tempo
+924 : Processo 1003983 Pronto -> Exec
+925 : Processo 1003983 Exec -> Pronto por tempo
+926 : Processo 1006268 Pronto -> Exec
+927 : Processo 1006268 Exec -> Pronto por tempo
+928 : Processo 1003983 Pronto -> Exec
+929 : Processo 1003983 Exec -> Pronto por tempo
+930 : Processo 1006268 Pronto -> Exec
+931 : Processo 1006268 Exec -> Pronto por tempo
+932 : Processo 1003983 Pronto -> Exec
+933 : Processo 1003983 Exec -> Pronto por tempo
+934 : Processo 1006268 Pronto -> Exec
+935 : Processo 1006268 Exec -> Pronto por tempo
+936 : Processo 1003983 Pronto -> Exec
+937 : Processo 1003983 Exec -> Pronto por tempo
+938 : Processo 1006268 Pronto -> Exec
+939 : Processo 1006268 Exec -> Pronto por tempo
+940 : Processo 1003983 Pronto -> Exec
+941 : Processo 1003983 Exec -> Pronto por tempo
+942 : Processo 1006268 Pronto -> Exec
+943 : Processo 1006268 Exec -> Pronto por tempo
+944 : Processo 1003983 Pronto -> Exec
+945 : Processo 1003983 Exec -> Pronto por tempo
+946 : Processo 1006268 Pronto -> Exec
+947 : Processo 1006268 Exec -> Pronto por tempo
+948 : Processo 1003983 Pronto -> Exec
+949 : Processo 1003983 Exec -> Pronto por tempo
+950 : Processo 1006268 Pronto -> Exec
+951 : Processo 1006268 Exec -> Pronto por tempo
+952 : Processo 1003983 Pronto -> Exec
+953 : Processo 1003983 Exec -> Pronto por tempo
+954 : Processo 1006268 Pronto -> Exec
+955 : Processo 1006268 Exec -> Pronto por tempo
+956 : Processo 1003983 Pronto -> Exec
+957 : Processo 1003983 Exec -> Pronto por tempo
+958 : Processo 1006268 Pronto -> Exec
+959 : Processo 1006268 Exec -> Pronto por tempo
+960 : Processo 1003983 Pronto -> Exec
+961 : Processo 1003983 Exec -> Pronto por tempo
+962 : Processo 1006268 Pronto -> Exec
+963 : Processo 1006268 Exec -> Pronto por tempo
+964 : Processo 1003983 Pronto -> Exec
+965 : Processo 1003983 Exec -> Pronto por tempo
+966 : Processo 1006268 Pronto -> Exec
+967 : Processo 1006268 Exec -> Pronto por tempo
+968 : Processo 1003983 Pronto -> Exec
+969 : Processo 1003983 Exec -> Pronto por tempo
+970 : Processo 1006268 Pronto -> Exec
+971 : Processo 1006268 Exec -> Pronto por tempo
+972 : Processo 1003983 Pronto -> Exec
+973 : Processo 1003983 Exec -> Pronto por tempo
+974 : Processo 1006268 Pronto -> Exec
+975 : Processo 1006268 Exec -> Pronto por tempo
+976 : Processo 1003983 Pronto -> Exec
+977 : Processo 1003983 Exec -> Pronto por tempo
+978 : Processo 1006268 Pronto -> Exec
+979 : Processo 1006268 Exec -> Pronto por tempo
+980 : Processo 1003983 Pronto -> Exec
+981 : Processo 1003983 Exec -> Pronto por tempo
+982 : Processo 1006268 Pronto -> Exec
+983 : Processo 1006268 Exec -> Pronto por tempo
+984 : Processo 1003983 Pronto -> Exec
+985 : Processo 1003983 Exec -> Pronto por tempo
+986 : Processo 1006268 Pronto -> Exec
+987 : Processo 1006268 Exec -> Pronto por tempo
+988 : Processo 1003983 Pronto -> Exec
+989 : Processo 1003983 Exec -> Pronto por tempo
+990 : Processo 1006268 Pronto -> Exec
+991 : Processo 1006268 Exec -> Pronto por tempo
+992 : Processo 1003983 Pronto -> Exec
+993 : Processo 1003983 Exec -> Pronto por tempo
+994 : Processo 1006268 Pronto -> Exec
+995 : Processo 1006268 Exec -> Pronto por tempo
+996 : Processo 1003983 Pronto -> Exec
+997 : Processo 1003983 Exec -> Pronto por tempo
+998 : Processo 1006268 Pronto -> Exec
+999 : Processo 1006268 Exec -> Pronto por tempo
+1000 : Processo 1003983 Pronto -> Exec
+1001 : Processo 1003983 Exec -> Pronto por tempo
+1002 : Processo 1006268 Pronto -> Exec
+1003 : Processo 1006268 Exec -> Pronto por tempo
+1004 : Processo 1003983 Pronto -> Exec
+1005 : Processo 1003983 Exec -> Pronto por tempo
+1006 : Processo 1006268 Pronto -> Exec
+1007 : Processo 1006268 Exec -> Pronto por tempo
+1008 : Processo 1003983 Pronto -> Exec
+1009 : Processo 1003983 Exec -> Pronto por tempo
+1010 : Processo 1006268 Pronto -> Exec
+1011 : Processo 1006268 Exec -> Pronto por tempo
+1012 : Processo 1003983 Pronto -> Exec
+1013 : Processo 1003983 Exec -> Pronto por tempo
+1014 : Processo 1006268 Pronto -> Exec
+1015 : Processo 1006268 Exec -> Pronto por tempo
+1016 : Processo 1003983 Pronto -> Exec
+1017 : Processo 1003983 Exec -> Pronto por tempo
+1018 : Processo 1006268 Pronto -> Exec
+1019 : Processo 1006268 Exec -> Pronto por tempo
+1020 : Processo 1003983 Pronto -> Exec
+1021 : Processo 1003983 Exec -> Pronto por tempo
+1022 : Processo 1006268 Pronto -> Exec
+1023 : Processo 1006268 Exec -> Pronto por tempo
+1024 : Processo 1003983 Pronto -> Exec
+1025 : Processo 1003983 Exec -> Pronto por tempo
+1026 : Processo 1006268 Pronto -> Exec
+1027 : Processo 1006268 Exec -> Pronto por tempo
+1028 : Processo 1003983 Pronto -> Exec
+1029 : Processo 1003983 Exec -> Pronto por tempo
+1030 : Processo 1006268 Pronto -> Exec
+1031 : Processo 1006268 Exec -> Pronto por tempo
+1032 : Processo 1003983 Pronto -> Exec
+1033 : Processo 1003983 Exec -> Pronto por tempo
+1034 : Processo 1006268 Pronto -> Exec
+1035 : Processo 1006268 Exec -> Pronto por tempo
+1036 : Processo 1003983 Pronto -> Exec
+1037 : Processo 1003983 Exec -> Pronto por tempo
+1038 : Processo 1006268 Pronto -> Exec
+1039 : Processo 1006268 Exec -> Pronto por tempo
+1040 : Processo 1003983 Pronto -> Exec
+1041 : Processo 1003983 Exec -> Pronto por tempo
+1042 : Processo 1006268 Pronto -> Exec
+1043 : Processo 1006268 Exec -> Pronto por tempo
+1044 : Processo 1003983 Pronto -> Exec
+1045 : Processo 1003983 Exec -> Pronto por tempo
+1046 : Processo 1006268 Pronto -> Exec
+1047 : Processo 1006268 Exec -> Pronto por tempo
+1048 : Processo 1003983 Pronto -> Exec
+1049 : Processo 1003983 Exec -> Pronto por tempo
+1050 : Processo 1006268 Pronto -> Exec
+1051 : Processo 1006268 Exec -> Pronto por tempo
+1052 : Processo 1003983 Pronto -> Exec
+1053 : Processo 1003983 Exec -> Pronto por tempo
+1054 : Processo 1006268 Pronto -> Exec
+1055 : Processo 1006268 Exec -> Pronto por tempo
+1056 : Processo 1003983 Pronto -> Exec
+1057 : Processo 1003983 Exec -> Pronto por tempo
+1058 : Processo 1006268 Pronto -> Exec
+1059 : Processo 1006268 Exec -> Pronto por tempo
+1060 : Processo 1003983 Pronto -> Exec
+1061 : Processo 1003983 Exec -> Pronto por tempo
+1062 : Processo 1006268 Pronto -> Exec
+1063 : Processo 1006268 Exec -> Pronto por tempo
+1064 : Processo 1003983 Pronto -> Exec
+1065 : Processo 1003983 Exec -> Pronto por tempo
+1066 : Processo 1006268 Pronto -> Exec
+1067 : Processo 1006268 Exec -> Pronto por tempo
+1068 : Processo 1003983 Pronto -> Exec
+1069 : Processo 1003983 Exec -> Pronto por tempo
+1070 : Processo 1006268 Pronto -> Exec
+1071 : Processo 1006268 Exec -> Pronto por tempo
+1072 : Processo 1003983 Pronto -> Exec
+1073 : Processo 1003983 Exec -> Pronto por tempo
+1074 : Processo 1006268 Pronto -> Exec
+1075 : Processo 1006268 Exec -> Pronto por tempo
+1076 : Processo 1003983 Pronto -> Exec
+1077 : Processo 1003983 Exec -> Pronto por tempo
+1078 : Processo 1006268 Pronto -> Exec
+1079 : Processo 1006268 Exec -> Pronto por tempo
+1080 : Processo 1003983 Pronto -> Exec
+1081 : Processo 1003983 Exec -> Pronto por tempo
+1082 : Processo 1006268 Pronto -> Exec
+1083 : Processo 1006268 Exec -> Pronto por tempo
+1084 : Processo 1003983 Pronto -> Exec
+1085 : Processo 1003983 Exec -> Pronto por tempo
+1086 : Processo 1006268 Pronto -> Exec
+1087 : Processo 1006268 Exec -> Pronto por tempo
+1088 : Processo 1003983 Pronto -> Exec
+1089 : Processo 1003983 Exec -> Pronto por tempo
+1090 : Processo 1006268 Pronto -> Exec
+1091 : Processo 1006268 Exec -> Pronto por tempo
+1092 : Processo 1003983 Pronto -> Exec
+1093 : Processo 1003983 Exec -> Pronto por tempo
+1094 : Processo 1006268 Pronto -> Exec
+1095 : Processo 1006268 Exec -> Pronto por tempo
+1096 : Processo 1003983 Pronto -> Exec
+1097 : Processo 1003983 Exec -> Pronto por tempo
+1098 : Processo 1006268 Pronto -> Exec
+1099 : Processo 1006268 Exec -> Pronto por tempo
+1100 : Processo 1003983 Pronto -> Exec
+1101 : Processo 1003983 Exec -> Pronto por tempo
+1102 : Processo 1006268 Pronto -> Exec
+1103 : Processo 1006268 Exec -> Pronto por tempo
+1104 : Processo 1003983 Pronto -> Exec
+1105 : Processo 1003983 Exec -> Pronto por tempo
+1106 : Processo 1006268 Pronto -> Exec
+1107 : Processo 1006268 Exec -> Pronto por tempo
+1108 : Processo 1003983 Pronto -> Exec
+1109 : Processo 1003983 Exec -> Pronto por tempo
+1110 : Processo 1006268 Pronto -> Exec
+1111 : Processo 1006268 Exec -> Pronto por tempo
+1112 : Processo 1003983 Pronto -> Exec
+1113 : Processo 1003983 Exec -> Pronto por tempo
+1114 : Processo 1006268 Pronto -> Exec
+1115 : Processo 1006268 Exec -> Pronto por tempo
+1116 : Processo 1003983 Pronto -> Exec
+1117 : Processo 1003983 Exec -> Pronto por tempo
+1118 : Processo 1006268 Pronto -> Exec
+1119 : Processo 1006268 Exec -> Pronto por tempo
+1120 : Processo 1003983 Pronto -> Exec
+1121 : Processo 1003983 Exec -> Pronto por tempo
+1122 : Processo 1006268 Pronto -> Exec
+1123 : Processo 1006268 Exec -> Pronto por tempo
+1124 : Processo 1003983 Pronto -> Exec
+1125 : Processo 1003983 Exec -> Pronto por tempo
+1126 : Processo 1006268 Pronto -> Exec
+1127 : Processo 1006268 Exec -> Pronto por tempo
+1128 : Processo 1003983 Pronto -> Exec
+1129 : Processo 1003983 Exec -> Pronto por tempo
+1130 : Processo 1006268 Pronto -> Exec
+1131 : Processo 1006268 Exec -> Pronto por tempo
+1132 : Processo 1003983 Pronto -> Exec
+1133 : Processo 1003983 Exec -> Pronto por tempo
+1134 : Processo 1006268 Pronto -> Exec
+1135 : Processo 1006268 Exec -> Pronto por tempo
+1136 : Processo 1003983 Pronto -> Exec
+1137 : Processo 1003983 Exec -> Pronto por tempo
+1138 : Processo 1006268 Pronto -> Exec
+1139 : Processo 1006268 Exec -> Pronto por tempo
+1140 : Processo 1003983 Pronto -> Exec
+1141 : Processo 1003983 Exec -> Pronto por tempo
+1142 : Processo 1006268 Pronto -> Exec
+1143 : Processo 1006268 Exec -> Pronto por tempo
+1144 : Processo 1003983 Pronto -> Exec
+1145 : Processo 1003983 Exec -> Pronto por tempo
+1146 : Processo 1006268 Pronto -> Exec
+1147 : Processo 1006268 Exec -> Pronto por tempo
+1148 : Processo 1003983 Pronto -> Exec
+1149 : Processo 1003983 Exec -> Pronto por tempo
+1150 : Processo 1006268 Pronto -> Exec
+1151 : Processo 1006268 Exec -> Pronto por tempo
+1152 : Processo 1003983 Pronto -> Exec
+1153 : Processo 1003983 Exec -> Pronto por tempo
+1154 : Processo 1006268 Pronto -> Exec
+1155 : Processo 1006268 Exec -> Pronto por tempo
+1156 : Processo 1003983 Pronto -> Exec
+1157 : Processo 1003983 Exec -> Pronto por tempo
+1158 : Processo 1006268 Pronto -> Exec
+1159 : Processo 1006268 Exec -> Pronto por tempo
+1160 : Processo 1003983 Pronto -> Exec
+1161 : Processo 1003983 Exec -> Pronto por tempo
+1162 : Processo 1006268 Pronto -> Exec
+1163 : Processo 1006268 Exec -> Pronto por tempo
+1164 : Processo 1003983 Pronto -> Exec
+1165 : Processo 1003983 Exec -> Pronto por tempo
+1166 : Processo 1006268 Pronto -> Exec
+1167 : Processo 1006268 Exec -> Pronto por tempo
+1168 : Processo 1003983 Pronto -> Exec
+1169 : Processo 1003983 Exec -> Pronto por tempo
+1170 : Processo 1006268 Pronto -> Exec
+1171 : Processo 1006268 Exec -> Pronto por tempo
+1172 : Processo 1003983 Pronto -> Exec
+1173 : Processo 1003983 Exec -> Pronto por tempo
+1174 : Processo 1006268 Pronto -> Exec
+1175 : Processo 1006268 Exec -> Pronto por tempo
+1176 : Processo 1003983 Pronto -> Exec
+1177 : Processo 1003983 Exec -> Pronto por tempo
+1178 : Processo 1006268 Pronto -> Exec
+1179 : Processo 1006268 Exec -> Pronto por tempo
+1180 : Processo 1003983 Pronto -> Exec
+1181 : Processo 1003983 Exec -> Pronto por tempo
+1182 : Processo 1006268 Pronto -> Exec
+1183 : Processo 1006268 Exec -> Pronto por tempo
+1184 : Processo 1003983 Pronto -> Exec
+1185 : Processo 1003983 Exec -> Pronto por tempo
+1186 : Processo 1006268 Pronto -> Exec
+1187 : Processo 1006268 Exec -> Pronto por tempo
+1188 : Processo 1003983 Pronto -> Exec
+1189 : Processo 1003983 Exec -> Pronto por tempo
+1190 : Processo 1006268 Pronto -> Exec
+1191 : Processo 1006268 Exec -> Pronto por tempo
+1192 : Processo 1003983 Pronto -> Exec
+1193 : Processo 1003983 Exec -> Pronto por tempo
+1194 : Processo 1006268 Pronto -> Exec
+1195 : Processo 1006268 Exec -> Pronto por tempo
+1196 : Processo 1003983 Pronto -> Exec
+1197 : Processo 1003983 Exec -> Pronto por tempo
+1198 : Processo 1006268 Pronto -> Exec
+1199 : Processo 1006268 Exec -> Pronto por tempo
+1200 : Processo 1003983 Pronto -> Exec
+1201 : Processo 1003983 Exec -> Pronto por tempo
+1202 : Processo 1006268 Pronto -> Exec
+1203 : Processo 1006268 Exec -> Pronto por tempo
+1204 : Processo 1003983 Pronto -> Exec
+1205 : Processo 1003983 Exec -> Pronto por tempo
+1206 : Processo 1006268 Pronto -> Exec
+1207 : Processo 1006268 Exec -> Pronto por tempo
+1208 : Processo 1003983 Pronto -> Exec
+1209 : Processo 1003983 Exec -> Pronto por tempo
+1210 : Processo 1006268 Pronto -> Exec
+1211 : Processo 1006268 Exec -> Pronto por tempo
+1212 : Processo 1003983 Pronto -> Exec
+1213 : Processo 1003983 Exec -> Pronto por tempo
+1214 : Processo 1006268 Pronto -> Exec
+1215 : Processo 1006268 Exec -> Pronto por tempo
+1216 : Processo 1003983 Pronto -> Exec
+1217 : Processo 1003983 Exec -> Pronto por tempo
+1218 : Processo 1006268 Pronto -> Exec
+1219 : Processo 1006268 Exec -> Pronto por tempo
+1220 : Processo 1003983 Pronto -> Exec
+1221 : Processo 1003983 Exec -> Pronto por tempo
+1222 : Processo 1006268 Pronto -> Exec
+1223 : Processo 1006268 Exec -> Pronto por tempo
+1224 : Processo 1003983 Pronto -> Exec
+1225 : Processo 1003983 Exec -> Pronto por tempo
+1226 : Processo 1006268 Pronto -> Exec
+1227 : Processo 1006268 Exec -> Pronto por tempo
+1228 : Processo 1003983 Pronto -> Exec
+1229 : Processo 1003983 Exec -> Pronto por tempo
+1230 : Processo 1006268 Pronto -> Exec
+1231 : Processo 1006268 Exec -> Pronto por tempo
+1232 : Processo 1003983 Pronto -> Exec
+1233 : Processo 1003983 Exec -> Pronto por tempo
+1234 : Processo 1006268 Pronto -> Exec
+1235 : Processo 1006268 Exec -> Pronto por tempo
+1236 : Processo 1003983 Pronto -> Exec
+1237 : Processo 1003983 Exec -> Pronto por tempo
+1238 : Processo 1006268 Pronto -> Exec
+1239 : Processo 1006268 Exec -> Pronto por tempo
+1240 : Processo 1003983 Pronto -> Exec
+1241 : Processo 1003983 Exec -> Pronto por tempo
+1242 : Processo 1006268 Pronto -> Exec
+1243 : Processo 1006268 Exec -> Pronto por tempo
+1244 : Processo 1003983 Pronto -> Exec
+1245 : Processo 1003983 Exec -> Pronto por tempo
+1246 : Processo 1006268 Pronto -> Exec
+1247 : Processo 1006268 Exec -> Pronto por tempo
+1248 : Processo 1003983 Pronto -> Exec
+1249 : Processo 1003983 Exec -> Pronto por tempo
+1250 : Processo 1006268 Pronto -> Exec
+1251 : Processo 1006268 Exec -> Pronto por tempo
+1252 : Processo 1003983 Pronto -> Exec
+1253 : Processo 1003983 Exec -> Pronto por tempo
+1254 : Processo 1006268 Pronto -> Exec
+1255 : Processo 1006268 Exec -> Pronto por tempo
+1256 : Processo 1003983 Pronto -> Exec
+1257 : Processo 1003983 Exec -> Pronto por tempo
+1258 : Processo 1006268 Pronto -> Exec
+1259 : Processo 1006268 Exec -> Pronto por tempo
+1260 : Processo 1003983 Pronto -> Exec
+1261 : Processo 1003983 Exec -> Pronto por tempo
+1262 : Processo 1006268 Pronto -> Exec
+1263 : Processo 1006268 Exec -> Pronto por tempo
+1264 : Processo 1003983 Pronto -> Exec
+1265 : Processo 1003983 Exec -> Pronto por tempo
+1266 : Processo 1006268 Pronto -> Exec
+1267 : Processo 1006268 Exec -> Pronto por tempo
+1268 : Processo 1003983 Pronto -> Exec
+1269 : Processo 1003983 Exec -> Pronto por tempo
+1270 : Processo 1006268 Pronto -> Exec
+1271 : Processo 1006268 Exec -> Pronto por tempo
+1272 : Processo 1003983 Pronto -> Exec
+1273 : Processo 1003983 Exec -> Pronto por tempo
+1274 : Processo 1006268 Pronto -> Exec
+1275 : Processo 1006268 Exec -> Pronto por tempo
+1276 : Processo 1003983 Pronto -> Exec
+1277 : Processo 1003983 Exec -> Pronto por tempo
+1278 : Processo 1006268 Pronto -> Exec
+1279 : Processo 1006268 Exec -> Pronto por tempo
+1280 : Processo 1003983 Pronto -> Exec
+1281 : Processo 1003983 Exec -> Pronto por tempo
+1282 : Processo 1006268 Pronto -> Exec
+1283 : Processo 1006268 Exec -> Pronto por tempo
+1284 : Processo 1003983 Pronto -> Exec
+1285 : Processo 1003983 Exec -> Pronto por tempo
+1286 : Processo 1006268 Pronto -> Exec
+1287 : Processo 1006268 Exec -> Pronto por tempo
+1288 : Processo 1003983 Pronto -> Exec
+1289 : Processo 1003983 Exec -> Pronto por tempo
+1290 : Processo 1006268 Pronto -> Exec
+1291 : Processo 1006268 Exec -> Pronto por tempo
+1292 : Processo 1003983 Pronto -> Exec
+1293 : Processo 1003983 Exec -> Pronto por tempo
+1294 : Processo 1006268 Pronto -> Exec
+1295 : Processo 1006268 Exec -> Pronto por tempo
+1296 : Processo 1003983 Pronto -> Exec
+1297 : Processo 1003983 Exec -> Pronto por tempo
+1298 : Processo 1006268 Pronto -> Exec
+1299 : Processo 1006268 Exec -> Pronto por tempo
+1300 : Processo 1003983 Pronto -> Exec
+1301 : Processo 1003983 Exec -> Pronto por tempo
+1302 : Processo 1006268 Pronto -> Exec
+1303 : Processo 1006268 Exec -> Pronto por tempo
+1304 : Processo 1003983 Pronto -> Exec
+1305 : Processo 1003983 Exec -> Pronto por tempo
+1306 : Processo 1006268 Pronto -> Exec
+1307 : Processo 1006268 Exec -> Pronto por tempo
+1308 : Processo 1003983 Pronto -> Exec
+1309 : Processo 1003983 Exec -> Pronto por tempo
+1310 : Processo 1006268 Pronto -> Exec
+1311 : Processo 1006268 Exec -> Pronto por tempo
+1312 : Processo 1003983 Pronto -> Exec
+1313 : Processo 1003983 Exec -> Pronto por tempo
+1314 : Processo 1006268 Pronto -> Exec
+1315 : Processo 1006268 Exec -> Pronto por tempo
+1316 : Processo 1003983 Pronto -> Exec
+1317 : Processo 1003983 Exec -> Pronto por tempo
+1318 : Processo 1006268 Pronto -> Exec
+1319 : Processo 1006268 Exec -> Pronto por tempo
+1320 : Processo 1003983 Pronto -> Exec
+1321 : Processo 1003983 Exec -> Pronto por tempo
+1322 : Processo 1006268 Pronto -> Exec
+1323 : Processo 1006268 Exec -> Pronto por tempo
+1324 : Processo 1003983 Pronto -> Exec
+1325 : Processo 1003983 Exec -> Pronto por tempo
+1326 : Processo 1006268 Pronto -> Exec
+1327 : Processo 1006268 Exec -> Pronto por tempo
+1328 : Processo 1003983 Pronto -> Exec
+1329 : Processo 1003983 Exec -> Pronto por tempo
+1330 : Processo 1006268 Pronto -> Exec
+1331 : Processo 1006268 Exec -> Pronto por tempo
+1332 : Processo 1003983 Pronto -> Exec
+1333 : Processo 1003983 Exec -> Pronto por tempo
+1334 : Processo 1006268 Pronto -> Exec
+1335 : Processo 1006268 Exec -> Pronto por tempo
+1336 : Processo 1003983 Pronto -> Exec
+1337 : Processo 1003983 Exec -> Pronto por tempo
+1338 : Processo 1006268 Pronto -> Exec
+1339 : Processo 1006268 Exec -> Pronto por tempo
+1340 : Processo 1003983 Pronto -> Exec
+1341 : Processo 1003983 Exec -> Pronto por tempo
+1342 : Processo 1006268 Pronto -> Exec
+1343 : Processo 1006268 Exec -> Pronto por tempo
+1344 : Processo 1003983 Pronto -> Exec
+1345 : Processo 1003983 Exec -> Pronto por tempo
+1346 : Processo 1006268 Pronto -> Exec
+1347 : Processo 1006268 Exec -> Pronto por tempo
+1348 : Processo 1003983 Pronto -> Exec
+1349 : Processo 1003983 Exec -> Pronto por tempo
+1350 : Processo 1006268 Pronto -> Exec
+1351 : Processo 1006268 Exec -> Pronto por tempo
+1352 : Processo 1003983 Pronto -> Exec
+1353 : Processo 1003983 Exec -> Pronto por tempo
+1354 : Processo 1006268 Pronto -> Exec
+1355 : Processo 1006268 Exec -> Pronto por tempo
+1356 : Processo 1003983 Pronto -> Exec
+1357 : Processo 1003983 Exec -> Pronto por tempo
+1358 : Processo 1006268 Pronto -> Exec
+1359 : Processo 1006268 Exec -> Pronto por tempo
+1360 : Processo 1003983 Pronto -> Exec
+1361 : Processo 1003983 Exec -> Pronto por tempo
+1362 : Processo 1006268 Pronto -> Exec
+1363 : Processo 1006268 Exec -> Pronto por tempo
+1364 : Processo 1003983 Pronto -> Exec
+1365 : Processo 1003983 Exec -> Pronto por tempo
+1366 : Processo 1006268 Pronto -> Exec
+1367 : Processo 1006268 Exec -> Pronto por tempo
+1368 : Processo 1003983 Pronto -> Exec
+1369 : Processo 1003983 Exec -> Pronto por tempo
+1370 : Processo 1006268 Pronto -> Exec
+1371 : Processo 1006268 Exec -> Pronto por tempo
+1372 : Processo 1003983 Pronto -> Exec
+1373 : Processo 1003983 Exec -> Pronto por tempo
+1374 : Processo 1006268 Pronto -> Exec
+1375 : Processo 1006268 Exec -> Pronto por tempo
+1376 : Processo 1003983 Pronto -> Exec
+1377 : Processo 1003983 Exec -> Pronto por tempo
+1378 : Processo 1006268 Pronto -> Exec
+1379 : Processo 1006268 Exec -> Pronto por tempo
+1380 : Processo 1003983 Pronto -> Exec
+1381 : Processo 1003983 Exec -> Pronto por tempo
+1382 : Processo 1006268 Pronto -> Exec
+1383 : Processo 1006268 Exec -> Pronto por tempo
+1384 : Processo 1003983 Pronto -> Exec
+1385 : Processo 1003983 Exec -> Pronto por tempo
+1386 : Processo 1006268 Pronto -> Exec
+1387 : Processo 1006268 Exec -> Pronto por tempo
+1388 : Processo 1003983 Pronto -> Exec
+1389 : Processo 1003983 Exec -> Pronto por tempo
+1390 : Processo 1006268 Pronto -> Exec
+1391 : Processo 1006268 Exec -> Pronto por tempo
+1392 : Processo 1003983 Pronto -> Exec
+1393 : Processo 1003983 Exec -> Pronto por tempo
+1394 : Processo 1006268 Pronto -> Exec
+1395 : Processo 1006268 Exec -> Pronto por tempo
+1396 : Processo 1003983 Pronto -> Exec
+1397 : Processo 1003983 Exec -> Pronto por tempo
+1398 : Processo 1006268 Pronto -> Exec
+1399 : Processo 1006268 Exec -> Pronto por tempo
+1400 : Processo 1003983 Pronto -> Exec
+1401 : Processo 1003983 Exec -> Pronto por tempo
+1402 : Processo 1006268 Pronto -> Exec
+1403 : Processo 1006268 Exec -> Pronto por tempo
+1404 : Processo 1003983 Pronto -> Exec
+1405 : Processo 1003983 Exec -> Pronto por tempo
+1406 : Processo 1006268 Pronto -> Exec
+1407 : Processo 1006268 Exec -> Pronto por tempo
+1408 : Processo 1003983 Pronto -> Exec
+1409 : Processo 1003983 Exec -> Pronto por tempo
+1410 : Processo 1006268 Pronto -> Exec
+1411 : Processo 1006268 Exec -> Pronto por tempo
+1412 : Processo 1003983 Pronto -> Exec
+1413 : Processo 1003983 Exec -> Pronto por tempo
+1414 : Processo 1006268 Pronto -> Exec
+1415 : Processo 1006268 Exec -> Pronto por tempo
+1416 : Processo 1003983 Pronto -> Exec
+1417 : Processo 1003983 Exec -> Pronto por tempo
+1418 : Processo 1006268 Pronto -> Exec
+1419 : Processo 1006268 Exec -> Pronto por tempo
+1420 : Processo 1003983 Pronto -> Exec
+1421 : Processo 1003983 Exec -> Pronto por tempo
+1422 : Processo 1006268 Pronto -> Exec
+1423 : Processo 1006268 Exec -> Pronto por tempo
+1424 : Processo 1003983 Pronto -> Exec
+1425 : Processo 1003983 Exec -> Pronto por tempo
+1426 : Processo 1006268 Pronto -> Exec
+1427 : Processo 1006268 Exec -> Pronto por tempo
+1428 : Processo 1003983 Pronto -> Exec
+1429 : Processo 1003983 Exec -> Pronto por tempo
+1430 : Processo 1006268 Pronto -> Exec
+1431 : Processo 1006268 Exec -> Pronto por tempo
+1432 : Processo 1003983 Pronto -> Exec
+1433 : Processo 1003983 Exec -> Pronto por tempo
+1434 : Processo 1006268 Pronto -> Exec
+1435 : Processo 1006268 Exec -> Pronto por tempo
+1436 : Processo 1003983 Pronto -> Exec
+1437 : Processo 1003983 Exec -> Pronto por tempo
+1438 : Processo 1006268 Pronto -> Exec
+1439 : Processo 1006268 Exec -> Pronto por tempo
+1440 : Processo 1003983 Pronto -> Exec
+1441 : Processo 1003983 Exec -> Pronto por tempo
+1442 : Processo 1006268 Pronto -> Exec
+1443 : Processo 1006268 Exec -> Pronto por tempo
+1444 : Processo 1003983 Pronto -> Exec
+1445 : Processo 1003983 Exec -> Pronto por tempo
+1446 : Processo 1006268 Pronto -> Exec
+1447 : Processo 1006268 Exec -> Pronto por tempo
+1448 : Processo 1003983 Pronto -> Exec
+1449 : Processo 1003983 Exec -> Pronto por tempo
+1450 : Processo 1006268 Pronto -> Exec
+1451 : Processo 1006268 Exec -> Pronto por tempo
+1452 : Processo 1003983 Pronto -> Exec
+1453 : Processo 1003983 Exec -> Pronto por tempo
+1454 : Processo 1006268 Pronto -> Exec
+1455 : Processo 1006268 Exec -> Pronto por tempo
+1456 : Processo 1003983 Pronto -> Exec
+1457 : Processo 1003983 Exec -> Pronto por tempo
+1458 : Processo 1006268 Pronto -> Exec
+1459 : Processo 1006268 Exec -> Pronto por tempo
+1460 : Processo 1003983 Pronto -> Exec
+1461 : Processo 1003983 Exec -> Pronto por tempo
+1462 : Processo 1006268 Pronto -> Exec
+1463 : Processo 1006268 Exec -> Pronto por tempo
+1464 : Processo 1003983 Pronto -> Exec
+1465 : Processo 1003983 Exec -> Pronto por tempo
+1466 : Processo 1006268 Pronto -> Exec
+1467 : Processo 1006268 Exec -> Pronto por tempo
+1468 : Processo 1003983 Pronto -> Exec
+1469 : Processo 1003983 Exec -> Pronto por tempo
+1470 : Processo 1006268 Pronto -> Exec
+1471 : Processo 1006268 Exec -> Pronto por tempo
+1472 : Processo 1003983 Pronto -> Exec
+1473 : Processo 1003983 Exec -> Pronto por tempo
+1474 : Processo 1006268 Pronto -> Exec
+1475 : Processo 1006268 Exec -> Pronto por tempo
+1476 : Processo 1003983 Pronto -> Exec
+1477 : Processo 1003983 Exec -> Pronto por tempo
+1478 : Processo 1006268 Pronto -> Exec
+1479 : Processo 1006268 Exec -> Pronto por tempo
+1480 : Processo 1003983 Pronto -> Exec
+1481 : Processo 1003983 Exec -> Pronto por tempo
+1482 : Processo 1006268 Pronto -> Exec
+1483 : Processo 1006268 Exec -> Pronto por tempo
+1484 : Processo 1003983 Pronto -> Exec
+1485 : Processo 1003983 Exec -> Pronto por tempo
+1486 : Processo 1006268 Pronto -> Exec
+1487 : Processo 1006268 Exec -> Pronto por tempo
+1488 : Processo 1003983 Pronto -> Exec
+1489 : Processo 1003983 Exec -> Pronto por tempo
+1490 : Processo 1006268 Pronto -> Exec
+1491 : Processo 1006268 Exec -> Pronto por tempo
+1492 : Processo 1003983 Pronto -> Exec
+1493 : Processo 1003983 Exec -> Pronto por tempo
+1494 : Processo 1006268 Pronto -> Exec
+1495 : Processo 1006268 Exec -> Pronto por tempo
+1496 : Processo 1003983 Pronto -> Exec
+1497 : Processo 1003983 Exec -> Pronto por tempo
+1498 : Processo 1006268 Pronto -> Exec
+1499 : Processo 1006268 Exec -> Pronto por tempo
+1500 : Processo 1003983 Pronto -> Exec
+1501 : Processo 1003983 Exec -> Pronto por tempo
+1502 : Processo 1006268 Pronto -> Exec
+1503 : Processo 1006268 Exec -> Pronto por tempo
+1504 : Processo 1003983 Pronto -> Exec
+1505 : Processo 1003983 Exec -> Pronto por tempo
+1506 : Processo 1006268 Pronto -> Exec
+1507 : Processo 1006268 Exec -> Pronto por tempo
+1508 : Processo 1003983 Pronto -> Exec
+1509 : Processo 1003983 Exec -> Pronto por tempo
+1510 : Processo 1006268 Pronto -> Exec
+1511 : Processo 1006268 Exec -> Pronto por tempo
+1512 : Processo 1003983 Pronto -> Exec
+1513 : Processo 1003983 Exec -> Pronto por tempo
+1514 : Processo 1006268 Pronto -> Exec
+1515 : Processo 1006268 Exec -> Pronto por tempo
+1516 : Processo 1003983 Pronto -> Exec
+1517 : Processo 1003983 Exec -> Pronto por tempo
+1518 : Processo 1006268 Pronto -> Exec
+1519 : Processo 1006268 Exec -> Pronto por tempo
+1520 : Processo 1003983 Pronto -> Exec
+1521 : Processo 1003983 Exec -> Pronto por tempo
+1522 : Processo 1006268 Pronto -> Exec
+1523 : Processo 1006268 Exec -> Pronto por tempo
+1524 : Processo 1003983 Pronto -> Exec
+1525 : Processo 1003983 Exec -> Pronto por tempo
+1526 : Processo 1006268 Pronto -> Exec
+1527 : Processo 1006268 Exec -> Pronto por tempo
+1528 : Processo 1003983 Pronto -> Exec
+1529 : Processo 1003983 Exec -> Pronto por tempo
+1530 : Processo 1006268 Pronto -> Exec
+1531 : Processo 1006268 Exec -> Pronto por tempo
+1532 : Processo 1003983 Pronto -> Exec
+1533 : Processo 1003983 Exec -> Pronto por tempo
+1534 : Processo 1006268 Pronto -> Exec
+1535 : Processo 1006268 Exec -> Pronto por tempo
+1536 : Processo 1003983 Pronto -> Exec
+1537 : Processo 1003983 Exec -> Pronto por tempo
+1538 : Processo 1006268 Pronto -> Exec
+1539 : Processo 1006268 Exec -> Pronto por tempo
+1540 : Processo 1003983 Pronto -> Exec
+1541 : Processo 1003983 Exec -> Pronto por tempo
+1542 : Processo 1006268 Pronto -> Exec
+1543 : Processo 1006268 Exec -> Pronto por tempo
+1544 : Processo 1003983 Pronto -> Exec
+1545 : Processo 1003983 Exec -> Pronto por tempo
+1546 : Processo 1006268 Pronto -> Exec
+1547 : Processo 1006268 Exec -> Pronto por tempo
+1548 : Processo 1003983 Pronto -> Exec
+1549 : Processo 1003983 Exec -> Pronto por tempo
+1550 : Processo 1006268 Pronto -> Exec
+1551 : Processo 1006268 Exec -> Pronto por tempo
+1552 : Processo 1003983 Pronto -> Exec
+1553 : Processo 1003983 Exec -> Pronto por tempo
+1554 : Processo 1006268 Pronto -> Exec
+1555 : Processo 1006268 Exec -> Pronto por tempo
+1556 : Processo 1003983 Pronto -> Exec
+1557 : Processo 1003983 Exec -> Pronto por tempo
+1558 : Processo 1006268 Pronto -> Exec
+1559 : Processo 1006268 Exec -> Pronto por tempo
+1560 : Processo 1003983 Pronto -> Exec
+1561 : Processo 1003983 Exec -> Pronto por tempo
+1562 : Processo 1006268 Pronto -> Exec
+1563 : Processo 1006268 Exec -> Pronto por tempo
+1564 : Processo 1003983 Pronto -> Exec
+1565 : Processo 1003983 Exec -> Pronto por tempo
+1566 : Processo 1006268 Pronto -> Exec
+1567 : Processo 1006268 Exec -> Pronto por tempo
+1568 : Processo 1003983 Pronto -> Exec
+1569 : Processo 1003983 Exec -> Pronto por tempo
+1570 : Processo 1006268 Pronto -> Exec
+1571 : Processo 1006268 Exec -> Pronto por tempo
+1572 : Processo 1003983 Pronto -> Exec
+1573 : Processo 1003983 Exec -> Pronto por tempo
+1574 : Processo 1006268 Pronto -> Exec
+1575 : Processo 1006268 Exec -> Pronto por tempo
+1576 : Processo 1003983 Pronto -> Exec
+1577 : Processo 1003983 Exec -> Pronto por tempo
+1578 : Processo 1006268 Pronto -> Exec
+1579 : Processo 1006268 Exec -> Pronto por tempo
+1580 : Processo 1003983 Pronto -> Exec
+1581 : Processo 1003983 Exec -> Pronto por tempo
+1582 : Processo 1006268 Pronto -> Exec
+1583 : Processo 1006268 Exec -> Pronto por tempo
+1584 : Processo 1003983 Pronto -> Exec
+1585 : Processo 1003983 Exec -> Pronto por tempo
+1586 : Processo 1006268 Pronto -> Exec
+1587 : Processo 1006268 Exec -> Pronto por tempo
+1588 : Processo 1003983 Pronto -> Exec
+1589 : Processo 1003983 Exec -> Pronto por tempo
+1590 : Processo 1006268 Pronto -> Exec
+1591 : Processo 1006268 Exec -> Pronto por tempo
+1592 : Processo 1003983 Pronto -> Exec
+1593 : Processo 1003983 Exec -> Pronto por tempo
+1594 : Processo 1006268 Pronto -> Exec
+1595 : Processo 1006268 Exec -> Pronto por tempo
+1596 : Processo 1003983 Pronto -> Exec
+1597 : Processo 1003983 Exec -> Pronto por tempo
+1598 : Processo 1006268 Pronto -> Exec
+1599 : Processo 1006268 Exec -> Pronto por tempo
+1600 : Processo 1003983 Pronto -> Exec
+1601 : Processo 1003983 Exec -> Pronto por tempo
+1602 : Processo 1006268 Pronto -> Exec
+1603 : Processo 1006268 Exec -> Pronto por tempo
+1604 : Processo 1003983 Pronto -> Exec
+1605 : Processo 1003983 Exec -> Pronto por tempo
+1606 : Processo 1006268 Pronto -> Exec
+1607 : Processo 1006268 Exec -> Pronto por tempo
+1608 : Processo 1003983 Pronto -> Exec
+1609 : Processo 1003983 Exec -> Pronto por tempo
+1610 : Processo 1006268 Pronto -> Exec
+1611 : Processo 1006268 Exec -> Pronto por tempo
+1612 : Processo 1003983 Pronto -> Exec
+1613 : Processo 1003983 Exec -> Pronto por tempo
+1614 : Processo 1006268 Pronto -> Exec
+1615 : Processo 1006268 Exec -> Pronto por tempo
+1616 : Processo 1003983 Pronto -> Exec
+1617 : Processo 1003983 Exec -> Pronto por tempo
+1618 : Processo 1006268 Pronto -> Exec
+1619 : Processo 1006268 Exec -> Pronto por tempo
+1620 : Processo 1003983 Pronto -> Exec
+1621 : Processo 1003983 Exec -> Pronto por tempo
+1622 : Processo 1006268 Pronto -> Exec
+1623 : Processo 1006268 Exec -> Pronto por tempo
+1624 : Processo 1003983 Pronto -> Exec
+1625 : Processo 1003983 Exec -> Pronto por tempo
+1626 : Processo 1006268 Pronto -> Exec
+1627 : Processo 1006268 Exec -> Pronto por tempo
+1628 : Processo 1003983 Pronto -> Exec
+1629 : Processo 1003983 Exec -> Pronto por tempo
+1630 : Processo 1006268 Pronto -> Exec
+1631 : Processo 1006268 Exec -> Pronto por tempo
+1632 : Processo 1003983 Pronto -> Exec
+1633 : Processo 1003983 Exec -> Pronto por tempo
+1634 : Processo 1006268 Pronto -> Exec
+1635 : Processo 1006268 Exec -> Pronto por tempo
+1636 : Processo 1003983 Pronto -> Exec
+1637 : Processo 1003983 Exec -> Pronto por tempo
+1638 : Processo 1006268 Pronto -> Exec
+1639 : Processo 1006268 Exec -> Pronto por tempo
+1640 : Processo 1003983 Pronto -> Exec
+1641 : Processo 1003983 Exec -> Pronto por tempo
+1642 : Processo 1006268 Pronto -> Exec
+1643 : Processo 1006268 Exec -> Pronto por tempo
+1644 : Processo 1003983 Pronto -> Exec
+1645 : Processo 1003983 Exec -> Pronto por tempo
+1646 : Processo 1006268 Pronto -> Exec
+1647 : Processo 1006268 Exec -> Pronto por tempo
+1648 : Processo 1003983 Pronto -> Exec
+1649 : Processo 1003983 Exec -> Pronto por tempo
+1650 : Processo 1006268 Pronto -> Exec
+1651 : Processo 1006268 Exec -> Pronto por tempo
+1652 : Processo 1003983 Pronto -> Exec
+1653 : Processo 1003983 Exec -> Pronto por tempo
+1654 : Processo 1006268 Pronto -> Exec
+1655 : Processo 1006268 Exec -> Pronto por tempo
+1656 : Processo 1003983 Pronto -> Exec
+1657 : Processo 1003983 Exec -> Pronto por tempo
+1658 : Processo 1006268 Pronto -> Exec
+1659 : Processo 1006268 Exec -> Pronto por tempo
+1660 : Processo 1003983 Pronto -> Exec
+1661 : Processo 1003983 Exec -> Pronto por tempo
+1662 : Processo 1006268 Pronto -> Exec
+1663 : Processo 1006268 Exec -> Pronto por tempo
+1664 : Processo 1003983 Pronto -> Exec
+1665 : Processo 1003983 Exec -> Pronto por tempo
+1666 : Processo 1006268 Pronto -> Exec
+1667 : Processo 1006268 Exec -> Pronto por tempo
+1668 : Processo 1003983 Pronto -> Exec
+1669 : Processo 1003983 Exec -> Pronto por tempo
+1670 : Processo 1006268 Pronto -> Exec
+1671 : Processo 1006268 Exec -> Pronto por tempo
+1672 : Processo 1003983 Pronto -> Exec
+1673 : Processo 1003983 Exec -> Pronto por tempo
+1674 : Processo 1006268 Pronto -> Exec
+1675 : Processo 1006268 Exec -> Pronto por tempo
+1676 : Processo 1003983 Pronto -> Exec
+1677 : Processo 1003983 Exec -> Pronto por tempo
+1678 : Processo 1006268 Pronto -> Exec
+1679 : Processo 1006268 Exec -> Pronto por tempo
+1680 : Processo 1003983 Pronto -> Exec
+1681 : Processo 1003983 Exec -> Pronto por tempo
+1682 : Processo 1006268 Pronto -> Exec
+1683 : Processo 1006268 Exec -> Pronto por tempo
+1684 : Processo 1003983 Pronto -> Exec
+1685 : Processo 1003983 Exec -> Pronto por tempo
+1686 : Processo 1006268 Pronto -> Exec
+1687 : Processo 1006268 Exec -> Pronto por tempo
+1688 : Processo 1003983 Pronto -> Exec
+1689 : Processo 1003983 Exec -> Pronto por tempo
+1690 : Processo 1006268 Pronto -> Exec
+1691 : Processo 1006268 Exec -> Pronto por tempo
+1692 : Processo 1003983 Pronto -> Exec
+1693 : Processo 1003983 Exec -> Pronto por tempo
+1694 : Processo 1006268 Pronto -> Exec
+1695 : Processo 1006268 Exec -> Pronto por tempo
+1696 : Processo 1003983 Pronto -> Exec
+1697 : Processo 1003983 Exec -> Pronto por tempo
+1698 : Processo 1006268 Pronto -> Exec
+1699 : Processo 1006268 Exec -> Pronto por tempo
+1700 : Processo 1003983 Pronto -> Exec
+1701 : Processo 1003983 Exec -> Pronto por tempo
+1702 : Processo 1006268 Pronto -> Exec
+1703 : Processo 1006268 Exec -> Pronto por tempo
+1704 : Processo 1003983 Pronto -> Exec
+1705 : Processo 1003983 Exec -> Pronto por tempo
+1706 : Processo 1006268 Pronto -> Exec
+1707 : Processo 1006268 Exec -> Pronto por tempo
+1708 : Processo 1003983 Pronto -> Exec
+1709 : Processo 1003983 Exec -> Pronto por tempo
+1710 : Processo 1006268 Pronto -> Exec
+1711 : Processo 1006268 Exec -> Pronto por tempo
+1712 : Processo 1003983 Pronto -> Exec
+1713 : Processo 1003983 Exec -> Pronto por tempo
+1714 : Processo 1006268 Pronto -> Exec
+1715 : Processo 1006268 Exec -> Pronto por tempo
+1716 : Processo 1003983 Pronto -> Exec
+1717 : Processo 1003983 Exec -> Pronto por tempo
+1718 : Processo 1006268 Pronto -> Exec
+1719 : Processo 1006268 Exec -> Pronto por tempo
+1720 : Processo 1003983 Pronto -> Exec
+1721 : Processo 1003983 Exec -> Pronto por tempo
+1722 : Processo 1006268 Pronto -> Exec
+1723 : Processo 1006268 Exec -> Pronto por tempo
+1724 : Processo 1003983 Pronto -> Exec
+1725 : Processo 1003983 Exec -> Pronto por tempo
+1726 : Processo 1006268 Pronto -> Exec
+1727 : Processo 1006268 Exec -> Pronto por tempo
+1728 : Processo 1003983 Pronto -> Exec
+1729 : Processo 1003983 Exec -> Pronto por tempo
+1730 : Processo 1006268 Pronto -> Exec
+1731 : Processo 1006268 Exec -> Pronto por tempo
+1732 : Processo 1003983 Pronto -> Exec
+1733 : Processo 1003983 Exec -> Pronto por tempo
+1734 : Processo 1006268 Pronto -> Exec
+1735 : Processo 1006268 Exec -> Pronto por tempo
+1736 : Processo 1003983 Pronto -> Exec
+1737 : Processo 1003983 Exec -> Pronto por tempo
+1738 : Processo 1006268 Pronto -> Exec
+1739 : Processo 1006268 Exec -> Pronto por tempo
+1740 : Processo 1003983 Pronto -> Exec
+1741 : Processo 1003983 Exec -> Pronto por tempo
+1742 : Processo 1006268 Pronto -> Exec
+1743 : Processo 1006268 Exec -> Pronto por tempo
+1744 : Processo 1003983 Pronto -> Exec
+1745 : Processo 1003983 Exec -> Pronto por tempo
+1746 : Processo 1006268 Pronto -> Exec
+1747 : Processo 1006268 Exec -> Pronto por tempo
+1748 : Processo 1003983 Pronto -> Exec
+1749 : Processo 1003983 Exec -> Pronto por tempo
+1750 : Processo 1006268 Pronto -> Exec
+1751 : Processo 1006268 Exec -> Pronto por tempo
+1752 : Processo 1003983 Pronto -> Exec
+1753 : Processo 1003983 Exec -> Pronto por tempo
+1754 : Processo 1006268 Pronto -> Exec
+1755 : Processo 1006268 Exec -> Pronto por tempo
+1756 : Processo 1003983 Pronto -> Exec
+1757 : Processo 1003983 Exec -> Pronto por tempo
+1758 : Processo 1006268 Pronto -> Exec
+1759 : Processo 1006268 Exec -> Pronto por tempo
+1760 : Processo 1003983 Pronto -> Exec
+1761 : Processo 1003983 Exec -> Pronto por tempo
+1762 : Processo 1006268 Pronto -> Exec
+1763 : Processo 1006268 Exec -> Pronto por tempo
+1764 : Processo 1003983 Pronto -> Exec
+1765 : Processo 1003983 Exec -> Pronto por tempo
+1766 : Processo 1006268 Pronto -> Exec
+1767 : Processo 1006268 Exec -> Pronto por tempo
+1768 : Processo 1003983 Pronto -> Exec
+1769 : Processo 1003983 Exec -> Pronto por tempo
+1770 : Processo 1006268 Pronto -> Exec
+1771 : Processo 1006268 Exec -> Pronto por tempo
+1772 : Processo 1003983 Pronto -> Exec
+1773 : Processo 1003983 Exec -> Pronto por tempo
+1774 : Processo 1006268 Pronto -> Exec
+1775 : Processo 1006268 Exec -> Pronto por tempo
+1776 : Processo 1003983 Pronto -> Exec
+1777 : Processo 1003983 Exec -> Pronto por tempo
+1778 : Processo 1006268 Pronto -> Exec
+1779 : Processo 1006268 Exec -> Pronto por tempo
+1780 : Processo 1003983 Pronto -> Exec
+1781 : Processo 1003983 Exec -> Pronto por tempo
+1782 : Processo 1006268 Pronto -> Exec
+1783 : Processo 1006268 Exec -> Pronto por tempo
+1784 : Processo 1003983 Pronto -> Exec
+1785 : Processo 1003983 Exec -> Pronto por tempo
+1786 : Processo 1006268 Pronto -> Exec
+1787 : Processo 1006268 Exec -> Pronto por tempo
+1788 : Processo 1003983 Pronto -> Exec
+1789 : Processo 1003983 Exec -> Pronto por tempo
+1790 : Processo 1006268 Pronto -> Exec
+1791 : Processo 1006268 Exec -> Pronto por tempo
+1792 : Processo 1003983 Pronto -> Exec
+1793 : Processo 1003983 Exec -> Pronto por tempo
+1794 : Processo 1006268 Pronto -> Exec
+1795 : Processo 1006268 Exec -> Pronto por tempo
+1796 : Processo 1003983 Pronto -> Exec
+1797 : Processo 1003983 Exec -> Pronto por tempo
+1798 : Processo 1006268 Pronto -> Exec
+1799 : Processo 1006268 Exec -> Pronto por tempo
+1800 : Processo 1003983 Pronto -> Exec
+1801 : Processo 1003983 Exec -> Pronto por tempo
+1802 : Processo 1006268 Pronto -> Exec
+1803 : Processo 1006268 Exec -> Pronto por tempo
+1804 : Processo 1003983 Pronto -> Exec
+1805 : Processo 1003983 Exec -> Pronto por tempo
+1806 : Processo 1006268 Pronto -> Exec
+1807 : Processo 1006268 Exec -> Pronto por tempo
+1808 : Processo 1003983 Pronto -> Exec
+1809 : Processo 1003983 Exec -> Pronto por tempo
+1810 : Processo 1006268 Pronto -> Exec
+1811 : Processo 1006268 Exec -> Pronto por tempo
+1812 : Processo 1003983 Pronto -> Exec
+1813 : Processo 1003983 Exec -> Pronto por tempo
+1814 : Processo 1006268 Pronto -> Exec
+1815 : Processo 1006268 Exec -> Pronto por tempo
+1816 : Processo 1003983 Pronto -> Exec
+1817 : Processo 1003983 Exec -> Pronto por tempo
+1818 : Processo 1006268 Pronto -> Exec
+1819 : Processo 1006268 Exec -> Pronto por tempo
+1820 : Processo 1003983 Pronto -> Exec
+1821 : Processo 1003983 Exec -> Pronto por tempo
+1822 : Processo 1006268 Pronto -> Exec
+1823 : Processo 1006268 Exec -> Pronto por tempo
+1824 : Processo 1003983 Pronto -> Exec
+1825 : Processo 1003983 Exec -> Pronto por tempo
+1826 : Processo 1006268 Pronto -> Exec
+1827 : Processo 1006268 Exec -> Pronto por tempo
+1828 : Processo 1003983 Pronto -> Exec
+1829 : Processo 1003983 Exec -> Pronto por tempo
+1830 : Processo 1006268 Pronto -> Exec
+1831 : Processo 1006268 Exec -> Pronto por tempo
+1832 : Processo 1003983 Pronto -> Exec
+1833 : Processo 1003983 Exec -> Pronto por tempo
+1834 : Processo 1006268 Pronto -> Exec
+1835 : Processo 1006268 Exec -> Pronto por tempo
+1836 : Processo 1003983 Pronto -> Exec
+1837 : Processo 1003983 Exec -> Pronto por tempo
+1838 : Processo 1006268 Pronto -> Exec
+1839 : Processo 1006268 Exec -> Pronto por tempo
+1840 : Processo 1003983 Pronto -> Exec
+1841 : Processo 1003983 Exec -> Pronto por tempo
+1842 : Processo 1006268 Pronto -> Exec
+1843 : Processo 1006268 Exec -> Pronto por tempo
+1844 : Processo 1003983 Pronto -> Exec
+1845 : Processo 1003983 Exec -> Pronto por tempo
+1846 : Processo 1006268 Pronto -> Exec
+1847 : Processo 1006268 Exec -> Pronto por tempo
+1848 : Processo 1003983 Pronto -> Exec
+1849 : Processo 1003983 Exec -> Pronto por tempo
+1850 : Processo 1006268 Pronto -> Exec
+1851 : Processo 1006268 Exec -> Pronto por tempo
+1852 : Processo 1003983 Pronto -> Exec
+1853 : Processo 1003983 Exec -> Pronto por tempo
+1854 : Processo 1006268 Pronto -> Exec
+1855 : Processo 1006268 Exec -> Pronto por tempo
+1856 : Processo 1003983 Pronto -> Exec
+1857 : Processo 1003983 Exec -> Pronto por tempo
+1858 : Processo 1006268 Pronto -> Exec
+1859 : Processo 1006268 Exec -> Pronto por tempo
+1860 : Processo 1003983 Pronto -> Exec
+1861 : Processo 1003983 Exec -> Pronto por tempo
+1862 : Processo 1006268 Pronto -> Exec
+1863 : Processo 1006268 Exec -> Pronto por tempo
+1864 : Processo 1003983 Pronto -> Exec
+1865 : Processo 1003983 Exec -> Pronto por tempo
+1866 : Processo 1006268 Pronto -> Exec
+1867 : Processo 1006268 Exec -> Pronto por tempo
+1868 : Processo 1003983 Pronto -> Exec
+1869 : Processo 1003983 Exec -> Pronto por tempo
+1870 : Processo 1006268 Pronto -> Exec
+1871 : Processo 1006268 Exec -> Pronto por tempo
+1872 : Processo 1003983 Pronto -> Exec
+1873 : Processo 1003983 Exec -> Pronto por tempo
+1874 : Processo 1006268 Pronto -> Exec
+1875 : Processo 1006268 Exec -> Pronto por tempo
+1876 : Processo 1003983 Pronto -> Exec
+1877 : Processo 1003983 Exec -> Pronto por tempo
+1878 : Processo 1006268 Pronto -> Exec
+1879 : Processo 1006268 Exec -> Pronto por tempo
+1880 : Processo 1003983 Pronto -> Exec
+1881 : Processo 1003983 Exec -> Pronto por tempo
+1882 : Processo 1006268 Pronto -> Exec
+1883 : Processo 1006268 Exec -> Pronto por tempo
+1884 : Processo 1003983 Pronto -> Exec
+1885 : Processo 1003983 Exec -> Pronto por tempo
+1886 : Processo 1006268 Pronto -> Exec
+1887 : Processo 1006268 Exec -> Pronto por tempo
+1888 : Processo 1003983 Pronto -> Exec
+1889 : Processo 1003983 Exec -> Pronto por tempo
+1890 : Processo 1006268 Pronto -> Exec
+1891 : Processo 1006268 Exec -> Pronto por tempo
+1892 : Processo 1003983 Pronto -> Exec
+1893 : Processo 1003983 Exec -> Pronto por tempo
+1894 : Processo 1006268 Pronto -> Exec
+1895 : Processo 1006268 Exec -> Pronto por tempo
+1896 : Processo 1003983 Pronto -> Exec
+1897 : Processo 1003983 Exec -> Pronto por tempo
+1898 : Processo 1006268 Pronto -> Exec
+1899 : Processo 1006268 Exec -> Pronto por tempo
+1900 : Processo 1003983 Pronto -> Exec
+1901 : Processo 1003983 Exec -> Pronto por tempo
+1902 : Processo 1006268 Pronto -> Exec
+1903 : Processo 1006268 Exec -> Pronto por tempo
+1904 : Processo 1003983 Pronto -> Exec
+1905 : Processo 1003983 Exec -> Pronto por tempo
+1906 : Processo 1006268 Pronto -> Exec
+1907 : Processo 1006268 Exec -> Pronto por tempo
+1908 : Processo 1003983 Pronto -> Exec
+1909 : Processo 1003983 Exec -> Pronto por tempo
+1910 : Processo 1006268 Pronto -> Exec
+1911 : Processo 1006268 Exec -> Pronto por tempo
+1912 : Processo 1003983 Pronto -> Exec
+1913 : Processo 1003983 Exec -> Pronto por tempo
+1914 : Processo 1006268 Pronto -> Exec
+1915 : Processo 1006268 Exec -> Pronto por tempo
+1916 : Processo 1003983 Pronto -> Exec
+1917 : Processo 1003983 Exec -> Pronto por tempo
+1918 : Processo 1006268 Pronto -> Exec
+1919 : Processo 1006268 Exec -> Pronto por tempo
+1920 : Processo 1003983 Pronto -> Exec
+1921 : Processo 1003983 Exec -> Pronto por tempo
+1922 : Processo 1006268 Pronto -> Exec
+1923 : Processo 1006268 Exec -> Pronto por tempo
+1924 : Processo 1003983 Pronto -> Exec
+1925 : Processo 1003983 Exec -> Pronto por tempo
+1926 : Processo 1006268 Pronto -> Exec
+1927 : Processo 1006268 Exec -> Pronto por tempo
+1928 : Processo 1003983 Pronto -> Exec
+1929 : Processo 1003983 Exec -> Pronto por tempo
+1930 : Processo 1006268 Pronto -> Exec
+1931 : Processo 1006268 Exec -> Pronto por tempo
+1932 : Processo 1003983 Pronto -> Exec
+1933 : Processo 1003983 Exec -> Pronto por tempo
+1934 : Processo 1006268 Pronto -> Exec
+1935 : Processo 1006268 Exec -> Pronto por tempo
+1936 : Processo 1003983 Pronto -> Exec
+1937 : Processo 1003983 Exec -> Pronto por tempo
+1938 : Processo 1006268 Pronto -> Exec
+1939 : Processo 1006268 Exec -> Pronto por tempo
+1940 : Processo 1003983 Pronto -> Exec
+1941 : Processo 1003983 Exec -> Pronto por tempo
+1942 : Processo 1006268 Pronto -> Exec
+1943 : Processo 1006268 Exec -> Pronto por tempo
+1944 : Processo 1003983 Pronto -> Exec
+1945 : Processo 1003983 Exec -> Pronto por tempo
+1946 : Processo 1006268 Pronto -> Exec
+1947 : Processo 1006268 Exec -> Pronto por tempo
+1948 : Processo 1003983 Pronto -> Exec
+1949 : Processo 1003983 Exec -> Pronto por tempo
+1950 : Processo 1006268 Pronto -> Exec
+1951 : Processo 1006268 Exec -> Pronto por tempo
+1952 : Processo 1003983 Pronto -> Exec
+1953 : Processo 1003983 Exec -> Pronto por tempo
+1954 : Processo 1006268 Pronto -> Exec
+1955 : Processo 1006268 Exec -> Pronto por tempo
+1956 : Processo 1003983 Pronto -> Exec
+1957 : Processo 1003983 Exec -> Pronto por tempo
+1958 : Processo 1006268 Pronto -> Exec
+1959 : Processo 1006268 Exec -> Pronto por tempo
+1960 : Processo 1003983 Pronto -> Exec
+1961 : Processo 1003983 Exec -> Pronto por tempo
+1962 : Processo 1006268 Pronto -> Exec
+1963 : Processo 1006268 Exec -> Pronto por tempo
+1964 : Processo 1003983 Pronto -> Exec
+1965 : Processo 1003983 Exec -> Pronto por tempo
+1966 : Processo 1006268 Pronto -> Exec
+1967 : Processo 1006268 Exec -> Pronto por tempo
+1968 : Processo 1003983 Pronto -> Exec
+1969 : Processo 1003983 Exec -> Pronto por tempo
+1970 : Processo 1006268 Pronto -> Exec
+1971 : Processo 1006268 Exec -> Pronto por tempo
+1972 : Processo 1003983 Pronto -> Exec
+1973 : Processo 1003983 Exec -> Pronto por tempo
+1974 : Processo 1006268 Pronto -> Exec
+1975 : Processo 1006268 Exec -> Pronto por tempo
+1976 : Processo 1003983 Pronto -> Exec
+1977 : Processo 1003983 Exec -> Pronto por tempo
+1978 : Processo 1006268 Pronto -> Exec
+1979 : Processo 1006268 Exec -> Pronto por tempo
+1980 : Processo 1003983 Pronto -> Exec
+1981 : Processo 1003983 Exec -> Pronto por tempo
+1982 : Processo 1006268 Pronto -> Exec
+1983 : Processo 1006268 Exec -> Pronto por tempo
+1984 : Processo 1003983 Pronto -> Exec
+1985 : Processo 1003983 Exec -> Pronto por tempo
+1986 : Processo 1006268 Pronto -> Exec
+1987 : Processo 1006268 Exec -> Pronto por tempo
+1988 : Processo 1003983 Pronto -> Exec
+1989 : Processo 1003983 Exec -> Pronto por tempo
+1990 : Processo 1006268 Pronto -> Exec
+1991 : Processo 1006268 Exec -> Pronto por tempo
+1992 : Processo 1003983 Pronto -> Exec
+1993 : Processo 1003983 Exec -> Pronto por tempo
+1994 : Processo 1006268 Pronto -> Exec
+1995 : Processo 1006268 Exec -> Pronto por tempo
+1996 : Processo 1003983 Pronto -> Exec
+1997 : Processo 1003983 Exec -> Pronto por tempo
+1998 : Processo 1006268 Pronto -> Exec
+1999 : Processo 1006268 Exec -> Pronto por tempo
+2000 : Processo 1003983 Pronto -> Exec
+2001 : Processo 1003983 Exec -> Pronto por tempo
+2002 : Processo 1006268 Pronto -> Exec
+2003 : Processo 1006268 Exec -> Pronto por tempo
+2004 : Processo 1003983 Pronto -> Exec
+2005 : Processo 1003983 Exec -> Pronto por tempo
+2006 : Processo 1006268 Pronto -> Exec
+2007 : Processo 1006268 Exec -> Pronto por tempo
+2008 : Processo 1003983 Pronto -> Exec
+2009 : Processo 1003983 Exec -> Pronto por tempo
+2010 : Processo 1006268 Pronto -> Exec
+2011 : Processo 1006268 Exec -> Pronto por tempo
+2012 : Processo 1003983 Pronto -> Exec
+2013 : Processo 1003983 Exec -> Pronto por tempo
+2014 : Processo 1006268 Pronto -> Exec
+2015 : Processo 1006268 Exec -> Pronto por tempo
+2016 : Processo 1003983 Pronto -> Exec
+2017 : Processo 1003983 Exec -> Pronto por tempo
+2018 : Processo 1006268 Pronto -> Exec
+2019 : Processo 1006268 Exec -> Pronto por tempo
+2020 : Processo 1003983 Pronto -> Exec
+2021 : Processo 1003983 Exec -> Pronto por tempo
+2022 : Processo 1006268 Pronto -> Exec
+2023 : Processo 1006268 Exec -> Pronto por tempo
+2024 : Processo 1003983 Pronto -> Exec
+2025 : Processo 1003983 Exec -> Pronto por tempo
+2026 : Processo 1006268 Pronto -> Exec
+2027 : Processo 1006268 Exec -> Pronto por tempo
+2028 : Processo 1003983 Pronto -> Exec
+2029 : Processo 1003983 Exec -> Pronto por tempo
+2030 : Processo 1006268 Pronto -> Exec
+2031 : Processo 1006268 Exec -> Pronto por tempo
+2032 : Processo 1003983 Pronto -> Exec
+2033 : Processo 1003983 Exec -> Pronto por tempo
+2034 : Processo 1006268 Pronto -> Exec
+2035 : Processo 1006268 Exec -> Pronto por tempo
+2036 : Processo 1003983 Pronto -> Exec
+2037 : Processo 1003983 Exec -> Pronto por tempo
+2038 : Processo 1006268 Pronto -> Exec
+2039 : Processo 1006268 Exec -> Pronto por tempo
+2040 : Processo 1003983 Pronto -> Exec
+2041 : Processo 1003983 Exec -> Pronto por tempo
+2042 : Processo 1006268 Pronto -> Exec
+2043 : Processo 1006268 Exec -> Pronto por tempo
+2044 : Processo 1003983 Pronto -> Exec
+2045 : Processo 1003983 Exec -> Pronto por tempo
+2046 : Processo 1006268 Pronto -> Exec
+2047 : Processo 1006268 Exec -> Pronto por tempo
+2048 : Processo 1003983 Pronto -> Exec
+2049 : Processo 1003983 Exec -> Pronto por tempo
+2050 : Processo 1006268 Pronto -> Exec
+2051 : Processo 1006268 Exec -> Pronto por tempo
+2052 : Processo 1003983 Pronto -> Exec
+2053 : Processo 1003983 Exec -> Pronto por tempo
+2054 : Processo 1006268 Pronto -> Exec
+2055 : Processo 1006268 Exec -> Pronto por tempo
+2056 : Processo 1003983 Pronto -> Exec
+2057 : Processo 1003983 Exec -> Pronto por tempo
+2058 : Processo 1006268 Pronto -> Exec
+2059 : Processo 1006268 Exec -> Pronto por tempo
+2060 : Processo 1003983 Pronto -> Exec
+2061 : Processo 1003983 Exec -> Pronto por tempo
+2062 : Processo 1006268 Pronto -> Exec
+2063 : Processo 1006268 Exec -> Pronto por tempo
+2064 : Processo 1003983 Pronto -> Exec
+2065 : Processo 1003983 Exec -> Pronto por tempo
+2066 : Processo 1006268 Pronto -> Exec
+2067 : Processo 1006268 Exec -> Pronto por tempo
+2068 : Processo 1003983 Pronto -> Exec
+2069 : Processo 1003983 Exec -> Pronto por tempo
+2070 : Processo 1006268 Pronto -> Exec
+2071 : Processo 1006268 Exec -> Pronto por tempo
+2072 : Processo 1003983 Pronto -> Exec
+2073 : Processo 1003983 Exec -> Pronto por tempo
+2074 : Processo 1006268 Pronto -> Exec
+2075 : Processo 1006268 Exec -> Pronto por tempo
+2076 : Processo 1003983 Pronto -> Exec
+2077 : Processo 1003983 Exec -> Pronto por tempo
+2078 : Processo 1006268 Pronto -> Exec
+2079 : Processo 1006268 Exec -> Pronto por tempo
+2080 : Processo 1003983 Pronto -> Exec
+2081 : Processo 1003983 Exec -> Pronto por tempo
+2082 : Processo 1006268 Pronto -> Exec
+2083 : Processo 1006268 Exec -> Pronto por tempo
+2084 : Processo 1003983 Pronto -> Exec
+2085 : Processo 1003983 Exec -> Pronto por tempo
+2086 : Processo 1006268 Pronto -> Exec
+2087 : Processo 1006268 Exec -> Pronto por tempo
+2088 : Processo 1003983 Pronto -> Exec
+2089 : Processo 1003983 Exec -> Pronto por tempo
+2090 : Processo 1006268 Pronto -> Exec
+2091 : Processo 1006268 Exec -> Pronto por tempo
+2092 : Processo 1003983 Pronto -> Exec
+2093 : Processo 1003983 Exec -> Pronto por tempo
+2094 : Processo 1006268 Pronto -> Exec
+2095 : Processo 1006268 Exec -> Pronto por tempo
+2096 : Processo 1003983 Pronto -> Exec
+2097 : Processo 1003983 Exec -> Pronto por tempo
+2098 : Processo 1006268 Pronto -> Exec
+2099 : Processo 1006268 Exec -> Pronto por tempo
+2100 : Processo 1003983 Pronto -> Exec
+2101 : Processo 1003983 Exec -> Pronto por tempo
+2102 : Processo 1006268 Pronto -> Exec
+2103 : Processo 1006268 Exec -> Pronto por tempo
+2104 : Processo 1003983 Pronto -> Exec
+2105 : Processo 1003983 Exec -> Pronto por tempo
+2106 : Processo 1006268 Pronto -> Exec
+2107 : Processo 1006268 Exec -> Pronto por tempo
+2108 : Processo 1003983 Pronto -> Exec
+2109 : Processo 1003983 Exec -> Pronto por tempo
+2110 : Processo 1006268 Pronto -> Exec
+2111 : Processo 1006268 Exec -> Pronto por tempo
+2112 : Processo 1003983 Pronto -> Exec
+2113 : Processo 1003983 Exec -> Pronto por tempo
+2114 : Processo 1006268 Pronto -> Exec
+2115 : Processo 1006268 Exec -> Pronto por tempo
+2116 : Processo 1003983 Pronto -> Exec
+2117 : Processo 1003983 Exec -> Pronto por tempo
+2118 : Processo 1006268 Pronto -> Exec
+2119 : Processo 1006268 Exec -> Pronto por tempo
+2120 : Processo 1003983 Pronto -> Exec
+2121 : Processo 1003983 Exec -> Pronto por tempo
+2122 : Processo 1006268 Pronto -> Exec
+2123 : Processo 1006268 Exec -> Pronto por tempo
+2124 : Processo 1003983 Pronto -> Exec
+2125 : Processo 1003983 Exec -> Pronto por tempo
+2126 : Processo 1006268 Pronto -> Exec
+2127 : Processo 1006268 Exec -> Pronto por tempo
+2128 : Processo 1003983 Pronto -> Exec
+2129 : Processo 1003983 Exec -> Pronto por tempo
+2130 : Processo 1006268 Pronto -> Exec
+2131 : Processo 1006268 Exec -> Pronto por tempo
+2132 : Processo 1003983 Pronto -> Exec
+2133 : Processo 1003983 Exec -> Pronto por tempo
+2134 : Processo 1006268 Pronto -> Exec
+2135 : Processo 1006268 Exec -> Pronto por tempo
+2136 : Processo 1003983 Pronto -> Exec
+2137 : Processo 1003983 Exec -> Pronto por tempo
+2138 : Processo 1006268 Pronto -> Exec
+2139 : Processo 1006268 Exec -> Pronto por tempo
+2140 : Processo 1003983 Pronto -> Exec
+2141 : Processo 1003983 Exec -> Pronto por tempo
+2142 : Processo 1006268 Pronto -> Exec
+2143 : Processo 1006268 Exec -> Pronto por tempo
+2144 : Processo 1003983 Pronto -> Exec
+2145 : Processo 1003983 Exec -> Pronto por tempo
+2146 : Processo 1006268 Pronto -> Exec
+2147 : Processo 1006268 Exec -> Pronto por tempo
+2148 : Processo 1003983 Pronto -> Exec
+2149 : Processo 1003983 Exec -> Pronto por tempo
+2150 : Processo 1006268 Pronto -> Exec
+2151 : Processo 1006268 Exec -> Pronto por tempo
+2152 : Processo 1003983 Pronto -> Exec
+2153 : Processo 1003983 Exec -> Pronto por tempo
+2154 : Processo 1006268 Pronto -> Exec
+2155 : Processo 1006268 Exec -> Pronto por tempo
+2156 : Processo 1003983 Pronto -> Exec
+2157 : Processo 1003983 Exec -> Pronto por tempo
+2158 : Processo 1006268 Pronto -> Exec
+2159 : Processo 1006268 Exec -> Pronto por tempo
+2160 : Processo 1003983 Pronto -> Exec
+2161 : Processo 1003983 Exec -> Pronto por tempo
+2162 : Processo 1006268 Pronto -> Exec
+2163 : Processo 1006268 Exec -> Pronto por tempo
+2164 : Processo 1003983 Pronto -> Exec
+2165 : Processo 1003983 Exec -> Pronto por tempo
+2166 : Processo 1006268 Pronto -> Exec
+2167 : Processo 1006268 Exec -> Pronto por tempo
+2168 : Processo 1003983 Pronto -> Exec
+2169 : Processo 1003983 Exec -> Pronto por tempo
+2170 : Processo 1006268 Pronto -> Exec
+2171 : Processo 1006268 Exec -> Pronto por tempo
+2172 : Processo 1003983 Pronto -> Exec
+2173 : Processo 1003983 Exec -> Pronto por tempo
+2174 : Processo 1006268 Pronto -> Exec
+2175 : Processo 1006268 Exec -> Pronto por tempo
+2176 : Processo 1003983 Pronto -> Exec
+2177 : Processo 1003983 Exec -> Pronto por tempo
+2178 : Processo 1006268 Pronto -> Exec
+2179 : Processo 1006268 Exec -> Pronto por tempo
+2180 : Processo 1003983 Pronto -> Exec
+2181 : Processo 1003983 Exec -> Pronto por tempo
+2182 : Processo 1006268 Pronto -> Exec
+2183 : Processo 1006268 Exec -> Pronto por tempo
+2184 : Processo 1003983 Pronto -> Exec
+2185 : Processo 1003983 Exec -> Pronto por tempo
+2186 : Processo 1006268 Pronto -> Exec
+2187 : Processo 1006268 Exec -> Pronto por tempo
+2188 : Processo 1003983 Pronto -> Exec
+2189 : Processo 1003983 Exec -> Pronto por tempo
+2190 : Processo 1006268 Pronto -> Exec
+2191 : Processo 1006268 Exec -> Pronto por tempo
+2192 : Processo 1003983 Pronto -> Exec
+2193 : Processo 1003983 Exec -> Pronto por tempo
+2194 : Processo 1006268 Pronto -> Exec
+2195 : Processo 1006268 Exec -> Pronto por tempo
+2196 : Processo 1003983 Pronto -> Exec
+2197 : Processo 1003983 Exec -> Pronto por tempo
+2198 : Processo 1006268 Pronto -> Exec
+2199 : Processo 1006268 Exec -> Pronto por tempo
+2200 : Processo 1003983 Pronto -> Exec
+2201 : Processo 1003983 Exec -> Pronto por tempo
+2202 : Processo 1006268 Pronto -> Exec
+2203 : Processo 1006268 Exec -> Pronto por tempo
+2204 : Processo 1003983 Pronto -> Exec
+2205 : Processo 1003983 Exec -> Pronto por tempo
+2206 : Processo 1006268 Pronto -> Exec
+2207 : Processo 1006268 Exec -> Pronto por tempo
+2208 : Processo 1003983 Pronto -> Exec
+2209 : Processo 1003983 Exec -> Pronto por tempo
+2210 : Processo 1006268 Pronto -> Exec
+2211 : Processo 1006268 Exec -> Pronto por tempo
+2212 : Processo 1003983 Pronto -> Exec
+2213 : Processo 1003983 Exec -> Pronto por tempo
+2214 : Processo 1006268 Pronto -> Exec
+2215 : Processo 1006268 Exec -> Pronto por tempo
+2216 : Processo 1003983 Pronto -> Exec
+2217 : Processo 1003983 Exec -> Pronto por tempo
+2218 : Processo 1006268 Pronto -> Exec
+2219 : Processo 1006268 Exec -> Pronto por tempo
+2220 : Processo 1003983 Pronto -> Exec
+2221 : Processo 1003983 Exec -> Pronto por tempo
+2222 : Processo 1006268 Pronto -> Exec
+2223 : Processo 1006268 Exec -> Pronto por tempo
+2224 : Processo 1003983 Pronto -> Exec
+2225 : Processo 1003983 Exec -> Pronto por tempo
+2226 : Processo 1006268 Pronto -> Exec
+2227 : Processo 1006268 Exec -> Pronto por tempo
+2228 : Processo 1003983 Pronto -> Exec
+2229 : Processo 1003983 Exec -> Pronto por tempo
+2230 : Processo 1006268 Pronto -> Exec
+2231 : Processo 1006268 Exec -> Pronto por tempo
+2232 : Processo 1003983 Pronto -> Exec
+2233 : Processo 1003983 Exec -> Pronto por tempo
+2234 : Processo 1006268 Pronto -> Exec
+2235 : Processo 1006268 Exec -> Pronto por tempo
+2236 : Processo 1003983 Pronto -> Exec
+2237 : Processo 1003983 Exec -> Pronto por tempo
+2238 : Processo 1006268 Pronto -> Exec
+2239 : Processo 1006268 Exec -> Pronto por tempo
+2240 : Processo 1003983 Pronto -> Exec
+2241 : Processo 1003983 Exec -> Pronto por tempo
+2242 : Processo 1006268 Pronto -> Exec
+2243 : Processo 1006268 Exec -> Pronto por tempo
+2244 : Processo 1003983 Pronto -> Exec
+2245 : Processo 1003983 Exec -> Pronto por tempo
+2246 : Processo 1006268 Pronto -> Exec
+2247 : Processo 1006268 Exec -> Pronto por tempo
+2248 : Processo 1003983 Pronto -> Exec
+2249 : Processo 1003983 Exec -> Pronto por tempo
+2250 : Processo 1006268 Pronto -> Exec
+2251 : Processo 1006268 Exec -> Pronto por tempo
+2252 : Processo 1003983 Pronto -> Exec
+2253 : Processo 1003983 Exec -> Pronto por tempo
+2254 : Processo 1006268 Pronto -> Exec
+2255 : Processo 1006268 Exec -> Pronto por tempo
+2256 : Processo 1003983 Pronto -> Exec
+2257 : Processo 1003983 Exec -> Pronto por tempo
+2258 : Processo 1006268 Pronto -> Exec
+2259 : Processo 1006268 Exec -> Pronto por tempo
+2260 : Processo 1003983 Pronto -> Exec
+2261 : Processo 1003983 Exec -> Pronto por tempo
+2262 : Processo 1006268 Pronto -> Exec
+2263 : Processo 1006268 Exec -> Pronto por tempo
+2264 : Processo 1003983 Pronto -> Exec
+2265 : Processo 1003983 Exec -> Pronto por tempo
+2266 : Processo 1006268 Pronto -> Exec
+2267 : Processo 1006268 Exec -> Pronto por tempo
+2268 : Processo 1003983 Pronto -> Exec
+2269 : Processo 1003983 Exec -> Pronto por tempo
+2270 : Processo 1006268 Pronto -> Exec
+2271 : Processo 1006268 Exec -> Pronto por tempo
+2272 : Processo 1003983 Pronto -> Exec
+2273 : Processo 1003983 Exec -> Pronto por tempo
+2274 : Processo 1006268 Pronto -> Exec
+2275 : Processo 1006268 Exec -> Pronto por tempo
+2276 : Processo 1003983 Pronto -> Exec
+2277 : Processo 1003983 Exec -> Pronto por tempo
+2278 : Processo 1006268 Pronto -> Exec
+2279 : Processo 1006268 Exec -> Pronto por tempo
+2280 : Processo 1003983 Pronto -> Exec
+2281 : Processo 1003983 Exec -> Pronto por tempo
+2282 : Processo 1006268 Pronto -> Exec
+2283 : Processo 1006268 Exec -> Pronto por tempo
+2284 : Processo 1003983 Pronto -> Exec
+2285 : Processo 1003983 Exec -> Pronto por tempo
+2286 : Processo 1006268 Pronto -> Exec
+2287 : Processo 1006268 Exec -> Pronto por tempo
+2288 : Processo 1003983 Pronto -> Exec
+2289 : Processo 1003983 Exec -> Pronto por tempo
+2290 : Processo 1006268 Pronto -> Exec
+2291 : Processo 1006268 Exec -> Pronto por tempo
+2292 : Processo 1003983 Pronto -> Exec
+2293 : Processo 1003983 Exec -> Pronto por tempo
+2294 : Processo 1006268 Pronto -> Exec
+2295 : Processo 1006268 Exec -> Pronto por tempo
+2296 : Processo 1003983 Pronto -> Exec
+2297 : Processo 1003983 Exec -> Pronto por tempo
+2298 : Processo 1006268 Pronto -> Exec
+2299 : Processo 1006268 Exec -> Pronto por tempo
+2300 : Processo 1003983 Pronto -> Exec
+2301 : Processo 1003983 Exec -> Pronto por tempo
+2302 : Processo 1006268 Pronto -> Exec
+2303 : Processo 1006268 Exec -> Pronto por tempo
+2304 : Processo 1003983 Pronto -> Exec
+2305 : Processo 1003983 Exec -> Pronto por tempo
+2306 : Processo 1006268 Pronto -> Exec
+2307 : Processo 1006268 Exec -> Pronto por tempo
+2308 : Processo 1003983 Pronto -> Exec
+2309 : Processo 1003983 Exec -> Pronto por tempo
+2310 : Processo 1006268 Pronto -> Exec
+2311 : Processo 1006268 Exec -> Pronto por tempo
+2312 : Processo 1003983 Pronto -> Exec
+2313 : Processo 1003983 Exec -> Pronto por tempo
+2314 : Processo 1006268 Pronto -> Exec
+2315 : Processo 1006268 Exec -> Pronto por tempo
+2316 : Processo 1003983 Pronto -> Exec
+2317 : Processo 1003983 Exec -> Pronto por tempo
+2318 : Processo 1006268 Pronto -> Exec
+2319 : Processo 1006268 Exec -> Pronto por tempo
+2320 : Processo 1003983 Pronto -> Exec
+2321 : Processo 1003983 Exec -> Pronto por tempo
+2322 : Processo 1006268 Pronto -> Exec
+2323 : Processo 1006268 Exec -> Pronto por tempo
+2324 : Processo 1003983 Pronto -> Exec
+2325 : Processo 1003983 Exec -> Pronto por tempo
+2326 : Processo 1006268 Pronto -> Exec
+2327 : Processo 1006268 Exec -> Pronto por tempo
+2328 : Processo 1003983 Pronto -> Exec
+2329 : Processo 1003983 Exec -> Pronto por tempo
+2330 : Processo 1006268 Pronto -> Exec
+2331 : Processo 1006268 Exec -> Pronto por tempo
+2332 : Processo 1003983 Pronto -> Exec
+2333 : Processo 1003983 Exec -> Pronto por tempo
+2334 : Processo 1006268 Pronto -> Exec
+2335 : Processo 1006268 Exec -> Pronto por tempo
+2336 : Processo 1003983 Pronto -> Exec
+2337 : Processo 1003983 Exec -> Pronto por tempo
+2338 : Processo 1006268 Pronto -> Exec
+2339 : Processo 1006268 Exec -> Pronto por tempo
+2340 : Processo 1003983 Pronto -> Exec
+2341 : Processo 1003983 Exec -> Pronto por tempo
+2342 : Processo 1006268 Pronto -> Exec
+2343 : Processo 1006268 Exec -> Pronto por tempo
+2344 : Processo 1003983 Pronto -> Exec
+2345 : Processo 1003983 Exec -> Pronto por tempo
+2346 : Processo 1006268 Pronto -> Exec
+2347 : Processo 1006268 Exec -> Pronto por tempo
+2348 : Processo 1003983 Pronto -> Exec
+2349 : Processo 1003983 Exec -> Pronto por tempo
+2350 : Processo 1006268 Pronto -> Exec
+2351 : Processo 1006268 Exec -> Pronto por tempo
+2352 : Processo 1003983 Pronto -> Exec
+2353 : Processo 1003983 Exec -> Pronto por tempo
+2354 : Processo 1006268 Pronto -> Exec
+2355 : Processo 1006268 Exec -> Pronto por tempo
+2356 : Processo 1003983 Pronto -> Exec
+2357 : Processo 1003983 Exec -> Pronto por tempo
+2358 : Processo 1006268 Pronto -> Exec
+2359 : Processo 1006268 Exec -> Pronto por tempo
+2360 : Processo 1003983 Pronto -> Exec
+2361 : Processo 1003983 Exec -> Pronto por tempo
+2362 : Processo 1006268 Pronto -> Exec
+2363 : Processo 1006268 Exec -> Pronto por tempo
+2364 : Processo 1003983 Pronto -> Exec
+2365 : Processo 1003983 Exec -> Pronto por tempo
+2366 : Processo 1006268 Pronto -> Exec
+2367 : Processo 1006268 Exec -> Pronto por tempo
+2368 : Processo 1003983 Pronto -> Exec
+2369 : Processo 1003983 Exec -> Pronto por tempo
+2370 : Processo 1006268 Pronto -> Exec
+2371 : Processo 1006268 Exec -> Pronto por tempo
+2372 : Processo 1003983 Pronto -> Exec
+2373 : Processo 1003983 Exec -> Pronto por tempo
+2374 : Processo 1006268 Pronto -> Exec
+2375 : Processo 1006268 Exec -> Pronto por tempo
+2376 : Processo 1003983 Pronto -> Exec
+2377 : Processo 1003983 Exec -> Pronto por tempo
+2378 : Processo 1006268 Pronto -> Exec
+2379 : Processo 1006268 Exec -> Pronto por tempo
+2380 : Processo 1003983 Pronto -> Exec
+2381 : Processo 1003983 Exec -> Pronto por tempo
+2382 : Processo 1006268 Pronto -> Exec
+2383 : Processo 1006268 Exec -> Pronto por tempo
+2384 : Processo 1003983 Pronto -> Exec
+2385 : Processo 1003983 Exec -> Pronto por tempo
+2386 : Processo 1006268 Pronto -> Exec
+2387 : Processo 1006268 Exec -> Pronto por tempo
+2388 : Processo 1003983 Pronto -> Exec
+2389 : Processo 1003983 Exec -> Pronto por tempo
+2390 : Processo 1006268 Pronto -> Exec
+2391 : Processo 1006268 Exec -> Pronto por tempo
+2392 : Processo 1003983 Pronto -> Exec
+2393 : Processo 1003983 Exec -> Pronto por tempo
+2394 : Processo 1006268 Pronto -> Exec
+2395 : Processo 1006268 Exec -> Pronto por tempo
+2396 : Processo 1003983 Pronto -> Exec
+2397 : Processo 1003983 Exec -> Pronto por tempo
+2398 : Processo 1006268 Pronto -> Exec
+2399 : Processo 1006268 Exec -> Pronto por tempo
+2400 : Processo 1003983 Pronto -> Exec
+2401 : Processo 1003983 Exec -> Pronto por tempo
+2402 : Processo 1006268 Pronto -> Exec
+2403 : Processo 1006268 Exec -> Pronto por tempo
+2404 : Processo 1003983 Pronto -> Exec
+2405 : Processo 1003983 Exec -> Pronto por tempo
+2406 : Processo 1006268 Pronto -> Exec
+2407 : Processo 1006268 Exec -> Pronto por tempo
+2408 : Processo 1003983 Pronto -> Exec
+2409 : Processo 1003983 Exec -> Pronto por tempo
+2410 : Processo 1006268 Pronto -> Exec
+2411 : Processo 1006268 Exec -> Pronto por tempo
+2412 : Processo 1003983 Pronto -> Exec
+2413 : Processo 1003983 Exec -> Pronto por tempo
+2414 : Processo 1006268 Pronto -> Exec
+2415 : Processo 1006268 Exec -> Pronto por tempo
+2416 : Processo 1003983 Pronto -> Exec
+2417 : Processo 1003983 Exec -> Pronto por tempo
+2418 : Processo 1006268 Pronto -> Exec
+2419 : Processo 1006268 Exec -> Pronto por tempo
+2420 : Processo 1003983 Pronto -> Exec
+2421 : Processo 1003983 Exec -> Pronto por tempo
+2422 : Processo 1006268 Pronto -> Exec
+2423 : Processo 1006268 Exec -> Pronto por tempo
+2424 : Processo 1003983 Pronto -> Exec
+2425 : Processo 1003983 Exec -> Pronto por tempo
+2426 : Processo 1006268 Pronto -> Exec
+2427 : Processo 1006268 Exec -> Pronto por tempo
+2428 : Processo 1003983 Pronto -> Exec
+2429 : Processo 1003983 Exec -> Pronto por tempo
+2430 : Processo 1006268 Pronto -> Exec
+2431 : Processo 1006268 Exec -> Pronto por tempo
+2432 : Processo 1003983 Pronto -> Exec
+2433 : Processo 1003983 Exec -> Pronto por tempo
+2434 : Processo 1006268 Pronto -> Exec
+2435 : Processo 1006268 Exec -> Pronto por tempo
+2436 : Processo 1003983 Pronto -> Exec
+2437 : Processo 1003983 Exec -> Pronto por tempo
+2438 : Processo 1006268 Pronto -> Exec
+2439 : Processo 1006268 Exec -> Pronto por tempo
+2440 : Processo 1003983 Pronto -> Exec
+2441 : Processo 1003983 Exec -> Pronto por tempo
+2442 : Processo 1006268 Pronto -> Exec
+2443 : Processo 1006268 Exec -> Pronto por tempo
+2444 : Processo 1003983 Pronto -> Exec
+2445 : Processo 1003983 Exec -> Pronto por tempo
+2446 : Processo 1006268 Pronto -> Exec
+2447 : Processo 1006268 Exec -> Pronto por tempo
+2448 : Processo 1003983 Pronto -> Exec
+2449 : Processo 1003983 Exec -> Pronto por tempo
+2450 : Processo 1006268 Pronto -> Exec
+2451 : Processo 1006268 Exec -> Pronto por tempo
+2452 : Processo 1003983 Pronto -> Exec
+2453 : Processo 1003983 Exec -> Pronto por tempo
+2454 : Processo 1006268 Pronto -> Exec
+2455 : Processo 1006268 Exec -> Pronto por tempo
+2456 : Processo 1003983 Pronto -> Exec
+2457 : Processo 1003983 Exec -> Pronto por tempo
+2458 : Processo 1006268 Pronto -> Exec
+2459 : Processo 1006268 Exec -> Pronto por tempo
+2460 : Processo 1003983 Pronto -> Exec
+2461 : Processo 1003983 Exec -> Pronto por tempo
+2462 : Processo 1006268 Pronto -> Exec
+2463 : Processo 1006268 Exec -> Pronto por tempo
+2464 : Processo 1003983 Pronto -> Exec
+2465 : Processo 1003983 Exec -> Pronto por tempo
+2466 : Processo 1006268 Pronto -> Exec
+2467 : Processo 1006268 Exec -> Pronto por tempo
+2468 : Processo 1003983 Pronto -> Exec
+2469 : Processo 1003983 Exec -> Pronto por tempo
+2470 : Processo 1006268 Pronto -> Exec
+2471 : Processo 1006268 Exec -> Pronto por tempo
+2472 : Processo 1003983 Pronto -> Exec
+2473 : Processo 1003983 Exec -> Pronto por tempo
+2474 : Processo 1006268 Pronto -> Exec
+2475 : Processo 1006268 Exec -> Pronto por tempo
+2476 : Processo 1003983 Pronto -> Exec
+2477 : Processo 1003983 Exec -> Pronto por tempo
+2478 : Processo 1006268 Pronto -> Exec
+2479 : Processo 1006268 Exec -> Pronto por tempo
+2480 : Processo 1003983 Pronto -> Exec
+2481 : Processo 1003983 Exec -> Pronto por tempo
+2482 : Processo 1006268 Pronto -> Exec
+2483 : Processo 1006268 Exec -> Pronto por tempo
+2484 : Processo 1003983 Pronto -> Exec
+2485 : Processo 1003983 Exec -> Pronto por tempo
+2486 : Processo 1006268 Pronto -> Exec
+2487 : Processo 1006268 Exec -> Pronto por tempo
+2488 : Processo 1003983 Pronto -> Exec
+2489 : Processo 1003983 Exec -> Pronto por tempo
+2490 : Processo 1006268 Pronto -> Exec
+2491 : Processo 1006268 Exec -> Pronto por tempo
+2492 : Processo 1003983 Pronto -> Exec
+2493 : Processo 1003983 Exec -> Pronto por tempo
+2494 : Processo 1006268 Pronto -> Exec
+2495 : Processo 1006268 Exec -> Pronto por tempo
+2496 : Processo 1003983 Pronto -> Exec
+2497 : Processo 1003983 Exec -> Pronto por tempo
+2498 : Processo 1006268 Pronto -> Exec
+2499 : Processo 1006268 Exec -> Pronto por tempo
+2500 : Processo 1003983 Pronto -> Exec
+2501 : Processo 1003983 Exec -> Pronto por tempo
+2502 : Processo 1006268 Pronto -> Exec
+2503 : Processo 1006268 Exec -> Pronto por tempo
+2504 : Processo 1003983 Pronto -> Exec
+2505 : Processo 1003983 Exec -> Pronto por tempo
+2506 : Processo 1006268 Pronto -> Exec
+2507 : Processo 1006268 Exec -> Pronto por tempo
+2508 : Processo 1003983 Pronto -> Exec
+2509 : Processo 1003983 Exec -> Pronto por tempo
+2510 : Processo 1006268 Pronto -> Exec
+2511 : Processo 1006268 Exec -> Pronto por tempo
+2512 : Processo 1003983 Pronto -> Exec
+2513 : Processo 1003983 Exec -> Pronto por tempo
+2514 : Processo 1006268 Pronto -> Exec
+2515 : Processo 1006268 Exec -> Pronto por tempo
+2516 : Processo 1003983 Pronto -> Exec
+2517 : Processo 1003983 Exec -> Pronto por tempo
+2518 : Processo 1006268 Pronto -> Exec
+2519 : Processo 1006268 Exec -> Pronto por tempo
+2520 : Processo 1003983 Pronto -> Exec
+2521 : Processo 1003983 Exec -> Pronto por tempo
+2522 : Processo 1006268 Pronto -> Exec
+2523 : Processo 1006268 Exec -> Pronto por tempo
+2524 : Processo 1003983 Pronto -> Exec
+2525 : Processo 1003983 Exec -> Pronto por tempo
+2526 : Processo 1006268 Pronto -> Exec
+2527 : Processo 1006268 Exec -> Pronto por tempo
+2528 : Processo 1003983 Pronto -> Exec
+2529 : Processo 1003983 Exec -> Pronto por tempo
+2530 : Processo 1006268 Pronto -> Exec
+2531 : Processo 1006268 Exec -> Pronto por tempo
+2532 : Processo 1003983 Pronto -> Exec
+2533 : Processo 1003983 Exec -> Pronto por tempo
+2534 : Processo 1006268 Pronto -> Exec
+2535 : Processo 1006268 Exec -> Pronto por tempo
+2536 : Processo 1003983 Pronto -> Exec
+2537 : Processo 1003983 Exec -> Pronto por tempo
+2538 : Processo 1006268 Pronto -> Exec
+2539 : Processo 1006268 Exec -> Pronto por tempo
+2540 : Processo 1003983 Pronto -> Exec
+2541 : Processo 1003983 Exec -> Pronto por tempo
+2542 : Processo 1006268 Pronto -> Exec
+2543 : Processo 1006268 Exec -> Pronto por tempo
+2544 : Processo 1003983 Pronto -> Exec
+2545 : Processo 1003983 Exec -> Pronto por tempo
+2546 : Processo 1006268 Pronto -> Exec
+2547 : Processo 1006268 Exec -> Pronto por tempo
+2548 : Processo 1003983 Pronto -> Exec
+2549 : Processo 1003983 Exec -> Pronto por tempo
+2550 : Processo 1006268 Pronto -> Exec
+2551 : Processo 1006268 Exec -> Pronto por tempo
+2552 : Processo 1003983 Pronto -> Exec
+2553 : Processo 1003983 Exec -> Pronto por tempo
+2554 : Processo 1006268 Pronto -> Exec
+2555 : Processo 1006268 Exec -> Pronto por tempo
+2556 : Processo 1003983 Pronto -> Exec
+2557 : Processo 1003983 Exec -> Pronto por tempo
+2558 : Processo 1006268 Pronto -> Exec
+2559 : Processo 1006268 Exec -> Pronto por tempo
+2560 : Processo 1003983 Pronto -> Exec
+2561 : Processo 1003983 Exec -> Pronto por tempo
+2562 : Processo 1006268 Pronto -> Exec
+2563 : Processo 1006268 Exec -> Pronto por tempo
+2564 : Processo 1003983 Pronto -> Exec
+2565 : Processo 1003983 Exec -> Pronto por tempo
+2566 : Processo 1006268 Pronto -> Exec
+2567 : Processo 1006268 Exec -> Pronto por tempo
+2568 : Processo 1003983 Pronto -> Exec
+2569 : Processo 1003983 Exec -> Pronto por tempo
+2570 : Processo 1006268 Pronto -> Exec
+2571 : Processo 1006268 Exec -> Pronto por tempo
+2572 : Processo 1003983 Pronto -> Exec
+2573 : Processo 1003983 Exec -> Pronto por tempo
+2574 : Processo 1006268 Pronto -> Exec
+2575 : Processo 1006268 Exec -> Pronto por tempo
+2576 : Processo 1003983 Pronto -> Exec
+2577 : Processo 1003983 Exec -> Pronto por tempo
+2578 : Processo 1006268 Pronto -> Exec
+2579 : Processo 1006268 Exec -> Pronto por tempo
+2580 : Processo 1003983 Pronto -> Exec
+2581 : Processo 1003983 Exec -> Pronto por tempo
+2582 : Processo 1006268 Pronto -> Exec
+2583 : Processo 1006268 Exec -> Pronto por tempo
+2584 : Processo 1003983 Pronto -> Exec
+2585 : Processo 1003983 Exec -> Pronto por tempo
+2586 : Processo 1006268 Pronto -> Exec
+2587 : Processo 1006268 Exec -> Pronto por tempo
+2588 : Processo 1003983 Pronto -> Exec
+2589 : Processo 1003983 Exec -> Pronto por tempo
+2590 : Processo 1006268 Pronto -> Exec
+2591 : Processo 1006268 Exec -> Pronto por tempo
+2592 : Processo 1003983 Pronto -> Exec
+2593 : Processo 1003983 Exec -> Pronto por tempo
+2594 : Processo 1006268 Pronto -> Exec
+2595 : Processo 1006268 Exec -> Pronto por tempo
+2596 : Processo 1003983 Pronto -> Exec
+2597 : Processo 1003983 Exec -> Pronto por tempo
+2598 : Processo 1006268 Pronto -> Exec
+2599 : Processo 1006268 Exec -> Pronto por tempo
+2600 : Processo 1003983 Pronto -> Exec
+2601 : Processo 1003983 Exec -> Pronto por tempo
+2602 : Processo 1006268 Pronto -> Exec
+2603 : Processo 1006268 Exec -> Pronto por tempo
+2604 : Processo 1003983 Pronto -> Exec
+2605 : Processo 1003983 Exec -> Pronto por tempo
+2606 : Processo 1006268 Pronto -> Exec
+2607 : Processo 1006268 Exec -> Pronto por tempo
+2608 : Processo 1003983 Pronto -> Exec
+2609 : Processo 1003983 Exec -> Pronto por tempo
+2610 : Processo 1006268 Pronto -> Exec
+2611 : Processo 1006268 Exec -> Pronto por tempo
+2612 : Processo 1003983 Pronto -> Exec
+2613 : Processo 1003983 Exec -> Pronto por tempo
+2614 : Processo 1006268 Pronto -> Exec
+2615 : Processo 1006268 Exec -> Pronto por tempo
+2616 : Processo 1003983 Pronto -> Exec
+2617 : Processo 1003983 Exec -> Pronto por tempo
+2618 : Processo 1006268 Pronto -> Exec
+2619 : Processo 1006268 Exec -> Pronto por tempo
+2620 : Processo 1003983 Pronto -> Exec
+2621 : Processo 1003983 Exec -> Pronto por tempo
+2622 : Processo 1006268 Pronto -> Exec
+2623 : Processo 1006268 Exec -> Pronto por tempo
+2624 : Processo 1003983 Pronto -> Exec
+2625 : Processo 1003983 Exec -> Pronto por tempo
+2626 : Processo 1006268 Pronto -> Exec
+2627 : Processo 1006268 Exec -> Pronto por tempo
+2628 : Processo 1003983 Pronto -> Exec
+2629 : Processo 1003983 Exec -> Pronto por tempo
+2630 : Processo 1006268 Pronto -> Exec
+2631 : Processo 1006268 Exec -> Pronto por tempo
+2632 : Processo 1003983 Pronto -> Exec
+2633 : Processo 1003983 Exec -> Pronto por tempo
+2634 : Processo 1006268 Pronto -> Exec
+2635 : Processo 1006268 Exec -> Pronto por tempo
+2636 : Processo 1003983 Pronto -> Exec
+2637 : Processo 1003983 Exec -> Pronto por tempo
+2638 : Processo 1006268 Pronto -> Exec
+2639 : Processo 1006268 Exec -> Pronto por tempo
+2640 : Processo 1003983 Pronto -> Exec
+2641 : Processo 1003983 Exec -> Pronto por tempo
+2642 : Processo 1006268 Pronto -> Exec
+2643 : Processo 1006268 Exec -> Pronto por tempo
+2644 : Processo 1003983 Pronto -> Exec
+2645 : Processo 1003983 Exec -> Pronto por tempo
+2646 : Processo 1006268 Pronto -> Exec
+2647 : Processo 1006268 Exec -> Pronto por tempo
+2648 : Processo 1003983 Pronto -> Exec
+2649 : Processo 1003983 Exec -> Pronto por tempo
+2650 : Processo 1006268 Pronto -> Exec
+2651 : Processo 1006268 Exec -> Pronto por tempo
+2652 : Processo 1003983 Pronto -> Exec
+2653 : Processo 1003983 Exec -> Pronto por tempo
+2654 : Processo 1006268 Pronto -> Exec
+2655 : Processo 1006268 Exec -> Pronto por tempo
+2656 : Processo 1003983 Pronto -> Exec
+2657 : Processo 1003983 Exec -> Pronto por tempo
+2658 : Processo 1006268 Pronto -> Exec
+2659 : Processo 1006268 Exec -> Pronto por tempo
+2660 : Processo 1003983 Pronto -> Exec
+2661 : Processo 1003983 Exec -> Pronto por tempo
+2662 : Processo 1006268 Pronto -> Exec
+2663 : Processo 1006268 Exec -> Pronto por tempo
+2664 : Processo 1003983 Pronto -> Exec
+2665 : Processo 1003983 Exec -> Pronto por tempo
+2666 : Processo 1006268 Pronto -> Exec
+2667 : Processo 1006268 Exec -> Pronto por tempo
+2668 : Processo 1003983 Pronto -> Exec
+2669 : Processo 1003983 Exec -> Pronto por tempo
+2670 : Processo 1006268 Pronto -> Exec
+2671 : Processo 1006268 Exec -> Pronto por tempo
+2672 : Processo 1003983 Pronto -> Exec
+2673 : Processo 1003983 Exec -> Pronto por tempo
+2674 : Processo 1006268 Pronto -> Exec
+2675 : Processo 1006268 Exec -> Pronto por tempo
+2676 : Processo 1003983 Pronto -> Exec
+2677 : Processo 1003983 Exec -> Pronto por tempo
+2678 : Processo 1006268 Pronto -> Exec
+2679 : Processo 1006268 Exec -> Pronto por tempo
+2680 : Processo 1003983 Pronto -> Exec
+2681 : Processo 1003983 Exec -> Pronto por tempo
+2682 : Processo 1006268 Pronto -> Exec
+2683 : Processo 1006268 Exec -> Pronto por tempo
+2684 : Processo 1003983 Pronto -> Exec
+2685 : Processo 1003983 Exec -> Pronto por tempo
+2686 : Processo 1006268 Pronto -> Exec
+2687 : Processo 1006268 Exec -> Pronto por tempo
+2688 : Processo 1003983 Pronto -> Exec
+2689 : Processo 1003983 Exec -> Pronto por tempo
+2690 : Processo 1006268 Pronto -> Exec
+2691 : Processo 1006268 Exec -> Pronto por tempo
+2692 : Processo 1003983 Pronto -> Exec
+2693 : Processo 1003983 Exec -> Pronto por tempo
+2694 : Processo 1006268 Pronto -> Exec
+2695 : Processo 1006268 Exec -> Pronto por tempo
+2696 : Processo 1003983 Pronto -> Exec
+2697 : Processo 1003983 Exec -> Pronto por tempo
+2698 : Processo 1006268 Pronto -> Exec
+2699 : Processo 1006268 Exec -> Pronto por tempo
+2700 : Processo 1003983 Pronto -> Exec
+2701 : Processo 1003983 Exec -> Pronto por tempo
+2702 : Processo 1006268 Pronto -> Exec
+2703 : Processo 1006268 Exec -> Pronto por tempo
+2704 : Processo 1003983 Pronto -> Exec
+2705 : Processo 1003983 Exec -> Pronto por tempo
+2706 : Processo 1006268 Pronto -> Exec
+2707 : Processo 1006268 Exec -> Pronto por tempo
+2708 : Processo 1003983 Pronto -> Exec
+2709 : Processo 1003983 Exec -> Pronto por tempo
+2710 : Processo 1006268 Pronto -> Exec
+2711 : Processo 1006268 Exec -> Pronto por tempo
+2712 : Processo 1003983 Pronto -> Exec
+2713 : Processo 1003983 Exec -> Pronto por tempo
+2714 : Processo 1006268 Pronto -> Exec
+2715 : Processo 1006268 Exec -> Pronto por tempo
+2716 : Processo 1003983 Pronto -> Exec
+2717 : Processo 1003983 Exec -> Pronto por tempo
+2718 : Processo 1006268 Pronto -> Exec
+2719 : Processo 1006268 Exec -> Pronto por tempo
+2720 : Processo 1003983 Pronto -> Exec
+2721 : Processo 1003983 Exec -> Pronto por tempo
+2722 : Processo 1006268 Pronto -> Exec
+2723 : Processo 1006268 Exec -> Pronto por tempo
+2724 : Processo 1003983 Pronto -> Exec
+2725 : Processo 1003983 Exec -> Pronto por tempo
+2726 : Processo 1006268 Pronto -> Exec
+2727 : Processo 1006268 Exec -> Pronto por tempo
+2728 : Processo 1003983 Pronto -> Exec
+2729 : Processo 1003983 Exec -> Pronto por tempo
+2730 : Processo 1006268 Pronto -> Exec
+2731 : Processo 1006268 Exec -> Pronto por tempo
+2732 : Processo 1003983 Pronto -> Exec
+2733 : Processo 1003983 Exec -> Pronto por tempo
+2734 : Processo 1006268 Pronto -> Exec
+2735 : Processo 1006268 Exec -> Pronto por tempo
+2736 : Processo 1003983 Pronto -> Exec
+2737 : Processo 1003983 Exec -> Pronto por tempo
+2738 : Processo 1006268 Pronto -> Exec
+2739 : Processo 1006268 Exec -> Pronto por tempo
+2740 : Processo 1003983 Pronto -> Exec
+2741 : Processo 1003983 Exec -> Pronto por tempo
+2742 : Processo 1006268 Pronto -> Exec
+2743 : Processo 1006268 Exec -> Pronto por tempo
+2744 : Processo 1003983 Pronto -> Exec
+2745 : Processo 1003983 Exec -> Pronto por tempo
+2746 : Processo 1006268 Pronto -> Exec
+2747 : Processo 1006268 Exec -> Pronto por tempo
+2748 : Processo 1003983 Pronto -> Exec
+2749 : Processo 1003983 Exec -> Pronto por tempo
+2750 : Processo 1006268 Pronto -> Exec
+2751 : Processo 1006268 Exec -> Pronto por tempo
+2752 : Processo 1003983 Pronto -> Exec
+2753 : Processo 1003983 Exec -> Pronto por tempo
+2754 : Processo 1006268 Pronto -> Exec
+2755 : Processo 1006268 Exec -> Pronto por tempo
+2756 : Processo 1003983 Pronto -> Exec
+2757 : Processo 1003983 Exec -> Pronto por tempo
+2758 : Processo 1006268 Pronto -> Exec
+2759 : Processo 1006268 Exec -> Pronto por tempo
+2760 : Processo 1003983 Pronto -> Exec
+2761 : Processo 1003983 Exec -> Pronto por tempo
+2762 : Processo 1006268 Pronto -> Exec
+2763 : Processo 1006268 Exec -> Pronto por tempo
+2764 : Processo 1003983 Pronto -> Exec
+2765 : Processo 1003983 Exec -> Pronto por tempo
+2766 : Processo 1006268 Pronto -> Exec
+2767 : Processo 1006268 Exec -> Pronto por tempo
+2768 : Processo 1003983 Pronto -> Exec
+2769 : Processo 1003983 Exec -> Pronto por tempo
+2770 : Processo 1006268 Pronto -> Exec
+2771 : Processo 1006268 Exec -> Pronto por tempo
+2772 : Processo 1003983 Pronto -> Exec
+2773 : Processo 1003983 Exec -> Pronto por tempo
+2774 : Processo 1006268 Pronto -> Exec
+2775 : Processo 1006268 Exec -> Pronto por tempo
+2776 : Processo 1003983 Pronto -> Exec
+2777 : Processo 1003983 Exec -> Pronto por tempo
+2778 : Processo 1006268 Pronto -> Exec
+2779 : Processo 1006268 Exec -> Pronto por tempo
+2780 : Processo 1003983 Pronto -> Exec
+2781 : Processo 1003983 Exec -> Pronto por tempo
+2782 : Processo 1006268 Pronto -> Exec
+2783 : Processo 1006268 Exec -> Pronto por tempo
+2784 : Processo 1003983 Pronto -> Exec
+2785 : Processo 1003983 Exec -> Pronto por tempo
+2786 : Processo 1006268 Pronto -> Exec
+2787 : Processo 1006268 Exec -> Pronto por tempo
+2788 : Processo 1003983 Pronto -> Exec
+2789 : Processo 1003983 Exec -> Pronto por tempo
+2790 : Processo 1006268 Pronto -> Exec
+2791 : Processo 1006268 Exec -> Pronto por tempo
+2792 : Processo 1003983 Pronto -> Exec
+2793 : Processo 1003983 Exec -> Pronto por tempo
+2794 : Processo 1006268 Pronto -> Exec
+2795 : Processo 1006268 Exec -> Pronto por tempo
+2796 : Processo 1003983 Pronto -> Exec
+2797 : Processo 1003983 Exec -> Pronto por tempo
+2798 : Processo 1006268 Pronto -> Exec
+2799 : Processo 1006268 Exec -> Pronto por tempo
+2800 : Processo 1003983 Pronto -> Exec
+2801 : Processo 1003983 Exec -> Pronto por tempo
+2802 : Processo 1006268 Pronto -> Exec
+2803 : Processo 1006268 Exec -> Pronto por tempo
+2804 : Processo 1003983 Pronto -> Exec
+2805 : Processo 1003983 Exec -> Pronto por tempo
+2806 : Processo 1006268 Pronto -> Exec
+2807 : Processo 1006268 Exec -> Pronto por tempo
+2808 : Processo 1003983 Pronto -> Exec
+2809 : Processo 1003983 Exec -> Pronto por tempo
+2810 : Processo 1006268 Pronto -> Exec
+2811 : Processo 1006268 Exec -> Pronto por tempo
+2812 : Processo 1003983 Pronto -> Exec
+2813 : Processo 1003983 Exec -> Pronto por tempo
+2814 : Processo 1006268 Pronto -> Exec
+2815 : Processo 1006268 Exec -> Pronto por tempo
+2816 : Processo 1003983 Pronto -> Exec
+2817 : Processo 1003983 Exec -> Pronto por tempo
+2818 : Processo 1006268 Pronto -> Exec
+2819 : Processo 1006268 Exec -> Pronto por tempo
+2820 : Processo 1003983 Pronto -> Exec
+2821 : Processo 1003983 Exec -> Pronto por tempo
+2822 : Processo 1006268 Pronto -> Exec
+2823 : Processo 1006268 Exec -> Pronto por tempo
+2824 : Processo 1003983 Pronto -> Exec
+2825 : Processo 1003983 Exec -> Pronto por tempo
+2826 : Processo 1006268 Pronto -> Exec
+2827 : Processo 1006268 Exec -> Pronto por tempo
+2828 : Processo 1003983 Pronto -> Exec
+2829 : Processo 1003983 Exec -> Pronto por tempo
+2830 : Processo 1006268 Pronto -> Exec
+2831 : Processo 1006268 Exec -> Pronto por tempo
+2832 : Processo 1003983 Pronto -> Exec
+2833 : Processo 1003983 Exec -> Pronto por tempo
+2834 : Processo 1006268 Pronto -> Exec
+2835 : Processo 1006268 Exec -> Pronto por tempo
+2836 : Processo 1003983 Pronto -> Exec
+2837 : Processo 1003983 Exec -> Pronto por tempo
+2838 : Processo 1006268 Pronto -> Exec
+2839 : Processo 1006268 Exec -> Pronto por tempo
+2840 : Processo 1003983 Pronto -> Exec
+2841 : Processo 1003983 Exec -> Pronto por tempo
+2842 : Processo 1006268 Pronto -> Exec
+2843 : Processo 1006268 Exec -> Pronto por tempo
+2844 : Processo 1003983 Pronto -> Exec
+2845 : Processo 1003983 Exec -> Pronto por tempo
+2846 : Processo 1006268 Pronto -> Exec
+2847 : Processo 1006268 Exec -> Pronto por tempo
+2848 : Processo 1003983 Pronto -> Exec
+2849 : Processo 1003983 Exec -> Pronto por tempo
+2850 : Processo 1006268 Pronto -> Exec
+2851 : Processo 1006268 Exec -> Pronto por tempo
+2852 : Processo 1003983 Pronto -> Exec
+2853 : Processo 1003983 Exec -> Pronto por tempo
+2854 : Processo 1006268 Pronto -> Exec
+2855 : Processo 1006268 Exec -> Pronto por tempo
+2856 : Processo 1003983 Pronto -> Exec
+2857 : Processo 1003983 Exec -> Pronto por tempo
+2858 : Processo 1006268 Pronto -> Exec
+2859 : Processo 1006268 Exec -> Pronto por tempo
+2860 : Processo 1003983 Pronto -> Exec
+2861 : Processo 1003983 Exec -> Pronto por tempo
+2862 : Processo 1006268 Pronto -> Exec
+2863 : Processo 1006268 Exec -> Pronto por tempo
+2864 : Processo 1003983 Pronto -> Exec
+2865 : Processo 1003983 Exec -> Pronto por tempo
+2866 : Processo 1006268 Pronto -> Exec
+2867 : Processo 1006268 Exec -> Pronto por tempo
+2868 : Processo 1003983 Pronto -> Exec
+2869 : Processo 1003983 Exec -> Pronto por tempo
+2870 : Processo 1006268 Pronto -> Exec
+2871 : Processo 1006268 Exec -> Pronto por tempo
+2872 : Processo 1003983 Pronto -> Exec
+2873 : Processo 1003983 Exec -> Pronto por tempo
+2874 : Processo 1006268 Pronto -> Exec
+2875 : Processo 1006268 Exec -> Pronto por tempo
+2876 : Processo 1003983 Pronto -> Exec
+2877 : Processo 1003983 Exec -> Pronto por tempo
+2878 : Processo 1006268 Pronto -> Exec
+2879 : Processo 1006268 Exec -> Pronto por tempo
+2880 : Processo 1003983 Pronto -> Exec
+2881 : Processo 1003983 Exec -> Pronto por tempo
+2882 : Processo 1006268 Pronto -> Exec
+2883 : Processo 1006268 Exec -> Pronto por tempo
+2884 : Processo 1003983 Pronto -> Exec
+2885 : Processo 1003983 Exec -> Pronto por tempo
+2886 : Processo 1006268 Pronto -> Exec
+2887 : Processo 1006268 Exec -> Pronto por tempo
+2888 : Processo 1003983 Pronto -> Exec
+2889 : Processo 1003983 Exec -> Pronto por tempo
+2890 : Processo 1006268 Pronto -> Exec
+2891 : Processo 1006268 Exec -> Pronto por tempo
+2892 : Processo 1003983 Pronto -> Exec
+2893 : Processo 1003983 Exec -> Pronto por tempo
+2894 : Processo 1006268 Pronto -> Exec
+2895 : Processo 1006268 Exec -> Pronto por tempo
+2896 : Processo 1003983 Pronto -> Exec
+2897 : Processo 1003983 Exec -> Pronto por tempo
+2898 : Processo 1006268 Pronto -> Exec
+2899 : Processo 1006268 Exec -> Pronto por tempo
+2900 : Processo 1003983 Pronto -> Exec
+2901 : Processo 1003983 Exec -> Pronto por tempo
+2902 : Processo 1006268 Pronto -> Exec
+2903 : Processo 1006268 Exec -> Pronto por tempo
+2904 : Processo 1003983 Pronto -> Exec
+2905 : Processo 1003983 Exec -> Pronto por tempo
+2906 : Processo 1006268 Pronto -> Exec
+2907 : Processo 1006268 Exec -> Pronto por tempo
+2908 : Processo 1003983 Pronto -> Exec
+2909 : Processo 1003983 Exec -> Pronto por tempo
+2910 : Processo 1006268 Pronto -> Exec
+2911 : Processo 1006268 Exec -> Pronto por tempo
+2912 : Processo 1003983 Pronto -> Exec
+2913 : Processo 1003983 Exec -> Pronto por tempo
+2914 : Processo 1006268 Pronto -> Exec
+2915 : Processo 1006268 Exec -> Pronto por tempo
+2916 : Processo 1003983 Pronto -> Exec
+2917 : Processo 1003983 Exec -> Pronto por tempo
+2918 : Processo 1006268 Pronto -> Exec
+2919 : Processo 1006268 Exec -> Pronto por tempo
+2920 : Processo 1003983 Pronto -> Exec
+2921 : Processo 1003983 Exec -> Pronto por tempo
+2922 : Processo 1006268 Pronto -> Exec
+2923 : Processo 1006268 Exec -> Pronto por tempo
+2924 : Processo 1003983 Pronto -> Exec
+2925 : Processo 1003983 Exec -> Pronto por tempo
+2926 : Processo 1006268 Pronto -> Exec
+2927 : Processo 1006268 Exec -> Pronto por tempo
+2928 : Processo 1003983 Pronto -> Exec
+2929 : Processo 1003983 Exec -> Pronto por tempo
+2930 : Processo 1006268 Pronto -> Exec
+2931 : Processo 1006268 Exec -> Pronto por tempo
+2932 : Processo 1003983 Pronto -> Exec
+2933 : Processo 1003983 Exec -> Pronto por tempo
+2934 : Processo 1006268 Pronto -> Exec
+2935 : Processo 1006268 Exec -> Pronto por tempo
+2936 : Processo 1003983 Pronto -> Exec
+2937 : Processo 1003983 Exec -> Pronto por tempo
+2938 : Processo 1006268 Pronto -> Exec
+2939 : Processo 1006268 Exec -> Pronto por tempo
+2940 : Processo 1003983 Pronto -> Exec
+2941 : Processo 1003983 Exec -> Pronto por tempo
+2942 : Processo 1006268 Pronto -> Exec
+2943 : Processo 1006268 Exec -> Pronto por tempo
+2944 : Processo 1003983 Pronto -> Exec
+2945 : Processo 1003983 Exec -> Pronto por tempo
+2946 : Processo 1006268 Pronto -> Exec
+2947 : Processo 1006268 Exec -> Pronto por tempo
+2948 : Processo 1003983 Pronto -> Exec
+2949 : Processo 1003983 Exec -> Pronto por tempo
+2950 : Processo 1006268 Pronto -> Exec
+2951 : Processo 1006268 Exec -> Pronto por tempo
+2952 : Processo 1003983 Pronto -> Exec
+2953 : Processo 1003983 Exec -> Pronto por tempo
+2954 : Processo 1006268 Pronto -> Exec
+2955 : Processo 1006268 Exec -> Pronto por tempo
+2956 : Processo 1003983 Pronto -> Exec
+2957 : Processo 1003983 Exec -> Pronto por tempo
+2958 : Processo 1006268 Pronto -> Exec
+2959 : Processo 1006268 Exec -> Pronto por tempo
+2960 : Processo 1003983 Pronto -> Exec
+2961 : Processo 1003983 Exec -> Pronto por tempo
+2962 : Processo 1006268 Pronto -> Exec
+2963 : Processo 1006268 Exec -> Pronto por tempo
+2964 : Processo 1003983 Pronto -> Exec
+2965 : Processo 1003983 Exec -> Pronto por tempo
+2966 : Processo 1006268 Pronto -> Exec
+2967 : Processo 1006268 Exec -> Pronto por tempo
+2968 : Processo 1003983 Pronto -> Exec
+2969 : Processo 1003983 Exec -> Pronto por tempo
+2970 : Processo 1006268 Pronto -> Exec
+2971 : Processo 1006268 Exec -> Pronto por tempo
+2972 : Processo 1003983 Pronto -> Exec
+2973 : Processo 1003983 Exec -> Pronto por tempo
+2974 : Processo 1006268 Pronto -> Exec
+2975 : Processo 1006268 Exec -> Pronto por tempo
+2976 : Processo 1003983 Pronto -> Exec
+2977 : Processo 1003983 Exec -> Pronto por tempo
+2978 : Processo 1006268 Pronto -> Exec
+2979 : Processo 1006268 Exec -> Pronto por tempo
+2980 : Processo 1003983 Pronto -> Exec
+2981 : Processo 1003983 Exec -> Pronto por tempo
+2982 : Processo 1006268 Pronto -> Exec
+2983 : Processo 1006268 Exec -> Pronto por tempo
+2984 : Processo 1003983 Pronto -> Exec
+2985 : Processo 1003983 Exec -> Pronto por tempo
+2986 : Processo 1006268 Pronto -> Exec
+2987 : Processo 1006268 Exec -> Pronto por tempo
+2988 : Processo 1003983 Pronto -> Exec
+2989 : Processo 1003983 Exec -> Pronto por tempo
+2990 : Processo 1006268 Pronto -> Exec
+2991 : Processo 1006268 Exec -> Pronto por tempo
+2992 : Processo 1003983 Pronto -> Exec
+2993 : Processo 1003983 Exec -> Pronto por tempo
+2994 : Processo 1006268 Pronto -> Exec
+2995 : Processo 1006268 Exec -> Pronto por tempo
+2996 : Processo 1003983 Pronto -> Exec
+2997 : Processo 1003983 Exec -> Pronto por tempo
+2998 : Processo 1006268 Pronto -> Exec
+2999 : Processo 1006268 Exec -> Pronto por tempo
+3000 : Processo 1003983 Pronto -> Exec
+3001 : Processo 1003983 Exec -> Pronto por tempo
+3002 : Processo 1006268 Pronto -> Exec
+3003 : Processo 1006268 Exec -> Pronto por tempo
+3004 : Processo 1003983 Pronto -> Exec
+3005 : Processo 1003983 Exec -> Pronto por tempo
+3006 : Processo 1006268 Pronto -> Exec
+3007 : Processo 1006268 Exec -> Pronto por tempo
+3008 : Processo 1003983 Pronto -> Exec
+3009 : Processo 1003983 Exec -> Pronto por tempo
+3010 : Processo 1006268 Pronto -> Exec
+3011 : Processo 1006268 Exec -> Pronto por tempo
+3012 : Processo 1003983 Pronto -> Exec
+3013 : Processo 1003983 Exec -> Pronto por tempo
+3014 : Processo 1006268 Pronto -> Exec
+3015 : Processo 1006268 Exec -> Pronto por tempo
+3016 : Processo 1003983 Pronto -> Exec
+3017 : Processo 1003983 Exec -> Pronto por tempo
+3018 : Processo 1006268 Pronto -> Exec
+3019 : Processo 1006268 Exec -> Pronto por tempo
+3020 : Processo 1003983 Pronto -> Exec
+3021 : Processo 1003983 Exec -> Pronto por tempo
+3022 : Processo 1006268 Pronto -> Exec
+3023 : Processo 1006268 Exec -> Pronto por tempo
+3024 : Processo 1003983 Pronto -> Exec
+3025 : Processo 1003983 Exec -> Pronto por tempo
+3026 : Processo 1006268 Pronto -> Exec
+3027 : Processo 1006268 Exec -> Pronto por tempo
+3028 : Processo 1003983 Pronto -> Exec
+3029 : Processo 1003983 Exec -> Pronto por tempo
+3030 : Processo 1006268 Pronto -> Exec
+3031 : Processo 1006268 Exec -> Pronto por tempo
+3032 : Processo 1003983 Pronto -> Exec
+3033 : Processo 1003983 Exec -> Pronto por tempo
+3034 : Processo 1006268 Pronto -> Exec
+3035 : Processo 1006268 Exec -> Pronto por tempo
+3036 : Processo 1003983 Pronto -> Exec
+3037 : Processo 1003983 Exec -> Pronto por tempo
+3038 : Processo 1006268 Pronto -> Exec
+3039 : Processo 1006268 Exec -> Pronto por tempo
+3040 : Processo 1003983 Pronto -> Exec
+3041 : Processo 1003983 Exec -> Pronto por tempo
+3042 : Processo 1006268 Pronto -> Exec
+3043 : Processo 1006268 Exec -> Pronto por tempo
+3044 : Processo 1003983 Pronto -> Exec
+3045 : Processo 1003983 Exec -> Pronto por tempo
+3046 : Processo 1006268 Pronto -> Exec
+3047 : Processo 1006268 Exec -> Pronto por tempo
+3048 : Processo 1003983 Pronto -> Exec
+3049 : Processo 1003983 Exec -> Pronto por tempo
+3050 : Processo 1006268 Pronto -> Exec
+3051 : Processo 1006268 Exec -> Pronto por tempo
+3052 : Processo 1003983 Pronto -> Exec
+3053 : Processo 1003983 Exec -> Pronto por tempo
+3054 : Processo 1006268 Pronto -> Exec
+3055 : Processo 1006268 Exec -> Pronto por tempo
+3056 : Processo 1003983 Pronto -> Exec
+3057 : Processo 1003983 Exec -> Pronto por tempo
+3058 : Processo 1006268 Pronto -> Exec
+3059 : Processo 1006268 Exec -> Pronto por tempo
+3060 : Processo 1003983 Pronto -> Exec
+3061 : Processo 1003983 Exec -> Pronto por tempo
+3062 : Processo 1006268 Pronto -> Exec
+3063 : Processo 1006268 Exec -> Pronto por tempo
+3064 : Processo 1003983 Pronto -> Exec
+3065 : Processo 1003983 Exec -> Pronto por tempo
+3066 : Processo 1006268 Pronto -> Exec
+3067 : Processo 1006268 Exec -> Pronto por tempo
+3068 : Processo 1003983 Pronto -> Exec
+3069 : Processo 1003983 Exec -> Pronto por tempo
+3070 : Processo 1006268 Pronto -> Exec
+3071 : Processo 1006268 Exec -> Pronto por tempo
+3072 : Processo 1003983 Pronto -> Exec
+3073 : Processo 1003983 Exec -> Pronto por tempo
+3074 : Processo 1006268 Pronto -> Exec
+3075 : Processo 1006268 Exec -> Pronto por tempo
+3076 : Processo 1003983 Pronto -> Exec
+3077 : Processo 1003983 Exec -> Pronto por tempo
+3078 : Processo 1006268 Pronto -> Exec
+3079 : Processo 1006268 Exec -> Pronto por tempo
+3080 : Processo 1003983 Pronto -> Exec
+3081 : Processo 1003983 Exec -> Pronto por tempo
+3082 : Processo 1006268 Pronto -> Exec
+3083 : Processo 1006268 Exec -> Pronto por tempo
+3084 : Processo 1003983 Pronto -> Exec
+3085 : Processo 1003983 Exec -> Pronto por tempo
+3086 : Processo 1006268 Pronto -> Exec
+3087 : Processo 1006268 Exec -> Pronto por tempo
+3088 : Processo 1003983 Pronto -> Exec
+3089 : Processo 1003983 Exec -> Pronto por tempo
+3090 : Processo 1006268 Pronto -> Exec
+3091 : Processo 1006268 Exec -> Pronto por tempo
+3092 : Processo 1003983 Pronto -> Exec
+3093 : Processo 1003983 Exec -> Pronto por tempo
+3094 : Processo 1006268 Pronto -> Exec
+3095 : Processo 1006268 Exec -> Pronto por tempo
+3096 : Processo 1003983 Pronto -> Exec
+3097 : Processo 1003983 Exec -> Pronto por tempo
+3098 : Processo 1006268 Pronto -> Exec
+3099 : Processo 1006268 Exec -> Pronto por tempo
+3100 : Processo 1003983 Pronto -> Exec
+3101 : Processo 1003983 Exec -> Pronto por tempo
+3102 : Processo 1006268 Pronto -> Exec
+3103 : Processo 1006268 Exec -> Pronto por tempo
+3104 : Processo 1003983 Pronto -> Exec
+3105 : Processo 1003983 Exec -> Pronto por tempo
+3106 : Processo 1006268 Pronto -> Exec
+3107 : Processo 1006268 Exec -> Pronto por tempo
+3108 : Processo 1003983 Pronto -> Exec
+3109 : Processo 1003983 Exec -> Pronto por tempo
+3110 : Processo 1006268 Pronto -> Exec
+3111 : Processo 1006268 Exec -> Pronto por tempo
+3112 : Processo 1003983 Pronto -> Exec
+3113 : Processo 1003983 Exec -> Pronto por tempo
+3114 : Processo 1006268 Pronto -> Exec
+3115 : Processo 1006268 Exec -> Pronto por tempo
+3116 : Processo 1003983 Pronto -> Exec
+3117 : Processo 1003983 Exec -> Pronto por tempo
+3118 : Processo 1006268 Pronto -> Exec
+3119 : Processo 1006268 Exec -> Pronto por tempo
+3120 : Processo 1003983 Pronto -> Exec
+3121 : Processo 1003983 Exec -> Pronto por tempo
+3122 : Processo 1006268 Pronto -> Exec
+3123 : Processo 1006268 Exec -> Pronto por tempo
+3124 : Processo 1003983 Pronto -> Exec
+3125 : Processo 1003983 Exec -> Pronto por tempo
+3126 : Processo 1006268 Pronto -> Exec
+3127 : Processo 1006268 Exec -> Pronto por tempo
+3128 : Processo 1003983 Pronto -> Exec
+3129 : Processo 1003983 Exec -> Pronto por tempo
+3130 : Processo 1006268 Pronto -> Exec
+3131 : Processo 1006268 Exec -> Pronto por tempo
+3132 : Processo 1003983 Pronto -> Exec
+3133 : Processo 1003983 Exec -> Pronto por tempo
+3134 : Processo 1006268 Pronto -> Exec
+3135 : Processo 1006268 Exec -> Pronto por tempo
+3136 : Processo 1003983 Pronto -> Exec
+3137 : Processo 1003983 Exec -> Pronto por tempo
+3138 : Processo 1006268 Pronto -> Exec
+3139 : Processo 1006268 Exec -> Pronto por tempo
+3140 : Processo 1003983 Pronto -> Exec
+3141 : Processo 1003983 Exec -> Pronto por tempo
+3142 : Processo 1006268 Pronto -> Exec
+3143 : Processo 1006268 Exec -> Pronto por tempo
+3144 : Processo 1003983 Pronto -> Exec
+3145 : Processo 1003983 Exec -> Pronto por tempo
+3146 : Processo 1006268 Pronto -> Exec
+3147 : Processo 1006268 Exec -> Pronto por tempo
+3148 : Processo 1003983 Pronto -> Exec
+3149 : Processo 1003983 Exec -> Pronto por tempo
+3150 : Processo 1006268 Pronto -> Exec
+3151 : Processo 1006268 Exec -> Pronto por tempo
+3152 : Processo 1003983 Pronto -> Exec
+3153 : Processo 1003983 Exec -> Pronto por tempo
+3154 : Processo 1006268 Pronto -> Exec
+3155 : Processo 1006268 Exec -> Pronto por tempo
+3156 : Processo 1003983 Pronto -> Exec
+3157 : Processo 1003983 Exec -> Pronto por tempo
+3158 : Processo 1006268 Pronto -> Exec
+3159 : Processo 1006268 Exec -> Pronto por tempo
+3160 : Processo 1003983 Pronto -> Exec
+3161 : Processo 1003983 Exec -> Pronto por tempo
+3162 : Processo 1006268 Pronto -> Exec
+3163 : Processo 1006268 Exec -> Pronto por tempo
+3164 : Processo 1003983 Pronto -> Exec
+3165 : Processo 1003983 Exec -> Pronto por tempo
+3166 : Processo 1006268 Pronto -> Exec
+3167 : Processo 1006268 Exec -> Pronto por tempo
+3168 : Processo 1003983 Pronto -> Exec
+3169 : Processo 1003983 Exec -> Pronto por tempo
+3170 : Processo 1006268 Pronto -> Exec
+3171 : Processo 1006268 Exec -> Pronto por tempo
+3172 : Processo 1003983 Pronto -> Exec
+3173 : Processo 1003983 Exec -> Pronto por tempo
+3174 : Processo 1006268 Pronto -> Exec
+3175 : Processo 1006268 Exec -> Pronto por tempo
+3176 : Processo 1003983 Pronto -> Exec
+3177 : Processo 1003983 Exec -> Pronto por tempo
+3178 : Processo 1006268 Pronto -> Exec
+3179 : Processo 1006268 Exec -> Pronto por tempo
+3180 : Processo 1003983 Pronto -> Exec
+3181 : Processo 1003983 Exec -> Pronto por tempo
+3182 : Processo 1006268 Pronto -> Exec
+3183 : Processo 1006268 Exec -> Pronto por tempo
+3184 : Processo 1003983 Pronto -> Exec
+3185 : Processo 1003983 Exec -> Pronto por tempo
+3186 : Processo 1006268 Pronto -> Exec
+3187 : Processo 1006268 Exec -> Pronto por tempo
+3188 : Processo 1003983 Pronto -> Exec
+3189 : Processo 1003983 Exec -> Pronto por tempo
+3190 : Processo 1006268 Pronto -> Exec
+3191 : Processo 1006268 Exec -> Pronto por tempo
+3192 : Processo 1003983 Pronto -> Exec
+3193 : Processo 1003983 Exec -> Pronto por tempo
+3194 : Processo 1006268 Pronto -> Exec
+3195 : Processo 1006268 Exec -> Pronto por tempo
+3196 : Processo 1003983 Pronto -> Exec
+3197 : Processo 1003983 Exec -> Pronto por tempo
+3198 : Processo 1006268 Pronto -> Exec
+3199 : Processo 1006268 Exec -> Pronto por tempo
+3200 : Processo 1003983 Pronto -> Exec
+3201 : Processo 1003983 Exec -> Pronto por tempo
+3202 : Processo 1006268 Pronto -> Exec
+3203 : Processo 1006268 Exec -> Pronto por tempo
+3204 : Processo 1003983 Pronto -> Exec
+3205 : Processo 1003983 Exec -> Pronto por tempo
+3206 : Processo 1006268 Pronto -> Exec
+3207 : Processo 1006268 Exec -> Pronto por tempo
+3208 : Processo 1003983 Pronto -> Exec
+3209 : Processo 1003983 Exec -> Pronto por tempo
+3210 : Processo 1006268 Pronto -> Exec
+3211 : Processo 1006268 Exec -> Pronto por tempo
+3212 : Processo 1003983 Pronto -> Exec
+3213 : Processo 1003983 Exec -> Pronto por tempo
+3214 : Processo 1006268 Pronto -> Exec
+3215 : Processo 1006268 Exec -> Pronto por tempo
+3216 : Processo 1003983 Pronto -> Exec
+3217 : Processo 1003983 Exec -> Pronto por tempo
+3218 : Processo 1006268 Pronto -> Exec
+3219 : Processo 1006268 Exec -> Pronto por tempo
+3220 : Processo 1003983 Pronto -> Exec
+3221 : Processo 1003983 Exec -> Pronto por tempo
+3222 : Processo 1006268 Pronto -> Exec
+3223 : Processo 1006268 Exec -> Pronto por tempo
+3224 : Processo 1003983 Pronto -> Exec
+3225 : Processo 1003983 Exec -> Pronto por tempo
+3226 : Processo 1006268 Pronto -> Exec
+3227 : Processo 1006268 Exec -> Pronto por tempo
+3228 : Processo 1003983 Pronto -> Exec
+3229 : Processo 1003983 Exec -> Pronto por tempo
+3230 : Processo 1006268 Pronto -> Exec
+3231 : Processo 1006268 Exec -> Pronto por tempo
+3232 : Processo 1003983 Pronto -> Exec
+3233 : Processo 1003983 Exec -> Pronto por tempo
+3234 : Processo 1006268 Pronto -> Exec
+3235 : Processo 1006268 Exec -> Pronto por tempo
+3236 : Processo 1003983 Pronto -> Exec
+3237 : Processo 1003983 Exec -> Pronto por tempo
+3238 : Processo 1006268 Pronto -> Exec
+3239 : Processo 1006268 Exec -> Pronto por tempo
+3240 : Processo 1003983 Pronto -> Exec
+3241 : Processo 1003983 Exec -> Pronto por tempo
+3242 : Processo 1006268 Pronto -> Exec
+3243 : Processo 1006268 Exec -> Pronto por tempo
+3244 : Processo 1003983 Pronto -> Exec
+3245 : Processo 1003983 Exec -> Pronto por tempo
+3246 : Processo 1006268 Pronto -> Exec
+3247 : Processo 1006268 Exec -> Pronto por tempo
+3248 : Processo 1003983 Pronto -> Exec
+3249 : Processo 1003983 Exec -> Pronto por tempo
+3250 : Processo 1006268 Pronto -> Exec
+3251 : Processo 1006268 Exec -> Pronto por tempo
+3252 : Processo 1003983 Pronto -> Exec
+3253 : Processo 1003983 Exec -> Pronto por tempo
+3254 : Processo 1006268 Pronto -> Exec
+3255 : Processo 1006268 Exec -> Pronto por tempo
+3256 : Processo 1003983 Pronto -> Exec
+3257 : Processo 1003983 Exec -> Pronto por tempo
+3258 : Processo 1006268 Pronto -> Exec
+3259 : Processo 1006268 Exec -> Pronto por tempo
+3260 : Processo 1003983 Pronto -> Exec
+3261 : Processo 1003983 Exec -> Pronto por tempo
+3262 : Processo 1006268 Pronto -> Exec
+3263 : Processo 1006268 Exec -> Pronto por tempo
+3264 : Processo 1003983 Pronto -> Exec
+3265 : Processo 1003983 Exec -> Pronto por tempo
+3266 : Processo 1006268 Pronto -> Exec
+3267 : Processo 1006268 Exec -> Pronto por tempo
+3268 : Processo 1003983 Pronto -> Exec
+3269 : Processo 1003983 Exec -> Pronto por tempo
+3270 : Processo 1006268 Pronto -> Exec
+3271 : Processo 1006268 Exec -> Pronto por tempo
+3272 : Processo 1003983 Pronto -> Exec
+3273 : Processo 1003983 Exec -> Pronto por tempo
+3274 : Processo 1006268 Pronto -> Exec
+3275 : Processo 1006268 Exec -> Pronto por tempo
+3276 : Processo 1003983 Pronto -> Exec
+3277 : Processo 1003983 Exec -> Pronto por tempo
+3278 : Processo 1006268 Pronto -> Exec
+3279 : Processo 1006268 Exec -> Pronto por tempo
+3280 : Processo 1003983 Pronto -> Exec
+3281 : Processo 1003983 Exec -> Pronto por tempo
+3282 : Processo 1006268 Pronto -> Exec
+3283 : Processo 1006268 Exec -> Pronto por tempo
+3284 : Processo 1003983 Pronto -> Exec
+3285 : Processo 1003983 Exec -> Pronto por tempo
+3286 : Processo 1006268 Pronto -> Exec
+3287 : Processo 1006268 Exec -> Pronto por tempo
+3288 : Processo 1003983 Pronto -> Exec
+3289 : Processo 1003983 Exec -> Pronto por tempo
+3290 : Processo 1006268 Pronto -> Exec
+3291 : Processo 1006268 Exec -> Pronto por tempo
+3292 : Processo 1003983 Pronto -> Exec
+3293 : Processo 1003983 Exec -> Pronto por tempo
+3294 : Processo 1006268 Pronto -> Exec
+3295 : Processo 1006268 Exec -> Pronto por tempo
+3296 : Processo 1003983 Pronto -> Exec
+3297 : Processo 1003983 Exec -> Pronto por tempo
+3298 : Processo 1006268 Pronto -> Exec
+3299 : Processo 1006268 Exec -> Pronto por tempo
+3300 : Processo 1003983 Pronto -> Exec
+3301 : Processo 1003983 Exec -> Pronto por tempo
+3302 : Processo 1006268 Pronto -> Exec
+3303 : Processo 1006268 Exec -> Pronto por tempo
+3304 : Processo 1003983 Pronto -> Exec
+3305 : Processo 1003983 Exec -> Pronto por tempo
+3306 : Processo 1006268 Pronto -> Exec
+3307 : Processo 1006268 Exec -> Pronto por tempo
+3308 : Processo 1003983 Pronto -> Exec
+3309 : Processo 1003983 Exec -> Pronto por tempo
+3310 : Processo 1006268 Pronto -> Exec
+3311 : Processo 1006268 Exec -> Pronto por tempo
+3312 : Processo 1003983 Pronto -> Exec
+3313 : Processo 1003983 Exec -> Pronto por tempo
+3314 : Processo 1006268 Pronto -> Exec
+3315 : Processo 1006268 Exec -> Pronto por tempo
+3316 : Processo 1003983 Pronto -> Exec
+3317 : Processo 1003983 Exec -> Pronto por tempo
+3318 : Processo 1006268 Pronto -> Exec
+3319 : Processo 1006268 Exec -> Pronto por tempo
+3320 : Processo 1003983 Pronto -> Exec
+3321 : Processo 1003983 Exec -> Pronto por tempo
+3322 : Processo 1006268 Pronto -> Exec
+3323 : Processo 1006268 Exec -> Pronto por tempo
+3324 : Processo 1003983 Pronto -> Exec
+3325 : Processo 1003983 Exec -> Pronto por tempo
+3326 : Processo 1006268 Pronto -> Exec
+3327 : Processo 1006268 Exec -> Pronto por tempo
+3328 : Processo 1003983 Pronto -> Exec
+3329 : Processo 1003983 Exec -> Pronto por tempo
+3330 : Processo 1006268 Pronto -> Exec
+3331 : Processo 1006268 Exec -> Pronto por tempo
+3332 : Processo 1003983 Pronto -> Exec
+3333 : Processo 1003983 Exec -> Pronto por tempo
+3334 : Processo 1006268 Pronto -> Exec
+3335 : Processo 1006268 Exec -> Pronto por tempo
+3336 : Processo 1003983 Pronto -> Exec
+3337 : Processo 1003983 Exec -> Pronto por tempo
+3338 : Processo 1006268 Pronto -> Exec
+3339 : Processo 1006268 Exec -> Pronto por tempo
+3340 : Processo 1003983 Pronto -> Exec
+3341 : Processo 1003983 Exec -> Pronto por tempo
+3342 : Processo 1006268 Pronto -> Exec
+3343 : Processo 1006268 Exec -> Pronto por tempo
+3344 : Processo 1003983 Pronto -> Exec
+3345 : Processo 1003983 Exec -> Pronto por tempo
+3346 : Processo 1006268 Pronto -> Exec
+3347 : Processo 1006268 Exec -> Pronto por tempo
+3348 : Processo 1003983 Pronto -> Exec
+3349 : Processo 1003983 Exec -> Pronto por tempo
+3350 : Processo 1006268 Pronto -> Exec
+3351 : Processo 1006268 Exec -> Pronto por tempo
+3352 : Processo 1003983 Pronto -> Exec
+3353 : Processo 1003983 Exec -> Pronto por tempo
+3354 : Processo 1006268 Pronto -> Exec
+3355 : Processo 1006268 Exec -> Pronto por tempo
+3356 : Processo 1003983 Pronto -> Exec
+3357 : Processo 1003983 Exec -> Pronto por tempo
+3358 : Processo 1006268 Pronto -> Exec
+3359 : Processo 1006268 Exec -> Pronto por tempo
+3360 : Processo 1003983 Pronto -> Exec
+3361 : Processo 1003983 Exec -> Pronto por tempo
+3362 : Processo 1006268 Pronto -> Exec
+3363 : Processo 1006268 Exec -> Pronto por tempo
+3364 : Processo 1003983 Pronto -> Exec
+3365 : Processo 1003983 Exec -> Pronto por tempo
+3366 : Processo 1006268 Pronto -> Exec
+3367 : Processo 1006268 Exec -> Pronto por tempo
+3368 : Processo 1003983 Pronto -> Exec
+3369 : Processo 1003983 Exec -> Pronto por tempo
+3370 : Processo 1006268 Pronto -> Exec
+3371 : Processo 1006268 Exec -> Pronto por tempo
+3372 : Processo 1003983 Pronto -> Exec
+3373 : Processo 1003983 Exec -> Pronto por tempo
+3374 : Processo 1006268 Pronto -> Exec
+3375 : Processo 1006268 Exec -> Pronto por tempo
+3376 : Processo 1003983 Pronto -> Exec
+3377 : Processo 1003983 Exec -> Pronto por tempo
+3378 : Processo 1006268 Pronto -> Exec
+3379 : Processo 1006268 Exec -> Pronto por tempo
+3380 : Processo 1003983 Pronto -> Exec
+3381 : Processo 1003983 Exec -> Pronto por tempo
+3382 : Processo 1006268 Pronto -> Exec
+3383 : Processo 1006268 Exec -> Pronto por tempo
+3384 : Processo 1003983 Pronto -> Exec
+3385 : Processo 1003983 Exec -> Pronto por tempo
+3386 : Processo 1006268 Pronto -> Exec
+3387 : Processo 1006268 Exec -> Pronto por tempo
+3388 : Processo 1003983 Pronto -> Exec
+3389 : Processo 1003983 Exec -> Pronto por tempo
+3390 : Processo 1006268 Pronto -> Exec
+3391 : Processo 1006268 Exec -> Pronto por tempo
+3392 : Processo 1003983 Pronto -> Exec
+3393 : Processo 1003983 Exec -> Pronto por tempo
+3394 : Processo 1006268 Pronto -> Exec
+3395 : Processo 1006268 Exec -> Pronto por tempo
+3396 : Processo 1003983 Pronto -> Exec
+3397 : Processo 1003983 Exec -> Pronto por tempo
+3398 : Processo 1006268 Pronto -> Exec
+3399 : Processo 1006268 Exec -> Pronto por tempo
+3400 : Processo 1003983 Pronto -> Exec
+3401 : Processo 1003983 Exec -> Pronto por tempo
+3402 : Processo 1006268 Pronto -> Exec
+3403 : Processo 1006268 Exec -> Pronto por tempo
+3404 : Processo 1003983 Pronto -> Exec
+3405 : Processo 1003983 Exec -> Pronto por tempo
+3406 : Processo 1006268 Pronto -> Exec
+3407 : Processo 1006268 Exec -> Pronto por tempo
+3408 : Processo 1003983 Pronto -> Exec
+3409 : Processo 1003983 Exec -> Pronto por tempo
+3410 : Processo 1006268 Pronto -> Exec
+3411 : Processo 1006268 Exec -> Pronto por tempo
+3412 : Processo 1003983 Pronto -> Exec
+3413 : Processo 1003983 Exec -> Pronto por tempo
+3414 : Processo 1006268 Pronto -> Exec
+3415 : Processo 1006268 Exec -> Pronto por tempo
+3416 : Processo 1003983 Pronto -> Exec
+3417 : Processo 1003983 Exec -> Pronto por tempo
+3418 : Processo 1006268 Pronto -> Exec
+3419 : Processo 1006268 Exec -> Pronto por tempo
+3420 : Processo 1003983 Pronto -> Exec
+3421 : Processo 1003983 Exec -> Pronto por tempo
+3422 : Processo 1006268 Pronto -> Exec
+3423 : Processo 1006268 Exec -> Pronto por tempo
+3424 : Processo 1003983 Pronto -> Exec
+3425 : Processo 1003983 Exec -> Pronto por tempo
+3426 : Processo 1006268 Pronto -> Exec
+3427 : Processo 1006268 Exec -> Pronto por tempo
+3428 : Processo 1003983 Pronto -> Exec
+3429 : Processo 1003983 Exec -> Pronto por tempo
+3430 : Processo 1006268 Pronto -> Exec
+3431 : Processo 1006268 Exec -> Pronto por tempo
+3432 : Processo 1003983 Pronto -> Exec
+3433 : Processo 1003983 Exec -> Pronto por tempo
+3434 : Processo 1006268 Pronto -> Exec
+3435 : Processo 1006268 Exec -> Pronto por tempo
+3436 : Processo 1003983 Pronto -> Exec
+3437 : Processo 1003983 Exec -> Pronto por tempo
+3438 : Processo 1006268 Pronto -> Exec
+3439 : Processo 1006268 Exec -> Pronto por tempo
+3440 : Processo 1003983 Pronto -> Exec
+3441 : Processo 1003983 Exec -> Pronto por tempo
+3442 : Processo 1006268 Pronto -> Exec
+3443 : Processo 1006268 Exec -> Pronto por tempo
+3444 : Processo 1003983 Pronto -> Exec
+3445 : Processo 1003983 Exec -> Pronto por tempo
+3446 : Processo 1006268 Pronto -> Exec
+3447 : Processo 1006268 Exec -> Pronto por tempo
+3448 : Processo 1003983 Pronto -> Exec
+3449 : Processo 1003983 Exec -> Pronto por tempo
+3450 : Processo 1006268 Pronto -> Exec
+3451 : Processo 1006268 Exec -> Pronto por tempo
+3452 : Processo 1003983 Pronto -> Exec
+3453 : Processo 1003983 Exec -> Pronto por tempo
+3454 : Processo 1006268 Pronto -> Exec
+3455 : Processo 1006268 Exec -> Pronto por tempo
+3456 : Processo 1003983 Pronto -> Exec
+3457 : Processo 1003983 Exec -> Pronto por tempo
+3458 : Processo 1006268 Pronto -> Exec
+3459 : Processo 1006268 Exec -> Pronto por tempo
+3460 : Processo 1003983 Pronto -> Exec
+3461 : Processo 1003983 Exec -> Pronto por tempo
+3462 : Processo 1006268 Pronto -> Exec
+3463 : Processo 1006268 Exec -> Pronto por tempo
+3464 : Processo 1003983 Pronto -> Exec
+3465 : Processo 1003983 Exec -> Pronto por tempo
+3466 : Processo 1006268 Pronto -> Exec
+3467 : Processo 1006268 Exec -> Pronto por tempo
+3468 : Processo 1003983 Pronto -> Exec
+3469 : Processo 1003983 Exec -> Pronto por tempo
+3470 : Processo 1006268 Pronto -> Exec
+3471 : Processo 1006268 Exec -> Pronto por tempo
+3472 : Processo 1003983 Pronto -> Exec
+3473 : Processo 1003983 Exec -> Pronto por tempo
+3474 : Processo 1006268 Pronto -> Exec
+3475 : Processo 1006268 Exec -> Pronto por tempo
+3476 : Processo 1003983 Pronto -> Exec
+3477 : Processo 1003983 Exec -> Pronto por tempo
+3478 : Processo 1006268 Pronto -> Exec
+3479 : Processo 1006268 Exec -> Pronto por tempo
+3480 : Processo 1003983 Pronto -> Exec
+3481 : Processo 1003983 Exec -> Pronto por tempo
+3482 : Processo 1006268 Pronto -> Exec
+3483 : Processo 1006268 Exec -> Pronto por tempo
+3484 : Processo 1003983 Pronto -> Exec
+3485 : Processo 1003983 Exec -> Pronto por tempo
+3486 : Processo 1006268 Pronto -> Exec
+3487 : Processo 1006268 Exec -> Pronto por tempo
+3488 : Processo 1003983 Pronto -> Exec
+3489 : Processo 1003983 Exec -> Pronto por tempo
+3490 : Processo 1006268 Pronto -> Exec
+3491 : Processo 1006268 Exec -> Pronto por tempo
+3492 : Processo 1003983 Pronto -> Exec
+3493 : Processo 1003983 Exec -> Pronto por tempo
+3494 : Processo 1006268 Pronto -> Exec
+3495 : Processo 1006268 Exec -> Pronto por tempo
+3496 : Processo 1003983 Pronto -> Exec
+3497 : Processo 1003983 Exec -> Pronto por tempo
+3498 : Processo 1006268 Pronto -> Exec
+3499 : Processo 1006268 Exec -> Pronto por tempo
+3500 : Processo 1003983 Pronto -> Exec
+3501 : Processo 1003983 Exec -> Pronto por tempo
+3502 : Processo 1006268 Pronto -> Exec
+3503 : Processo 1006268 Exec -> Pronto por tempo
+3504 : Processo 1003983 Pronto -> Exec
+3505 : Processo 1003983 Exec -> Pronto por tempo
+3506 : Processo 1006268 Pronto -> Exec
+3507 : Processo 1006268 Exec -> Pronto por tempo
+3508 : Processo 1003983 Pronto -> Exec
+3509 : Processo 1003983 Exec -> Pronto por tempo
+3510 : Processo 1006268 Pronto -> Exec
+3511 : Processo 1006268 Exec -> Pronto por tempo
+3512 : Processo 1003983 Pronto -> Exec
+3513 : Processo 1003983 Exec -> Pronto por tempo
+3514 : Processo 1006268 Pronto -> Exec
+3515 : Processo 1006268 Exec -> Pronto por tempo
+3516 : Processo 1003983 Pronto -> Exec
+3517 : Processo 1003983 Exec -> Pronto por tempo
+3518 : Processo 1006268 Pronto -> Exec
+3519 : Processo 1006268 Exec -> Pronto por tempo
+3520 : Processo 1003983 Pronto -> Exec
+3521 : Processo 1003983 Exec -> Pronto por tempo
+3522 : Processo 1006268 Pronto -> Exec
+3523 : Processo 1006268 Exec -> Pronto por tempo
+3524 : Processo 1003983 Pronto -> Exec
+3525 : Processo 1003983 Exec -> Pronto por tempo
+3526 : Processo 1006268 Pronto -> Exec
+3527 : Processo 1006268 Exec -> Pronto por tempo
+3528 : Processo 1003983 Pronto -> Exec
+3529 : Processo 1003983 Exec -> Pronto por tempo
+3530 : Processo 1006268 Pronto -> Exec
+3531 : Processo 1006268 Exec -> Pronto por tempo
+3532 : Processo 1003983 Pronto -> Exec
+3533 : Processo 1003983 Exec -> Pronto por tempo
+3534 : Processo 1006268 Pronto -> Exec
+3535 : Processo 1006268 Exec -> Pronto por tempo
+3536 : Processo 1003983 Pronto -> Exec
+3537 : Processo 1003983 Exec -> Pronto por tempo
+3538 : Processo 1006268 Pronto -> Exec
+3539 : Processo 1006268 Exec -> Pronto por tempo
+3540 : Processo 1003983 Pronto -> Exec
+3541 : Processo 1003983 Exec -> Pronto por tempo
+3542 : Processo 1006268 Pronto -> Exec
+3543 : Processo 1006268 Exec -> Pronto por tempo
+3544 : Processo 1003983 Pronto -> Exec
+3545 : Processo 1003983 Exec -> Pronto por tempo
+3546 : Processo 1006268 Pronto -> Exec
+3547 : Processo 1006268 Exec -> Pronto por tempo
+3548 : Processo 1003983 Pronto -> Exec
+3549 : Processo 1003983 Exec -> Pronto por tempo
+3550 : Processo 1006268 Pronto -> Exec
+3551 : Processo 1006268 Exec -> Pronto por tempo
+3552 : Processo 1003983 Pronto -> Exec
+3553 : Processo 1003983 Exec -> Pronto por tempo
+3554 : Processo 1006268 Pronto -> Exec
+3555 : Processo 1006268 Exec -> Pronto por tempo
+3556 : Processo 1003983 Pronto -> Exec
+3557 : Processo 1003983 Exec -> Pronto por tempo
+3558 : Processo 1006268 Pronto -> Exec
+3559 : Processo 1006268 Exec -> Pronto por tempo
+3560 : Processo 1003983 Pronto -> Exec
+3561 : Processo 1003983 Exec -> Pronto por tempo
+3562 : Processo 1006268 Pronto -> Exec
+3563 : Processo 1006268 Exec -> Pronto por tempo
+3564 : Processo 1003983 Pronto -> Exec
+3565 : Processo 1003983 Exec -> Pronto por tempo
+3566 : Processo 1006268 Pronto -> Exec
+3567 : Processo 1006268 Exec -> Pronto por tempo
+3568 : Processo 1003983 Pronto -> Exec
+3569 : Processo 1003983 Exec -> Pronto por tempo
+3570 : Processo 1006268 Pronto -> Exec
+3571 : Processo 1006268 Exec -> Pronto por tempo
+3572 : Processo 1003983 Pronto -> Exec
+3573 : Processo 1003983 Exec -> Pronto por tempo
+3574 : Processo 1006268 Pronto -> Exec
+3575 : Processo 1006268 Exec -> Pronto por tempo
+3576 : Processo 1003983 Pronto -> Exec
+3577 : Processo 1003983 Exec -> Pronto por tempo
+3578 : Processo 1006268 Pronto -> Exec
+3579 : Processo 1006268 Exec -> Pronto por tempo
+3580 : Processo 1003983 Pronto -> Exec
+3581 : Processo 1003983 Exec -> Pronto por tempo
+3582 : Processo 1006268 Pronto -> Exec
+3583 : Processo 1006268 Exec -> Pronto por tempo
+3584 : Processo 1003983 Pronto -> Exec
+3585 : Processo 1003983 Exec -> Pronto por tempo
+3586 : Processo 1006268 Pronto -> Exec
+3587 : Processo 1006268 Exec -> Pronto por tempo
+3588 : Processo 1003983 Pronto -> Exec
+3589 : Processo 1003983 Exec -> Pronto por tempo
+3590 : Processo 1006268 Pronto -> Exec
+3591 : Processo 1006268 Exec -> Pronto por tempo
+3592 : Processo 1003983 Pronto -> Exec
+3593 : Processo 1003983 Exec -> Pronto por tempo
+3594 : Processo 1006268 Pronto -> Exec
+3595 : Processo 1006268 Exec -> Pronto por tempo
+3596 : Processo 1003983 Pronto -> Exec
+3597 : Processo 1003983 Exec -> Pronto por tempo
+3598 : Processo 1006268 Pronto -> Exec
+3599 : Processo 1006268 Exec -> Pronto por tempo
+3600 : Processo 1003983 Pronto -> Exec
+3601 : Processo 1003983 Exec -> Pronto por tempo
+3602 : Processo 1006268 Pronto -> Exec
+3603 : Processo 1006268 Exec -> Pronto por tempo
+3604 : Processo 1003983 Pronto -> Exec
+3605 : Processo 1003983 Exec -> Pronto por tempo
+3606 : Processo 1006268 Pronto -> Exec
+3607 : Processo 1006268 Exec -> Pronto por tempo
+3608 : Processo 1003983 Pronto -> Exec
+3609 : Processo 1003983 Exec -> Pronto por tempo
+3610 : Processo 1006268 Pronto -> Exec
+3611 : Processo 1006268 Exec -> Pronto por tempo
+3612 : Processo 1003983 Pronto -> Exec
+3613 : Processo 1003983 Exec -> Pronto por tempo
+3614 : Processo 1006268 Pronto -> Exec
+3615 : Processo 1006268 Exec -> Pronto por tempo
+3616 : Processo 1003983 Pronto -> Exec
+3617 : Processo 1003983 Exec -> Pronto por tempo
+3618 : Processo 1006268 Pronto -> Exec
+3619 : Processo 1006268 Exec -> Pronto por tempo
+3620 : Processo 1003983 Pronto -> Exec
+3621 : Processo 1003983 Exec -> Pronto por tempo
+3622 : Processo 1006268 Pronto -> Exec
+3623 : Processo 1006268 Exec -> Pronto por tempo
+3624 : Processo 1003983 Pronto -> Exec
+3625 : Processo 1003983 Exec -> Pronto por tempo
+3626 : Processo 1006268 Pronto -> Exec
+3627 : Processo 1006268 Exec -> Pronto por tempo
+3628 : Processo 1003983 Pronto -> Exec
+3629 : Processo 1003983 Exec -> Pronto por tempo
+3630 : Processo 1006268 Pronto -> Exec
+3631 : Processo 1006268 Exec -> Pronto por tempo
+3632 : Processo 1003983 Pronto -> Exec
+3633 : Processo 1003983 Exec -> Pronto por tempo
+3634 : Processo 1006268 Pronto -> Exec
+3635 : Processo 1006268 Exec -> Pronto por tempo
+3636 : Processo 1003983 Pronto -> Exec
+3637 : Processo 1003983 Exec -> Pronto por tempo
+3638 : Processo 1006268 Pronto -> Exec
+3639 : Processo 1006268 Exec -> Pronto por tempo
+3640 : Processo 1003983 Pronto -> Exec
+3641 : Processo 1003983 Exec -> Pronto por tempo
+3642 : Processo 1006268 Pronto -> Exec
+3643 : Processo 1006268 Exec -> Pronto por tempo
+3644 : Processo 1003983 Pronto -> Exec
+3645 : Processo 1003983 Exec -> Pronto por tempo
+3646 : Processo 1006268 Pronto -> Exec
+3647 : Processo 1006268 Exec -> Pronto por tempo
+3648 : Processo 1003983 Pronto -> Exec
+3649 : Processo 1003983 Exec -> Pronto por tempo
+3650 : Processo 1006268 Pronto -> Exec
+3651 : Processo 1006268 Exec -> Pronto por tempo
+3652 : Processo 1003983 Pronto -> Exec
+3653 : Processo 1003983 Exec -> Pronto por tempo
+3654 : Processo 1006268 Pronto -> Exec
+3655 : Processo 1006268 Exec -> Pronto por tempo
+3656 : Processo 1003983 Pronto -> Exec
+3657 : Processo 1003983 Exec -> Pronto por tempo
+3658 : Processo 1006268 Pronto -> Exec
+3659 : Processo 1006268 Exec -> Pronto por tempo
+3660 : Processo 1003983 Pronto -> Exec
+3661 : Processo 1003983 Exec -> Pronto por tempo
+3662 : Processo 1006268 Pronto -> Exec
+3663 : Processo 1006268 Exec -> Pronto por tempo
+3664 : Processo 1003983 Pronto -> Exec
+3665 : Processo 1003983 Exec -> Pronto por tempo
+3666 : Processo 1006268 Pronto -> Exec
+3667 : Processo 1006268 Exec -> Pronto por tempo
+3668 : Processo 1003983 Pronto -> Exec
+3669 : Processo 1003983 Exec -> Pronto por tempo
+3670 : Processo 1006268 Pronto -> Exec
+3671 : Processo 1006268 Exec -> Pronto por tempo
+3672 : Processo 1003983 Pronto -> Exec
+3673 : Processo 1003983 Exec -> Pronto por tempo
+3674 : Processo 1006268 Pronto -> Exec
+3675 : Processo 1006268 Exec -> Pronto por tempo
+3676 : Processo 1003983 Pronto -> Exec
+3677 : Processo 1003983 Exec -> Pronto por tempo
+3678 : Processo 1006268 Pronto -> Exec
+3679 : Processo 1006268 Exec -> Pronto por tempo
+3680 : Processo 1003983 Pronto -> Exec
+3681 : Processo 1003983 Exec -> Pronto por tempo
+3682 : Processo 1006268 Pronto -> Exec
+3683 : Processo 1006268 Exec -> Pronto por tempo
+3684 : Processo 1003983 Pronto -> Exec
+3685 : Processo 1003983 Exec -> Pronto por tempo
+3686 : Processo 1006268 Pronto -> Exec
+3687 : Processo 1006268 Exec -> Pronto por tempo
+3688 : Processo 1003983 Pronto -> Exec
+3689 : Processo 1003983 Exec -> Pronto por tempo
+3690 : Processo 1006268 Pronto -> Exec
+3691 : Processo 1006268 Exec -> Pronto por tempo
+3692 : Processo 1003983 Pronto -> Exec
+3693 : Processo 1003983 Exec -> Pronto por tempo
+3694 : Processo 1006268 Pronto -> Exec
+3695 : Processo 1006268 Exec -> Pronto por tempo
+3696 : Processo 1003983 Pronto -> Exec
+3697 : Processo 1003983 Exec -> Pronto por tempo
+3698 : Processo 1006268 Pronto -> Exec
+3699 : Processo 1006268 Exec -> Pronto por tempo
+3700 : Processo 1003983 Pronto -> Exec
+3701 : Processo 1003983 Exec -> Pronto por tempo
+3702 : Processo 1006268 Pronto -> Exec
+3703 : Processo 1006268 Exec -> Pronto por tempo
+3704 : Processo 1003983 Pronto -> Exec
+3705 : Processo 1003983 Exec -> Pronto por tempo
+3706 : Processo 1006268 Pronto -> Exec
+3707 : Processo 1006268 Exec -> Pronto por tempo
+3708 : Processo 1003983 Pronto -> Exec
+3709 : Processo 1003983 Exec -> Pronto por tempo
+3710 : Processo 1006268 Pronto -> Exec
+3711 : Processo 1006268 Exec -> Pronto por tempo
+3712 : Processo 1003983 Pronto -> Exec
+3713 : Processo 1003983 Exec -> Pronto por tempo
+3714 : Processo 1006268 Pronto -> Exec
+3715 : Processo 1006268 Exec -> Pronto por tempo
+3716 : Processo 1003983 Pronto -> Exec
+3717 : Processo 1003983 Exec -> Pronto por tempo
+3718 : Processo 1006268 Pronto -> Exec
+3719 : Processo 1006268 Exec -> Pronto por tempo
+3720 : Processo 1003983 Pronto -> Exec
+3721 : Processo 1003983 Exec -> Pronto por tempo
+3722 : Processo 1006268 Pronto -> Exec
+3723 : Processo 1006268 Exec -> Pronto por tempo
+3724 : Processo 1003983 Pronto -> Exec
+3725 : Processo 1003983 Exec -> Pronto por tempo
+3726 : Processo 1006268 Pronto -> Exec
+3727 : Processo 1006268 Exec -> Pronto por tempo
+3728 : Processo 1003983 Pronto -> Exec
+3729 : Processo 1003983 Exec -> Pronto por tempo
+3730 : Processo 1006268 Pronto -> Exec
+3731 : Processo 1006268 Exec -> Pronto por tempo
+3732 : Processo 1003983 Pronto -> Exec
+3733 : Processo 1003983 Exec -> Pronto por tempo
+3734 : Processo 1006268 Pronto -> Exec
+3735 : Processo 1006268 Exec -> Pronto por tempo
+3736 : Processo 1003983 Pronto -> Exec
+3737 : Processo 1003983 Exec -> Pronto por tempo
+3738 : Processo 1006268 Pronto -> Exec
+3739 : Processo 1006268 Exec -> Pronto por tempo
+3740 : Processo 1003983 Pronto -> Exec
+3741 : Processo 1003983 Exec -> Pronto por tempo
+3742 : Processo 1006268 Pronto -> Exec
+3743 : Processo 1006268 Exec -> Pronto por tempo
+3744 : Processo 1003983 Pronto -> Exec
+3745 : Processo 1003983 Exec -> Pronto por tempo
+3746 : Processo 1006268 Pronto -> Exec
+3747 : Processo 1006268 Exec -> Pronto por tempo
+3748 : Processo 1003983 Pronto -> Exec
+3749 : Processo 1003983 Exec -> Pronto por tempo
+3750 : Processo 1006268 Pronto -> Exec
+3751 : Processo 1006268 Exec -> Pronto por tempo
+3752 : Processo 1003983 Pronto -> Exec
+3753 : Processo 1003983 Exec -> Pronto por tempo
+3754 : Processo 1006268 Pronto -> Exec
+3755 : Processo 1006268 Exec -> Pronto por tempo
+3756 : Processo 1003983 Pronto -> Exec
+3757 : Processo 1003983 Exec -> Pronto por tempo
+3758 : Processo 1006268 Pronto -> Exec
+3759 : Processo 1006268 Exec -> Pronto por tempo
+3760 : Processo 1003983 Pronto -> Exec
+3761 : Processo 1003983 Exec -> Pronto por tempo
+3762 : Processo 1006268 Pronto -> Exec
+3763 : Processo 1006268 Exec -> Pronto por tempo
+3764 : Processo 1003983 Pronto -> Exec
+3765 : Processo 1003983 Exec -> Pronto por tempo
+3766 : Processo 1006268 Pronto -> Exec
+3767 : Processo 1006268 Exec -> Pronto por tempo
+3768 : Processo 1003983 Pronto -> Exec
+3769 : Processo 1003983 Exec -> Pronto por tempo
+3770 : Processo 1006268 Pronto -> Exec
+3771 : Processo 1006268 Exec -> Pronto por tempo
+3772 : Processo 1003983 Pronto -> Exec
+3773 : Processo 1003983 Exec -> Pronto por tempo
+3774 : Processo 1006268 Pronto -> Exec
+3775 : Processo 1006268 Exec -> Pronto por tempo
+3776 : Processo 1003983 Pronto -> Exec
+3777 : Processo 1003983 Exec -> Pronto por tempo
+3778 : Processo 1006268 Pronto -> Exec
+3779 : Processo 1006268 Exec -> Pronto por tempo
+3780 : Processo 1003983 Pronto -> Exec
+3781 : Processo 1003983 Exec -> Pronto por tempo
+3782 : Processo 1006268 Pronto -> Exec
+3783 : Processo 1006268 Exec -> Pronto por tempo
+3784 : Processo 1003983 Pronto -> Exec
+3785 : Processo 1003983 Exec -> Pronto por tempo
+3786 : Processo 1006268 Pronto -> Exec
+3787 : Processo 1006268 Exec -> Pronto por tempo
+3788 : Processo 1003983 Pronto -> Exec
+3789 : Processo 1003983 Exec -> Pronto por tempo
+3790 : Processo 1006268 Pronto -> Exec
+3791 : Processo 1006268 Exec -> Pronto por tempo
+3792 : Processo 1003983 Pronto -> Exec
+3793 : Processo 1003983 Exec -> Pronto por tempo
+3794 : Processo 1006268 Pronto -> Exec
+3795 : Processo 1006268 Exec -> Pronto por tempo
+3796 : Processo 1003983 Pronto -> Exec
+3797 : Processo 1003983 Exec -> Pronto por tempo
+3798 : Processo 1006268 Pronto -> Exec
+3799 : Processo 1006268 Exec -> Pronto por tempo
+3800 : Processo 1003983 Pronto -> Exec
+3801 : Processo 1003983 Exec -> Pronto por tempo
+3802 : Processo 1006268 Pronto -> Exec
+3803 : Processo 1006268 Exec -> Pronto por tempo
+3804 : Processo 1003983 Pronto -> Exec
+3805 : Processo 1003983 Exec -> Pronto por tempo
+3806 : Processo 1006268 Pronto -> Exec
+3807 : Processo 1006268 Exec -> Pronto por tempo
+3808 : Processo 1003983 Pronto -> Exec
+3809 : Processo 1003983 Exec -> Pronto por tempo
+3810 : Processo 1006268 Pronto -> Exec
+3811 : Processo 1006268 Exec -> Pronto por tempo
+3812 : Processo 1003983 Pronto -> Exec
+3813 : Processo 1003983 Exec -> Pronto por tempo
+3814 : Processo 1006268 Pronto -> Exec
+3815 : Processo 1006268 Exec -> Pronto por tempo
+3816 : Processo 1003983 Pronto -> Exec
+3817 : Processo 1003983 Exec -> Pronto por tempo
+3818 : Processo 1006268 Pronto -> Exec
+3819 : Processo 1006268 Exec -> Pronto por tempo
+3820 : Processo 1003983 Pronto -> Exec
+3821 : Processo 1003983 Exec -> Pronto por tempo
+3822 : Processo 1006268 Pronto -> Exec
+3823 : Processo 1006268 Exec -> Pronto por tempo
+3824 : Processo 1003983 Pronto -> Exec
+3825 : Processo 1003983 Exec -> Pronto por tempo
+3826 : Processo 1006268 Pronto -> Exec
+3827 : Processo 1006268 Exec -> Pronto por tempo
+3828 : Processo 1003983 Pronto -> Exec
+3829 : Processo 1003983 Exec -> Pronto por tempo
+3830 : Processo 1006268 Pronto -> Exec
+3831 : Processo 1006268 Exec -> Pronto por tempo
+3832 : Processo 1003983 Pronto -> Exec
+3833 : Processo 1003983 Exec -> Pronto por tempo
+3834 : Processo 1006268 Pronto -> Exec
+3835 : Processo 1006268 Exec -> Pronto por tempo
+3836 : Processo 1003983 Pronto -> Exec
+3837 : Processo 1003983 Exec -> Pronto por tempo
+3838 : Processo 1006268 Pronto -> Exec
+3839 : Processo 1006268 Exec -> Pronto por tempo
+3840 : Processo 1003983 Pronto -> Exec
+3841 : Processo 1003983 Exec -> Pronto por tempo
+3842 : Processo 1006268 Pronto -> Exec
+3843 : Processo 1006268 Exec -> Pronto por tempo
+3844 : Processo 1003983 Pronto -> Exec
+3845 : Processo 1003983 Exec -> Pronto por tempo
+3846 : Processo 1006268 Pronto -> Exec
+3847 : Processo 1006268 Exec -> Pronto por tempo
+3848 : Processo 1003983 Pronto -> Exec
+3849 : Processo 1003983 Exec -> Pronto por tempo
+3850 : Processo 1006268 Pronto -> Exec
+3851 : Processo 1006268 Exec -> Pronto por tempo
+3852 : Processo 1003983 Pronto -> Exec
+3853 : Processo 1003983 Exec -> Pronto por tempo
+3854 : Processo 1006268 Pronto -> Exec
+3855 : Processo 1006268 Exec -> Pronto por tempo
+3856 : Processo 1003983 Pronto -> Exec
+3857 : Processo 1003983 Exec -> Pronto por tempo
+3858 : Processo 1006268 Pronto -> Exec
+3859 : Processo 1006268 Exec -> Pronto por tempo
+3860 : Processo 1003983 Pronto -> Exec
+3861 : Processo 1003983 Exec -> Pronto por tempo
+3862 : Processo 1006268 Pronto -> Exec
+3863 : Processo 1006268 Exec -> Pronto por tempo
+3864 : Processo 1003983 Pronto -> Exec
+3865 : Processo 1003983 Exec -> Pronto por tempo
+3866 : Processo 1006268 Pronto -> Exec
+3867 : Processo 1006268 Exec -> Pronto por tempo
+3868 : Processo 1003983 Pronto -> Exec
+3869 : Processo 1003983 Exec -> Pronto por tempo
+3870 : Processo 1006268 Pronto -> Exec
+3871 : Processo 1006268 Exec -> Pronto por tempo
+3872 : Processo 1003983 Pronto -> Exec
+3873 : Processo 1003983 Exec -> Pronto por tempo
+3874 : Processo 1006268 Pronto -> Exec
+3875 : Processo 1006268 Exec -> Pronto por tempo
+3876 : Processo 1003983 Pronto -> Exec
+3877 : Processo 1003983 Exec -> Pronto por tempo
+3878 : Processo 1006268 Pronto -> Exec
+3879 : Processo 1006268 Exec -> Pronto por tempo
+3880 : Processo 1003983 Pronto -> Exec
+3881 : Processo 1003983 Exec -> Pronto por tempo
+3882 : Processo 1006268 Pronto -> Exec
+3883 : Processo 1006268 Exec -> Pronto por tempo
+3884 : Processo 1003983 Pronto -> Exec
+3885 : Processo 1003983 Exec -> Pronto por tempo
+3886 : Processo 1006268 Pronto -> Exec
+3887 : Processo 1006268 Exec -> Pronto por tempo
+3888 : Processo 1003983 Pronto -> Exec
+3889 : Processo 1003983 Exec -> Pronto por tempo
+3890 : Processo 1006268 Pronto -> Exec
+3891 : Processo 1006268 Exec -> Pronto por tempo
+3892 : Processo 1003983 Pronto -> Exec
+3893 : Processo 1003983 Exec -> Pronto por tempo
+3894 : Processo 1006268 Pronto -> Exec
+3895 : Processo 1006268 Exec -> Pronto por tempo
+3896 : Processo 1003983 Pronto -> Exec
+3897 : Processo 1003983 Exec -> Pronto por tempo
+3898 : Processo 1006268 Pronto -> Exec
+3899 : Processo 1006268 Exec -> Pronto por tempo
+3900 : Processo 1003983 Pronto -> Exec
+3901 : Processo 1003983 Exec -> Pronto por tempo
+3902 : Processo 1006268 Pronto -> Exec
+3903 : Processo 1006268 Exec -> Pronto por tempo
+3904 : Processo 1003983 Pronto -> Exec
+3905 : Processo 1003983 Exec -> Pronto por tempo
+3906 : Processo 1006268 Pronto -> Exec
+3907 : Processo 1006268 Exec -> Pronto por tempo
+3908 : Processo 1003983 Pronto -> Exec
+3909 : Processo 1003983 Exec -> Pronto por tempo
+3910 : Processo 1006268 Pronto -> Exec
+3911 : Processo 1006268 Exec -> Pronto por tempo
+3912 : Processo 1003983 Pronto -> Exec
+3913 : Processo 1003983 Exec -> Pronto por tempo
+3914 : Processo 1006268 Pronto -> Exec
+3915 : Processo 1006268 Exec -> Pronto por tempo
+3916 : Processo 1003983 Pronto -> Exec
+3917 : Processo 1003983 Exec -> Pronto por tempo
+3918 : Processo 1006268 Pronto -> Exec
+3919 : Processo 1006268 Exec -> Pronto por tempo
+3920 : Processo 1003983 Pronto -> Exec
+3921 : Processo 1003983 Exec -> Pronto por tempo
+3922 : Processo 1006268 Pronto -> Exec
+3923 : Processo 1006268 Exec -> Pronto por tempo
+3924 : Processo 1003983 Pronto -> Exec
+3925 : Processo 1003983 Exec -> Pronto por tempo
+3926 : Processo 1006268 Pronto -> Exec
+3927 : Processo 1006268 Exec -> Pronto por tempo
+3928 : Processo 1003983 Pronto -> Exec
+3929 : Processo 1003983 Exec -> Pronto por tempo
+3930 : Processo 1006268 Pronto -> Exec
+3931 : Processo 1006268 Exec -> Pronto por tempo
+3932 : Processo 1003983 Pronto -> Exec
+3933 : Processo 1003983 Exec -> Pronto por tempo
+3934 : Processo 1006268 Pronto -> Exec
+3935 : Processo 1006268 Exec -> Pronto por tempo
+3936 : Processo 1003983 Pronto -> Exec
+3937 : Processo 1003983 Exec -> Pronto por tempo
+3938 : Processo 1006268 Pronto -> Exec
+3939 : Processo 1006268 Exec -> Pronto por tempo
+3940 : Processo 1003983 Pronto -> Exec
+3941 : Processo 1003983 Exec -> Pronto por tempo
+3942 : Processo 1006268 Pronto -> Exec
+3943 : Processo 1006268 Exec -> Pronto por tempo
+3944 : Processo 1003983 Pronto -> Exec
+3945 : Processo 1003983 Exec -> Pronto por tempo
+3946 : Processo 1006268 Pronto -> Exec
+3947 : Processo 1006268 Exec -> Pronto por tempo
+3948 : Processo 1003983 Pronto -> Exec
+3949 : Processo 1003983 Exec -> Pronto por tempo
+3950 : Processo 1006268 Pronto -> Exec
+3951 : Processo 1006268 Exec -> Pronto por tempo
+3952 : Processo 1003983 Pronto -> Exec
+3953 : Processo 1003983 Exec -> Pronto por tempo
+3954 : Processo 1006268 Pronto -> Exec
+3955 : Processo 1006268 Exec -> Pronto por tempo
+3956 : Processo 1003983 Pronto -> Exec
+3957 : Processo 1003983 Exec -> Pronto por tempo
+3958 : Processo 1006268 Pronto -> Exec
+3959 : Processo 1006268 Exec -> Pronto por tempo
+3960 : Processo 1003983 Pronto -> Exec
+3961 : Processo 1003983 Exec -> Pronto por tempo
+3962 : Processo 1006268 Pronto -> Exec
+3963 : Processo 1006268 Exec -> Pronto por tempo
+3964 : Processo 1003983 Pronto -> Exec
+3965 : Processo 1003983 Exec -> Pronto por tempo
+3966 : Processo 1006268 Pronto -> Exec
+3967 : Processo 1006268 Exec -> Pronto por tempo
+3968 : Processo 1003983 Pronto -> Exec
+3969 : Processo 1003983 Exec -> Pronto por tempo
+3970 : Processo 1006268 Pronto -> Exec
+3971 : Processo 1006268 Exec -> Pronto por tempo
+3972 : Processo 1003983 Pronto -> Exec
+3973 : Processo 1003983 Exec -> Pronto por tempo
+3974 : Processo 1006268 Pronto -> Exec
+3975 : Processo 1006268 Exec -> Pronto por tempo
+3976 : Processo 1003983 Pronto -> Exec
+3977 : Processo 1003983 Exec -> Pronto por tempo
+3978 : Processo 1006268 Pronto -> Exec
+3979 : Processo 1006268 Exec -> Pronto por tempo
+3980 : Processo 1003983 Pronto -> Exec
+3981 : Processo 1003983 Exec -> Pronto por tempo
+3982 : Processo 1006268 Pronto -> Exec
+3983 : Processo 1006268 Exec -> Pronto por tempo
+3984 : Processo 1003983 Pronto -> Exec
+3985 : Processo 1003983 Exec -> Pronto por tempo
+3986 : Processo 1006268 Pronto -> Exec
+3987 : Processo 1006268 Exec -> Pronto por tempo
+3988 : Processo 1003983 Pronto -> Exec
+3989 : Processo 1003983 Exec -> Pronto por tempo
+3990 : Processo 1006268 Pronto -> Exec
+3991 : Processo 1006268 Exec -> Pronto por tempo
+3992 : Processo 1003983 Pronto -> Exec
+3993 : Processo 1003983 Exec -> Pronto por tempo
+3994 : Processo 1006268 Pronto -> Exec
+3995 : Processo 1006268 Exec -> Pronto por tempo
+3996 : Processo 1003983 Pronto -> Exec
+3997 : Processo 1003983 Exec -> Pronto por tempo
+3998 : Processo 1006268 Pronto -> Exec
+3999 : Processo 1006268 Exec -> Pronto por tempo
+4000 : Processo 1003983 Pronto -> Exec
+4001 : Processo 1003983 Exec -> Pronto por tempo
+4002 : Processo 1006268 Pronto -> Exec
+4003 : Processo 1006268 Exec -> Pronto por tempo
+4004 : Processo 1003983 Pronto -> Exec
+4005 : Processo 1003983 Exec -> Pronto por tempo
+4006 : Processo 1006268 Pronto -> Exec
+4007 : Processo 1006268 Exec -> Pronto por tempo
+4008 : Processo 1003983 Pronto -> Exec
+4009 : Processo 1003983 Exec -> Pronto por tempo
+4010 : Processo 1006268 Pronto -> Exec
+4011 : Processo 1006268 Exec -> Pronto por tempo
+4012 : Processo 1003983 Pronto -> Exec
+4013 : Processo 1003983 Exec -> Pronto por tempo
+4014 : Processo 1006268 Pronto -> Exec
+4015 : Processo 1006268 Exec -> Pronto por tempo
+4016 : Processo 1003983 Pronto -> Exec
+4017 : Processo 1003983 Exec -> Pronto por tempo
+4018 : Processo 1006268 Pronto -> Exec
+4019 : Processo 1006268 Exec -> Pronto por tempo
+4020 : Processo 1003983 Pronto -> Exec
+4021 : Processo 1003983 Exec -> Pronto por tempo
+4022 : Processo 1006268 Pronto -> Exec
+4023 : Processo 1006268 Exec -> Pronto por tempo
+4024 : Processo 1003983 Pronto -> Exec
+4025 : Processo 1003983 Exec -> Pronto por tempo
+4026 : Processo 1006268 Pronto -> Exec
+4027 : Processo 1006268 Exec -> Pronto por tempo
+4028 : Processo 1003983 Pronto -> Exec
+4029 : Processo 1003983 Exec -> Pronto por tempo
+4030 : Processo 1006268 Pronto -> Exec
+4031 : Processo 1006268 Exec -> Pronto por tempo
+4032 : Processo 1003983 Pronto -> Exec
+4033 : Processo 1003983 Exec -> Pronto por tempo
+4034 : Processo 1006268 Pronto -> Exec
+4035 : Processo 1006268 Exec -> Pronto por tempo
+4036 : Processo 1003983 Pronto -> Exec
+4037 : Processo 1003983 Exec -> Pronto por tempo
+4038 : Processo 1006268 Pronto -> Exec
+4039 : Processo 1006268 Exec -> Pronto por tempo
+4040 : Processo 1003983 Pronto -> Exec
+4041 : Processo 1003983 Exec -> Pronto por tempo
+4042 : Processo 1006268 Pronto -> Exec
+4043 : Processo 1006268 Exec -> Pronto por tempo
+4044 : Processo 1003983 Pronto -> Exec
+4045 : Processo 1003983 Exec -> Pronto por tempo
+4046 : Processo 1006268 Pronto -> Exec
+4047 : Processo 1006268 Exec -> Pronto por tempo
+4048 : Processo 1003983 Pronto -> Exec
+4049 : Processo 1003983 Exec -> Pronto por tempo
+4050 : Processo 1006268 Pronto -> Exec
+4051 : Processo 1006268 Exec -> Pronto por tempo
+4052 : Processo 1003983 Pronto -> Exec
+4053 : Processo 1003983 Exec -> Pronto por tempo
+4054 : Processo 1006268 Pronto -> Exec
+4055 : Processo 1006268 Exec -> Pronto por tempo
+4056 : Processo 1003983 Pronto -> Exec
+4057 : Processo 1003983 Exec -> Pronto por tempo
+4058 : Processo 1006268 Pronto -> Exec
+4059 : Processo 1006268 Exec -> Pronto por tempo
+4060 : Processo 1003983 Pronto -> Exec
+4061 : Processo 1003983 Exec -> Pronto por tempo
+4062 : Processo 1006268 Pronto -> Exec
+4063 : Processo 1006268 Exec -> Pronto por tempo
+4064 : Processo 1003983 Pronto -> Exec
+4065 : Processo 1003983 Exec -> Pronto por tempo
+4066 : Processo 1006268 Pronto -> Exec
+4067 : Processo 1006268 Exec -> Pronto por tempo
+4068 : Processo 1003983 Pronto -> Exec
+4069 : Processo 1003983 Exec -> Pronto por tempo
+4070 : Processo 1006268 Pronto -> Exec
+4071 : Processo 1006268 Exec -> Pronto por tempo
+4072 : Processo 1003983 Pronto -> Exec
+4073 : Processo 1003983 Exec -> Pronto por tempo
+4074 : Processo 1006268 Pronto -> Exec
+4075 : Processo 1006268 Exec -> Pronto por tempo
+4076 : Processo 1003983 Pronto -> Exec
+4077 : Processo 1003983 Exec -> Pronto por tempo
+4078 : Processo 1006268 Pronto -> Exec
+4079 : Processo 1006268 Exec -> Pronto por tempo
+4080 : Processo 1003983 Pronto -> Exec
+4081 : Processo 1003983 Exec -> Pronto por tempo
+4082 : Processo 1006268 Pronto -> Exec
+4083 : Processo 1006268 Exec -> Pronto por tempo
+4084 : Processo 1003983 Pronto -> Exec
+4085 : Processo 1003983 Exec -> Pronto por tempo
+4086 : Processo 1006268 Pronto -> Exec
+4087 : Processo 1006268 Exec -> Pronto por tempo
+4088 : Processo 1003983 Pronto -> Exec
+4089 : Processo 1003983 Exec -> Pronto por tempo
+4090 : Processo 1006268 Pronto -> Exec
+4091 : Processo 1006268 Exec -> Pronto por tempo
+4092 : Processo 1003983 Pronto -> Exec
+4093 : Processo 1003983 Exec -> Pronto por tempo
+4094 : Processo 1006268 Pronto -> Exec
+4095 : Processo 1006268 Exec -> Pronto por tempo
+4096 : Processo 1003983 Pronto -> Exec
+4097 : Processo 1003983 Exec -> Pronto por tempo
+4098 : Processo 1006268 Pronto -> Exec
+4099 : Processo 1006268 Exec -> Pronto por tempo
+4100 : Processo 1003983 Pronto -> Exec
+4101 : Processo 1003983 Exec -> Pronto por tempo
+4102 : Processo 1006268 Pronto -> Exec
+4103 : Processo 1006268 Exec -> Pronto por tempo
+4104 : Processo 1003983 Pronto -> Exec
+4105 : Processo 1003983 Exec -> Pronto por tempo
+4106 : Processo 1006268 Pronto -> Exec
+4107 : Processo 1006268 Exec -> Pronto por tempo
+4108 : Processo 1003983 Pronto -> Exec
+4109 : Processo 1003983 Exec -> Pronto por tempo
+4110 : Processo 1006268 Pronto -> Exec
+4111 : Processo 1006268 Exec -> Pronto por tempo
+4112 : Processo 1003983 Pronto -> Exec
+4113 : Processo 1003983 Exec -> Pronto por tempo
+4114 : Processo 1006268 Pronto -> Exec
+4115 : Processo 1006268 Exec -> Pronto por tempo
+4116 : Processo 1003983 Pronto -> Exec
+4117 : Processo 1003983 Exec -> Pronto por tempo
+4118 : Processo 1006268 Pronto -> Exec
+4119 : Processo 1006268 Exec -> Pronto por tempo
+4120 : Processo 1003983 Pronto -> Exec
+4121 : Processo 1003983 Exec -> Pronto por tempo
+4122 : Processo 1006268 Pronto -> Exec
+4123 : Processo 1006268 Exec -> Pronto por tempo
+4124 : Processo 1003983 Pronto -> Exec
+4125 : Processo 1003983 Exec -> Pronto por tempo
+4126 : Processo 1006268 Pronto -> Exec
+4127 : Processo 1006268 Exec -> Pronto por tempo
+4128 : Processo 1003983 Pronto -> Exec
+4129 : Processo 1003983 Exec -> Pronto por tempo
+4130 : Processo 1006268 Pronto -> Exec
+4131 : Processo 1006268 Exec -> Pronto por tempo
+4132 : Processo 1003983 Pronto -> Exec
+4133 : Processo 1003983 Exec -> Pronto por tempo
+4134 : Processo 1006268 Pronto -> Exec
+4135 : Processo 1006268 Exec -> Pronto por tempo
+4136 : Processo 1003983 Pronto -> Exec
+4137 : Processo 1003983 Exec -> Pronto por tempo
+4138 : Processo 1006268 Pronto -> Exec
+4139 : Processo 1006268 Exec -> Pronto por tempo
+4140 : Processo 1003983 Pronto -> Exec
+4141 : Processo 1003983 Exec -> Pronto por tempo
+4142 : Processo 1006268 Pronto -> Exec
+4143 : Processo 1006268 Exec -> Pronto por tempo
+4144 : Processo 1003983 Pronto -> Exec
+4145 : Processo 1003983 Exec -> Pronto por tempo
+4146 : Processo 1006268 Pronto -> Exec
+4147 : Processo 1006268 Exec -> Pronto por tempo
+4148 : Processo 1003983 Pronto -> Exec
+4149 : Processo 1003983 Exec -> Pronto por tempo
+4150 : Processo 1006268 Pronto -> Exec
+4151 : Processo 1006268 Exec -> Pronto por tempo
+4152 : Processo 1003983 Pronto -> Exec
+4153 : Processo 1003983 Exec -> Pronto por tempo
+4154 : Processo 1006268 Pronto -> Exec
+4155 : Processo 1006268 Exec -> Pronto por tempo
+4156 : Processo 1003983 Pronto -> Exec
+4157 : Processo 1003983 Exec -> Pronto por tempo
+4158 : Processo 1006268 Pronto -> Exec
+4159 : Processo 1006268 Exec -> Pronto por tempo
+4160 : Processo 1003983 Pronto -> Exec
+4161 : Processo 1003983 Exec -> Pronto por tempo
+4162 : Processo 1006268 Pronto -> Exec
+4163 : Processo 1006268 Exec -> Pronto por tempo
+4164 : Processo 1003983 Pronto -> Exec
+4165 : Processo 1003983 Exec -> Pronto por tempo
+4166 : Processo 1006268 Pronto -> Exec
+4167 : Processo 1006268 Exec -> Pronto por tempo
+4168 : Processo 1003983 Pronto -> Exec
+4169 : Processo 1003983 Exec -> Pronto por tempo
+4170 : Processo 1006268 Pronto -> Exec
+4171 : Processo 1006268 Exec -> Pronto por tempo
+4172 : Processo 1003983 Pronto -> Exec
+4173 : Processo 1003983 Exec -> Pronto por tempo
+4174 : Processo 1006268 Pronto -> Exec
+4175 : Processo 1006268 Exec -> Pronto por tempo
+4176 : Processo 1003983 Pronto -> Exec
+4177 : Processo 1003983 Exec -> Pronto por tempo
+4178 : Processo 1006268 Pronto -> Exec
+4179 : Processo 1006268 Exec -> Pronto por tempo
+4180 : Processo 1003983 Pronto -> Exec
+4181 : Processo 1003983 Exec -> Pronto por tempo
+4182 : Processo 1006268 Pronto -> Exec
+4183 : Processo 1006268 Exec -> Pronto por tempo
+4184 : Processo 1003983 Pronto -> Exec
+4185 : Processo 1003983 Exec -> Pronto por tempo
+4186 : Processo 1006268 Pronto -> Exec
+4187 : Processo 1006268 Exec -> Pronto por tempo
+4188 : Processo 1003983 Pronto -> Exec
+4189 : Processo 1003983 Exec -> Pronto por tempo
+4190 : Processo 1006268 Pronto -> Exec
+4191 : Processo 1006268 Exec -> Pronto por tempo
+4192 : Processo 1003983 Pronto -> Exec
+4193 : Processo 1003983 Exec -> Pronto por tempo
+4194 : Processo 1006268 Pronto -> Exec
+4195 : Processo 1006268 Exec -> Pronto por tempo
+4196 : Processo 1003983 Pronto -> Exec
+4197 : Processo 1003983 Exec -> Pronto por tempo
+4198 : Processo 1006268 Pronto -> Exec
+4199 : Processo 1006268 Exec -> Pronto por tempo
+4200 : Processo 1003983 Pronto -> Exec
+4201 : Processo 1003983 Exec -> Pronto por tempo
+4202 : Processo 1006268 Pronto -> Exec
+4203 : Processo 1006268 Exec -> Pronto por tempo
+4204 : Processo 1003983 Pronto -> Exec
+4205 : Processo 1003983 Exec -> Pronto por tempo
+4206 : Processo 1006268 Pronto -> Exec
+4207 : Processo 1006268 Exec -> Pronto por tempo
+4208 : Processo 1003983 Pronto -> Exec
+4209 : Processo 1003983 Exec -> Pronto por tempo
+4210 : Processo 1006268 Pronto -> Exec
+4211 : Processo 1006268 Exec -> Pronto por tempo
+4212 : Processo 1003983 Pronto -> Exec
+4213 : Processo 1003983 Exec -> Pronto por tempo
+4214 : Processo 1006268 Pronto -> Exec
+4215 : Processo 1006268 Exec -> Pronto por tempo
+4216 : Processo 1003983 Pronto -> Exec
+4217 : Processo 1003983 Exec -> Pronto por tempo
+4218 : Processo 1006268 Pronto -> Exec
+4219 : Processo 1006268 Exec -> Pronto por tempo
+4220 : Processo 1003983 Pronto -> Exec
+4221 : Processo 1003983 Exec -> Pronto por tempo
+4222 : Processo 1006268 Pronto -> Exec
+4223 : Processo 1006268 Exec -> Pronto por tempo
+4224 : Processo 1003983 Pronto -> Exec
+4225 : Processo 1003983 Exec -> Pronto por tempo
+4226 : Processo 1006268 Pronto -> Exec
+4227 : Processo 1006268 Exec -> Pronto por tempo
+4228 : Processo 1003983 Pronto -> Exec
+4229 : Processo 1003983 Exec -> Pronto por tempo
+4230 : Processo 1006268 Pronto -> Exec
+4231 : Processo 1006268 Exec -> Pronto por tempo
+4232 : Processo 1003983 Pronto -> Exec
+4233 : Processo 1003983 Exec -> Pronto por tempo
+4234 : Processo 1006268 Pronto -> Exec
+4235 : Processo 1006268 Exec -> Pronto por tempo
+4236 : Processo 1003983 Pronto -> Exec
+4237 : Processo 1003983 Exec -> Pronto por tempo
+4238 : Processo 1006268 Pronto -> Exec
+4239 : Processo 1006268 Exec -> Pronto por tempo
+4240 : Processo 1003983 Pronto -> Exec
+4241 : Processo 1003983 Exec -> Pronto por tempo
+4242 : Processo 1006268 Pronto -> Exec
+4243 : Processo 1006268 Exec -> Pronto por tempo
+4244 : Processo 1003983 Pronto -> Exec
+4245 : Processo 1003983 Exec -> Pronto por tempo
+4246 : Processo 1006268 Pronto -> Exec
+4247 : Processo 1006268 Exec -> Pronto por tempo
+4248 : Processo 1003983 Pronto -> Exec
+4249 : Processo 1003983 Exec -> Pronto por tempo
+4250 : Processo 1006268 Pronto -> Exec
+4251 : Processo 1006268 Exec -> Pronto por tempo
+4252 : Processo 1003983 Pronto -> Exec
+4253 : Processo 1003983 Exec -> Pronto por tempo
+4254 : Processo 1006268 Pronto -> Exec

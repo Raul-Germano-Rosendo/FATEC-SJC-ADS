@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Folha Hotel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Folha de Pagamento - Hotel</h1>
+    <form id="folhaForm">
+        <label>Código: <input type="number" id="codigo" required></label><br>
+        <label>Horas trabalhadas: <input type="number" id="horas" required></label><br>
+        <label>Turno (M/V/N): <input type="text" id="turno" maxlength="1" required></label><br>
+        <label>Categoria (F/G): <input type="text" id="categoria" maxlength="1" required></label><br>
+        <label>Salário mínimo: <input type="number" id="salmin" step="0.01" required></label><br>
+        <button type="submit">Calcular</button>
+    </form>
+    <pre id="saida"></pre>
+    <script src="hotel.js"></script>
+</body>
+</html>

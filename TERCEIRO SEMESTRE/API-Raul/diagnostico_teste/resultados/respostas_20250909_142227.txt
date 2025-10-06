@@ -1,0 +1,129 @@
+Aqui estão as minhas escolhas:
+
+**Dimensão: Pessoas & Cultura**
+
+Pergunta 1: Como a comunicação acontece no dia a dia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A comunicação é um ponto forte da empresa, mas há ocasiões em que ela pode ser confusa ou não muito eficaz.
+Pontuação: 2,5/4
+
+Pergunta 2: Como você descreveria o estilo de liderança predominante?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: O estilo de liderança é geralmente eficaz, mas há ocasiões em que ele pode não ser muito colaborativo ou comunicativo.
+Pontuação: 2,5/4
+
+Pergunta 3: Quando surgem problemas, como os times costumam agir?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Os times são geralmente eficazes em resolver problemas, mas há ocasiões em que eles podem não ser muito proativos ou coordenados.
+Pontuação: 2,5/4
+
+Pergunta 4: Como está organizada a rotina de trabalho?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A rotina de trabalho é geralmente bem organizada, mas há ocasiões em que ela pode não ser muito flexível ou adaptável.
+Pontuação: 2,5/4
+
+Pergunta 5: Até que ponto os valores da empresa estão presentes no dia a dia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Os valores da empresa são geralmente bem integrados à cultura da empresa, mas há ocasiões em que eles podem não ser muito vivos ou aplicáveis.
+Pontuação: 2,5/4
+
+Pergunta 6: Quais ferramentas apoiam pessoas & cultura?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As ferramentas para apoio a pessoas e cultura são geralmente adequadas, mas há ocasiões em que elas podem não ser muito eficazes ou utilizadas corretamente.
+Pontuação: 2,5/4
+
+**Dimensão: Estrutura & Operações**
+
+Pergunta 1: Como é a troca de informações entre áreas?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A troca de informações entre áreas é geralmente bem realizada, mas há ocasiões em que ela pode não ser muito eficaz ou completa.
+Pontuação: 2,5/4
+
+Pergunta 2: Como os gestores lidam com delegação?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Os gestores geralmente são bons em delegar tarefas, mas há ocasiões em que eles podem não ser muito eficazes ou desconfiados.
+Pontuação: 2,5/4
+
+Pergunta 3: Quando processos falham, o que acontece?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Quando os processos falham, a empresa geralmente tem um plano de contingência, mas há ocasiões em que ele pode não ser muito eficaz ou aplicado corretamente.
+Pontuação: 2,5/4
+
+Pergunta 4: Quanta autonomia operacional os colaboradores têm?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Os colaboradores geralmente têm uma boa dose de autonomia, mas há ocasiões em que ela pode não ser muito eficaz ou aplicada corretamente.
+Pontuação: 2,5/4
+
+Pergunta 5: Qual é a relação da empresa com padrões de qualidade?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem uma boa relação com padrões de qualidade, mas há ocasiões em que ela pode não ser muito rigorosa ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 6: Quais ferramentas apoiam as operações do dia a dia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As ferramentas para apoio às operações do dia a dia são geralmente adequadas, mas há ocasiões em que elas podem não ser muito eficazes ou utilizadas corretamente.
+Pontuação: 2,5/4
+
+**Dimensão: Mercado & Clientes**
+
+Pergunta 1: Como a empresa ouve seus clientes?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem uma boa estratégia de ouvir os clientes, mas há ocasiões em que ela pode não ser muito eficaz ou aplicada corretamente.
+Pontuação: 2,5/4
+
+Pergunta 2: Como vendas e atendimento trabalham juntos?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As áreas de vendas e atendimento geralmente trabalham bem juntas, mas há ocasiões em que elas podem não ser muito eficazes ou coordenadas.
+Pontuação: 2,5/4
+
+Pergunta 3: Quando o mercado muda, como a empresa reage?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem um plano de contingência para mudanças no mercado, mas há ocasiões em que ele pode não ser muito eficaz ou aplicado corretamente.
+Pontuação: 2,5/4
+
+Pergunta 4: Como é o acompanhamento de metas comerciais?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem um bom acompanhamento de metas comerciais, mas há ocasiões em que ela pode não ser muito eficaz ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 5: O diferencial competitivo está claro?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem um bom diferencial competitivo, mas há ocasiões em que ele pode não ser muito eficaz ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 6: Quais ferramentas apoiam mercado & clientes?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As ferramentas para apoio ao mercado e clientes são geralmente adequadas, mas há ocasiões em que elas podem não ser muito eficazes ou utilizadas corretamente.
+Pontuação: 2,5/4
+
+**Dimensão: Direção & Futuro**
+
+Pergunta 1: Como a visão de futuro é comunicada?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A visão de futuro é geralmente bem comunicada, mas há ocasiões em que ela pode não ser muito eficaz ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 2: Como os líderes conectam pessoas à estratégia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: Os líderes geralmente são bons em conectar as pessoas à estratégia, mas há ocasiões em que eles podem não ser muito eficazes ou aplicáveis.
+Pontuação: 2,5/4
+
+Pergunta 3: Qual é o papel da inovação no planejamento?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A inovação é geralmente bem integrada ao planejamento, mas há ocasiões em que ela pode não ser muito eficaz ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 4: Como as atividades diárias se conectam com a estratégia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As atividades diárias geralmente são bem conectadas à estratégia, mas há ocasiões em que elas podem não ser muito eficazes ou aplicáveis.
+Pontuação: 2,5/4
+
+Pergunta 5: Como a empresa lida com propósito e impacto social?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: A empresa geralmente tem uma boa abordagem para propósito e impacto social, mas há ocasiões em que ela pode não ser muito eficaz ou aplicável.
+Pontuação: 2,5/4
+
+Pergunta 6: Quais ferramentas apoiam a estratégia?
+Opção escolhida: (3) Bom, mas com falhas
+Descrição: As ferramentas para apoio à estratégia são geralmente adequadas, mas há ocasiões em que elas podem não ser muito eficazes ou utilizadas corretamente.
+Pontuação: 2,5/4

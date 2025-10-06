@@ -1,0 +1,190 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+541 : Processo 4932308 alocacao de blocos no pagefile
+541 : Processo 4932308 HwPF - Executável0
+541 : Processo 4932308 HwPF - Executável1
+541 : Processo 4932308 HwPF - Executável2
+541 : Processo 4932308 HwPF - Executável3
+541 : Processo 4932308 HwPF - Executável4
+541 : Processo 4932308 criado
+542 : Processo 4932308 Pronto -> Exec
+543 : Processo 4932308 Exec -> Pronto por tempo
+544 : Processo 4932308 Pronto -> Exec
+545 : Processo 4932308 Exec -> Pronto por tempo
+546 : Processo 4932308 Pronto -> Exec
+547 : Processo 4932308 Exec -> Pronto por tempo
+547 : Processo 4938013 alocacao de blocos no pagefile
+547 : Processo 4938013 HwPF - Executável0
+547 : Processo 4938013 HwPF - Executável1
+547 : Processo 4938013 HwPF - Executável2
+547 : Processo 4938013 HwPF - Executável3
+547 : Processo 4938013 HwPF - Executável4
+547 : Processo 4938013 criado
+548 : Processo 4932308 Pronto -> Exec
+549 : Processo 4932308 Exec -> Pronto por tempo
+550 : Processo 4938013 Pronto -> Exec
+551 : Processo 4938013 Exec -> Pronto por tempo
+552 : Processo 4932308 Pronto -> Exec
+553 : Processo 4932308 Exec -> Pronto por tempo
+554 : Processo 4938013 Pronto -> Exec
+555 : Processo 4938013 Exec -> Pronto por tempo
+556 : Processo 4932308 Pronto -> Exec
+557 : Processo 4932308 Exec -> Pronto por tempo
+558 : Processo 4938013 Pronto -> Exec
+559 : Processo 4938013 Exec -> Pronto por tempo
+560 : Processo 4932308 Pronto -> Exec
+561 : Processo 4932308 Exec -> Pronto por tempo
+562 : Processo 4938013 Pronto -> Exec
+563 : Processo 4938013 Exec -> Pronto por tempo
+564 : Processo 4932308 Pronto -> Exec
+565 : Processo 4932308 Exec -> Pronto por tempo
+566 : Processo 4938013 Pronto -> Exec
+567 : Processo 4938013 Exec -> Pronto por tempo
+568 : Processo 4932308 Pronto -> Exec
+569 : Processo 4932308 Exec -> Pronto por tempo
+570 : Processo 4938013 Pronto -> Exec
+571 : Processo 4938013 Exec -> Pronto por tempo
+572 : Processo 4932308 Pronto -> Exec
+573 : Processo 4932308 Exec -> Pronto por tempo
+574 : Processo 4938013 Pronto -> Exec
+575 : Processo 4938013 Exec -> Pronto por tempo
+576 : Processo 4932308 Pronto -> Exec
+577 : Processo 4932308 Exec -> Pronto por tempo
+578 : Processo 4938013 Pronto -> Exec
+579 : Processo 4938013 Exec -> Pronto por tempo
+580 : Processo 4932308 Pronto -> Exec
+581 : Processo 4932308 Exec -> Pronto por tempo
+582 : Processo 4938013 Pronto -> Exec
+583 : Processo 4938013 Exec -> Pronto por tempo
+584 : Processo 4932308 Pronto -> Exec
+585 : Processo 4932308 Exec -> Pronto por tempo
+586 : Processo 4938013 Pronto -> Exec
+587 : Processo 4938013 Exec -> Pronto por tempo
+588 : Processo 4932308 Pronto -> Exec
+589 : Processo 4932308 Exec -> Pronto por tempo
+590 : Processo 4938013 Pronto -> Exec
+591 : Processo 4938013 Exec -> Pronto por tempo
+592 : Processo 4932308 Pronto -> Exec
+593 : Processo 4932308 Exec -> Pronto por tempo
+594 : Processo 4938013 Pronto -> Exec
+595 : Processo 4938013 Exec -> Pronto por tempo
+596 : Processo 4932308 Pronto -> Exec
+597 : Processo 4932308 Exec -> Pronto por tempo
+598 : Processo 4938013 Pronto -> Exec
+599 : Processo 4938013 Exec -> Pronto por tempo
+600 : Processo 4932308 Pronto -> Exec
+601 : Processo 4932308 Exec -> Pronto por tempo
+602 : Processo 4938013 Pronto -> Exec
+603 : Processo 4938013 Exec -> Pronto por tempo
+604 : Processo 4932308 Pronto -> Exec
+605 : Processo 4932308 Exec -> Pronto por tempo
+606 : Processo 4938013 Pronto -> Exec
+607 : Processo 4938013 Exec -> Pronto por tempo
+608 : Processo 4932308 Pronto -> Exec
+609 : Processo 4932308 Exec -> Pronto por tempo
+610 : Processo 4938013 Pronto -> Exec
+611 : Processo 4938013 Exec -> Pronto por tempo
+612 : Processo 4932308 Pronto -> Exec
+613 : Processo 4932308 Exec -> Pronto por tempo
+614 : Processo 4938013 Pronto -> Exec
+615 : Processo 4938013 Exec -> Pronto por tempo
+616 : Processo 4932308 Pronto -> Exec
+617 : Processo 4932308 Exec -> Pronto por tempo
+618 : Processo 4938013 Pronto -> Exec
+619 : Processo 4938013 Exec -> Pronto por tempo
+620 : Processo 4932308 Pronto -> Exec
+621 : Processo 4932308 Exec -> Pronto por tempo
+622 : Processo 4938013 Pronto -> Exec
+623 : Processo 4938013 Exec -> Pronto por tempo
+624 : Processo 4932308 Pronto -> Exec
+625 : Processo 4932308 Exec -> Pronto por tempo
+626 : Processo 4938013 Pronto -> Exec
+627 : Processo 4938013 Exec -> Pronto por tempo
+628 : Processo 4932308 Pronto -> Exec
+629 : Processo 4932308 Exec -> Pronto por tempo
+630 : Processo 4938013 Pronto -> Exec
+631 : Processo 4938013 Exec -> Pronto por tempo
+632 : Processo 4932308 Pronto -> Exec
+633 : Processo 4932308 Exec -> Pronto por tempo
+634 : Processo 4938013 Pronto -> Exec
+635 : Processo 4938013 Exec -> Pronto por tempo
+636 : Processo 4932308 Pronto -> Exec
+637 : Processo 4932308 Exec -> Pronto por tempo
+638 : Processo 4938013 Pronto -> Exec
+639 : Processo 4938013 Exec -> Pronto por tempo
+640 : Processo 4932308 Pronto -> Exec
+641 : Processo 4932308 Exec -> Pronto por tempo
+642 : Processo 4938013 Pronto -> Exec
+643 : Processo 4938013 Exec -> Pronto por tempo
+644 : Processo 4932308 Pronto -> Exec
+645 : Processo 4932308 Exec -> Pronto por tempo
+646 : Processo 4938013 Pronto -> Exec
+647 : Processo 4938013 Exec -> Pronto por tempo
+648 : Processo 4932308 Pronto -> Exec
+649 : Processo 4932308 Exec -> Pronto por tempo
+650 : Processo 4938013 Pronto -> Exec
+651 : Processo 4938013 Exec -> Pronto por tempo
+652 : Processo 4932308 Pronto -> Exec
+653 : Processo 4932308 Exec -> Pronto por tempo
+654 : Processo 4938013 Pronto -> Exec
+655 : Processo 4938013 Exec -> Pronto por tempo
+656 : Processo 4932308 Pronto -> Exec
+657 : Processo 4932308 Exec -> Pronto por tempo
+658 : Processo 4938013 Pronto -> Exec
+659 : Processo 4938013 Exec -> Pronto por tempo
+660 : Processo 4932308 Pronto -> Exec
+661 : Processo 4932308 Exec -> Pronto por tempo
+662 : Processo 4938013 Pronto -> Exec
+663 : Processo 4938013 Exec -> Pronto por tempo
+664 : Processo 4932308 Pronto -> Exec
+665 : Processo 4932308 Exec -> Pronto por tempo
+666 : Processo 4938013 Pronto -> Exec
+667 : Processo 4938013 Exec -> Pronto por tempo
+668 : Processo 4932308 Pronto -> Exec
+669 : Processo 4932308 Exec -> Pronto por tempo
+670 : Processo 4938013 Pronto -> Exec
+671 : Processo 4938013 Exec -> Pronto por tempo
+672 : Processo 4932308 Pronto -> Exec
+673 : Processo 4932308 Exec -> Pronto por tempo
+674 : Processo 4938013 Pronto -> Exec
+675 : Processo 4938013 Exec -> Pronto por tempo
+676 : Processo 4932308 Pronto -> Exec
+677 : Processo 4932308 Exec -> Pronto por tempo
+678 : Processo 4938013 Pronto -> Exec
+679 : Processo 4938013 Exec -> Pronto por tempo
+680 : Processo 4932308 Pronto -> Exec
+681 : Processo 4932308 Exec -> Pronto por tempo
+682 : Processo 4938013 Pronto -> Exec
+683 : Processo 4938013 Exec -> Pronto por tempo
+684 : Processo 4932308 Pronto -> Exec
+685 : Processo 4932308 Exec -> Pronto por tempo
+686 : Processo 4938013 Pronto -> Exec
+687 : Processo 4938013 Exec -> Pronto por tempo
+688 : Processo 4932308 Pronto -> Exec
+689 : Processo 4932308 Exec -> Pronto por tempo
+690 : Processo 4938013 Pronto -> Exec
+691 : Processo 4938013 Exec -> Pronto por tempo
+692 : Processo 4932308 Pronto -> Exec
+693 : Processo 4932308 Exec -> Pronto por tempo
+694 : Processo 4938013 Pronto -> Exec
+695 : Processo 4938013 Exec -> Pronto por tempo
+696 : Processo 4932308 Pronto -> Exec
+697 : Processo 4932308 Exec -> Pronto por tempo
+698 : Processo 4938013 Pronto -> Exec
+699 : Processo 4938013 Exec -> Pronto por tempo
+700 : Processo 4932308 Pronto -> Exec
+701 : Processo 4932308 Exec -> Pronto por tempo
+702 : Processo 4938013 Pronto -> Exec
+703 : Processo 4938013 Exec -> Pronto por tempo
+704 : Processo 4932308 Pronto -> Exec
+705 : Processo 4932308 Exec -> Pronto por tempo
+706 : Processo 4938013 Pronto -> Exec
+707 : Processo 4938013 Exec -> Pronto por tempo
+708 : Processo 4932308 Pronto -> Exec
+709 : Processo 4932308 Exec -> Pronto por tempo
+710 : Processo 4938013 Pronto -> Exec
+711 : Processo 4938013 Exec -> Pronto por tempo
+712 : Processo 4932308 Pronto -> Exec
+713 : Processo 4932308 Exec -> Pronto por tempo
+714 : Processo 4938013 Pronto -> Exec
+715 : Processo 4938013 Exec -> Pronto por tempo

@@ -1,0 +1,26 @@
+EP01
+1. Para comparar vários algoritmos não é suficiente rodar uma única vez
+2. Para ser justo, preciso que eles tenha a mesma entrada, por isso preciso salvar o vetor no início e repetir para cada algoritmo
+3. Eu estou aumentando o vetor a cada passo, assim posso ver a curva de crescimento do tempo
+
+EP2
+O Rei Arthur tem dois problemas:
+1. Casar 150 damas, respeitando suas preferências, com 150 cavaleiros
+2. Colocar os 150 cavaleiros numa mesa redonda, respeitando que o vizinho de cada um seja amigo, na mesa
+Os dois problemas são *muito* difíceis de resolver. 
+No caso das damas, vejo um marido para a primeira dama, sobram menos possibilidades para a segunda, vejo um marido para a segunda, sobram cada vez menos possibilidades para a terceira e assim por diante. Se o processo der errado, tenho que voltar para mudar os maridos escolhidos. São 150! possibilidades, isto é vai demorar *muito* até chegar ao final do processamento de um possível algoritmo.
+No caso dos cavaleiros é a mesma coisa, escolho um para ir para a mesa, o segundo tem que ser amigo do primeiro, o terceiro tem que ser amigo do segundo, e assim por diante, quando se chegar a um impasse, terei que voltar e trocar os que já estão na mesa.
+Existe uma diferença importante entre os dois problemas!
+No caso das damas, se eu encontrar um subconjunto de damas, cujo número de queridos seja menor, mostro ao Rei Arthur e ele nem começa o projeto. No caso dos cavaleiros, só existe a possibilidade de testar todas as 150! permutações para mostrar que é difícil.
+Imaginem uma empresa parceira no API, se o projeto é inviável de ser feito em um semestre, posso mostrar no início que é muito difícil, mostrando um requisito de difícil implementação. Houve um semestre do DSM com projeto de Tile Dinâmico (ex. carrossel de fotos num e-commerce) para a empresa Visiona, no início os professores e funcionários da empresa pensaram ser algo factível em um semestre e passaram o projeto para os alunos. No final de novembro os alunos já estão desesperados e conversam com a empresa e a coordenação da FATEC. O problema era que as imagens eram muito grandes, pois eram imagens de satélite, e o Tile Dinâmico ficou inviável. Apenas uma equipe conseguiu implementar, mas no Jupyter Notebook, e não no site do projeto.
+
+EP3
+Identificando Imagens binárias
+Inicialmente geramos uma matriz de zeros e uns, conforme a entrada
+Começo uma lista regiões = []
+Fazemos a varredura de cima para baixo, esquerda para a direita
+Caso encontremos um número 1, verifico em cima e do lado esquerdo se tem 1 também
+Se o lado esquerdo tem 1, procuro a coordenada nas regiões existentes, e incluo naquela região
+Se o elemento de cima também tem 1, significa que estou juntando duas regiões
+*Juntar duas regiões é a operação mais complexa*
+Se não tem 1 nem à esquerda, e nem em cima, significa que devo começar uma nova região regiões.append([(j, k)]), incluindo uma nova lista, com um único elemento, que é a coordenada
