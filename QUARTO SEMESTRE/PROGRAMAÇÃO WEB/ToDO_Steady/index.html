@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steady - To-Do List Kanban</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Steady</h1>
+        <div class="header-controls">
+            <input type="text" id="search" placeholder="Buscar tarefas...">
+            <select id="filter-priority">
+                <option value="">Todas as prioridades</option>
+                <option value="low">Baixa</option>
+                <option value="medium">Média</option>
+                <option value="high">Alta</option>
+            </select>
+            <button id="theme-toggle">🌙</button>
+            <button id="export-btn">Exportar</button>
+            <input type="file" id="import-input" accept=".json" style="display: none;">
+            <button id="import-btn">Importar</button>
+        </div>
+    </header>
+
+    <main>
+        <div id="stats-container" class="stats-panel"></div>
+        <div class="kanban-board">
+            <div class="column" data-status="todo">
+                <h2>A Fazer <span class="counter" id="todo-counter">0</span></h2>
+                <div class="task-list" id="todo-list"></div>
+                <button class="add-task-btn" data-status="todo">+</button>
+            </div>
+            <div class="column" data-status="in-progress">
+                <h2>Em Progresso <span class="counter" id="in-progress-counter">0</span></h2>
+                <div class="task-list" id="in-progress-list"></div>
+                <button class="add-task-btn" data-status="in-progress">+</button>
+            </div>
+            <div class="column" data-status="done">
+                <h2>Concluído <span class="counter" id="done-counter">0</span></h2>
+                <div class="task-list" id="done-list"></div>
+                <button class="add-task-btn" data-status="done">+</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal para criar/editar tarefa -->
+    <div id="task-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-title">Nova Tarefa</h2>
+            <form id="task-form">
+                <input type="text" id="task-title" placeholder="Título da tarefa" required>
+                <textarea id="task-description" placeholder="Descrição" rows="4"></textarea>
+                <select id="task-priority">
+                    <option value="low">Baixa</option>
+                    <option value="medium">Média</option>
+                    <option value="high">Alta</option>
+                </select>
+                <input type="text" id="task-tags" placeholder="Tags (separadas por vírgula)">
+                <input type="text" id="task-assigned-to" placeholder="Atribuído para (opcional)">
+                <div id="custom-fields-container">
+                    <h4>Campos Personalizados</h4>
+                    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem; font-style: italic;">Adicione informações extras como links, emails ou datas importantes</p>
+                    <div id="custom-fields-list"></div>
+                    <button type="button" id="add-custom-field">➕ Adicionar Campo Personalizado</button>
+                </div>
+                <div id="comments-container">
+                    <h4>Comentários</h4>
+                    <div id="comments-list"></div>
+                    <div class="comment-input-container">
+                        <input type="text" id="comment-text" placeholder="Adicionar comentário..." maxlength="500">
+                        <input type="text" id="comment-author" placeholder="Seu nome" maxlength="50">
+                        <button type="button" id="add-comment">💬</button>
+                    </div>
+                </div>
+                <button type="submit">Salvar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal de confirmação para excluir -->
+    <div id="delete-modal" class="modal">
+        <div class="modal-content">
+            <p>Tem certeza que deseja excluir esta tarefa?</p>
+            <button id="confirm-delete">Sim</button>
+            <button id="cancel-delete">Não</button>
+        </div>
+    </div>
+
+    <!-- Notificação -->
+    <div id="notification" class="notification"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/task.js"></script>
+    <script src="js/kanban.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/stats.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
+
+
