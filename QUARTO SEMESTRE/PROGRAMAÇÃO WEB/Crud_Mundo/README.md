@@ -1,118 +1,132 @@
-# CRUD Mundo — FATEC SJC
+# CRUD Mundo — Manual do Usuário (FATEC SJC)
 
-Projeto web (HTML/CSS/JS) com **CRUD de Países, Cidades e Continentes** e **consulta de clima**.
+Aplicação web para gerenciar **Países**, **Cidades** e **Continentes**, além de **consultar clima** de uma cidade (usando latitude/longitude).
 
-- Dados persistemvia **IndexedDB**.
-- Clima é consultado gratuitamente via **Open-Meteo** (sem chave).
-- Cidades podem ter **lat/lng buscados automaticamente** via **Open-Meteo Geocoding API**.
+- Os dados são salvos no navegador via **IndexedDB**.
+- O clima é consultado gratuitamente via **Open-Meteo**.
+- É possível buscar automaticamente **latitude/longitude** de uma cidade via **Open-Meteo Geocoding API**.
 
 ---
 
-## Funcionalidades
+## 1) Tela inicial e navegação
 
-### 1) Países
-- Cadastro e edição de:
-  - Nome
-  - Código ISO (2 letras)
-  - Continente
-  - Capital
-  - População
-  - Área (km²)
-  - Moeda
-- Listagem com busca local (campo `busca-pais`).
-- Excluir país (observação: cidades vinculadas ficam sem país).
+No topo da página há abas:
 
-### 2) Continentes
-- Cadastro e edição de:
-  - Nome
-  - Área (km²)
-  - População
-  - Quantidade de países
-  - Notas
-- Seed de dados padrão com 7 continentes.
+- **Países**: cadastrar, listar, editar e excluir países.
+- **Cidades**: cadastrar, listar, editar e excluir cidades.
+- **Continentes**: cadastrar e listar continentes (com seed de dados).
+- **Clima**: consultar o clima usando cidades com lat/lng cadastradas ou coordenadas manuais.
 
-### 3) Cidades
-- Cadastro e edição de:
-  - Nome
-  - País (select)
-  - População
-  - Latitude
-  - Longitude
-  - Tipo (capital / metrópole / cidade / município)
-- Listagem com busca local (campo `busca-cidade`).
+---
 
-#### Busca por cidade via API (lat/lng + população)
-No formulário de **Cadastrar Cidade** há o botão:
+## 2) Como usar a aba “Países”
 
-- **🔍 Buscar cidade via API**
+### 2.1) Cadastrar país
+1. Preencha:
+   - Nome do país
+   - Código ISO (2 letras)
+   - Continente
+   - Capital
+   - População
+   - Área (km²)
+   - Moeda
+2. Clique em **“💾 Salvar País”**.
+
+### 2.2) Buscar via API (opcional)
+1. Preencha apenas o campo **Nome do País**.
+2. Clique em **“🔍 Buscar via API”**.
+3. A aplicação preenche automaticamente campos como capital, população, área e moeda (quando disponível).
+
+### 2.3) Editar e excluir
+- **✏️ Editar**: abre modal para alteração.
+- **🗑️ Excluir**: remove o país.
+  - Observação: cidades vinculadas ao país ficam com o campo de país vazio (dependendo do seu uso). 
+
+---
+
+## 3) Como usar a aba “Continentes”
+
+### 3.1) Cadastrar continente
+1. Preencha:
+   - Nome
+   - Área (km²)
+   - População
+   - Países (quantidade)
+   - Notas
+2. Clique em **“💾 Salvar Continente”**.
+
+### 3.2) Preencher padrão (seed)
+- Clique em **“🌍 Preencher padrão”** para inserir os 7 continentes automaticamente (se ainda não existirem no navegador).
+
+---
+
+## 4) Como usar a aba “Cidades”
+
+### 4.1) Cadastrar cidade
+1. Preencha:
+   - Nome da cidade
+   - País
+   - População
+   - Latitude (c-lat)
+   - Longitude (c-lng)
+   - Tipo (capital / metrópole / cidade / município)
+2. Clique em **“💾 Salvar Cidade”**.
+
+### 4.2) Buscar cidade via API (automático)
+No formulário de **Cadastrar Cidade**, use o botão:
+
+- **“🔍 Buscar cidade via API”**
 
 Ao clicar:
-1. Lê o texto digitado em **`c-nome`**.
-2. Chama a API de geocoding (Open-Meteo):
-   - `https://geocoding-api.open-meteo.com/v1/search`
+1. A aplicação lê o texto do campo **`c-nome`**.
+2. Consulta a **Open-Meteo Geocoding API**.
 3. Preenche automaticamente:
-   - `c-nome` (nome normalizado da API)
-   - `c-lat`
-   - `c-lng`
-   - `c-populacao` (quando disponível no retorno da API)
-4. Se o retorno trouxer o país e ele existir no seu select `c-pais`, tenta selecionar automaticamente.
+   - **`c-nome`** (nome normalizado)
+   - **`c-lat`** (latitude)
+   - **`c-lng`** (longitude)
+   - **`c-pais`** (apenas se o país retornado existir exatamente no seu select de países)
+4. Revise os campos e clique em **“💾 Salvar Cidade”**.
 
-> Dica: após a busca, revise os campos e clique em **💾 Salvar Cidade**.
+> Dica: se a cidade não for encontrada, tente outro nome ou inclua cidade + país (ex: “Paris França”).
 
-### 4) Clima
-- Consulta por:
-  - select de cidades cadastradas com lat/lng, **ou**
-  - coordenadas informadas manualmente (`cl-lat` e `cl-lng`).
-- A API utilizada:
-  - `https://api.open-meteo.com/v1/forecast`
-- Exibe:
-  - condição atual e temperatura
-  - umidade, vento e cobertura de nuvens
-  - previsão para 7 dias
-- Mantém histórico das consultas na tela.
+### 4.3) Editar e excluir
+- **✏️ Editar**: abre modal para alteração.
+- **🗑️ Excluir**: remove a cidade.
 
 ---
 
-## Como executar
+## 5) Como usar a aba “Clima”
+
+### 5.1) Consultar via seleção
+1. No campo **“Selecionar Cidade”**, escolha uma cidade cadastrada que tenha **lat/lng**.
+2. A consulta acontece automaticamente ao selecionar.
+
+### 5.2) Consultar manualmente
+1. Preencha:
+   - Latitude (**cl-lat**)
+   - Longitude (**cl-lng**)
+2. Clique em **“🌡️ Ver Clima”**.
+
+### 5.3) O que é exibido
+- Clima atual (condição e temperatura)
+- Umidade, vento e cobertura de nuvens
+- Previsão para 7 dias
+- Histórico das consultas realizadas
+
+---
+
+## 6) Como executar
 
 1. Abra o arquivo **`CrudMundo.html`** no navegador.
-   - (Por ser uma página estática com JS no próprio HTML, normalmente funciona apenas abrindo.)
-
-2. Se for necessário, use um “Live Server” (VSCode) para evitar bloqueios de recursos/ambiente.
+2. Se algum recurso não carregar corretamente, use um **Live Server** (por exemplo, a extensão do VSCode) para evitar bloqueios.
 
 ---
 
-## Estrutura do projeto
+## 7) Endpoints usados (referência)
 
-- `CrudMundo.html`
-  - Todo o front-end e lógica (IndexedDB + chamadas de API + UI).
-- `style.css`
-  - Estilos do layout e componentes.
+- **Geocoding (cidade)**
+  - `https://geocoding-api.open-meteo.com/v1/search?name={nome}&count=5&language=pt&format=json`
 
----
-
-## Observações técnicas
-
-- **IndexedDB**: criação automática das stores na primeira execução.
-- **APIs sem chave**:
-  - Geocoding: Open-Meteo Geocoding API
-  - Clima: Open-Meteo Forecast API
-- **Cidades e Clima**: o clima só funciona se houver lat/lng válidos.
-
----
-
-## API endpoints usados
-
-### Geocoding (cidade)
-- `https://geocoding-api.open-meteo.com/v1/search?name={nome}&count=5&language=pt&format=json`
-
-### Clima (forecast)
-- `https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lng}&current=temperature_2m,...&daily=temperature_2m_max,...&timezone=auto&forecast_days=7`
-
----
-
-## Próximos aprimoramentos (opcional)
-- Paginação/virtualização para grandes listas.
-- Autocompletar e escolha de múltiplos resultados quando a geocoding retornar várias opções.
-- Melhor mapeamento de país (ex: fuzzy match do select `c-pais`).
+- **Clima (forecast)**
+  - `https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lng}&current=...&daily=...&timezone=auto&forecast_days=7`
 
