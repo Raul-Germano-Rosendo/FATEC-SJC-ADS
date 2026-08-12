@@ -40,7 +40,7 @@ Restrição: O sistema deve ser implementado em Java. A arquitetura deve ser bas
 ## Validação & Gerenciamento
     Como validar? 
     Evite contruir a coisa errada por meio da prototipagem rápida e testes de aceitação orientados por requisitos.
-    Revisões sistémicas de requisitos com desenvolvedores e clientesprevine problemas de ambiguidade que custam caro se detectados tardiamente em fase de homologação.
+    Revisões sistémicas de requisitos com desenvolvedores e clientesprevine problemças de ambiguidade que custam caro se detectados tardiamente em fase de homologação.
 
     Gestão de Mudanças
     Os requisitos mudam à medida que o entendimento do cliente sobre o problema evolui.
