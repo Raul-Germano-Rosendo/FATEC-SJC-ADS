@@ -109,6 +109,6 @@ exemplo:[ssh -i ".\Teste.pem" ubuntu@124.25.12.0]<br>
     sudo apt update
     sudo apt upgrade
     sudo apt-cache search openssh-server
-    sudo apt install oppenssh-server -y
+    sudo apt install openssh-server -y
     sudo apt-cache search net-tools
     sudo netstat
