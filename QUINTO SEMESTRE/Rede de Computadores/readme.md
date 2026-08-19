@@ -100,7 +100,9 @@ Funciona da seguinte maneira: <br>
 
 ssh -i(caso utilize chave)"NomeDaChave.pem" usuario@IP(local ou publico) [caso utilize a porta 22 padrao]<br>
 ssh -i(caso utilize chave)"NomeDaChave.pem" usuario@IP(local ou publico) -p(numero da porta utilizada sem default)
+
 <br>
+
 exemplo:[ssh -i ".\Teste.pem" ubuntu@124.25.12.0]<br>
 0 - 1023 (Portas Baixas)
 
@@ -112,3 +114,7 @@ exemplo:[ssh -i ".\Teste.pem" ubuntu@124.25.12.0]<br>
     sudo apt install openssh-server -y
     sudo apt-cache search net-tools
     sudo netstat
+
+### Manual
+    man (nome do comando)
+
