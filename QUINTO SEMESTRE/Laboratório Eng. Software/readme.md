@@ -134,3 +134,7 @@ Event-Driven & Serverless: Orientada a eventos e sobre demanda
 |Cobrança estritamente pelo uso (Serverless)           |Possibilidade de "Cold Start" em funções Serverless|
 |Alta Capacidade de resposta em tempo real             |Vendor Lock-In com provedores de nuvem             |
 |Escalabilidade automática e transparente              |Curva de aprendizado no modelo reativo             |
+
+
+
+
